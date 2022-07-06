@@ -22,7 +22,7 @@
                     </nuxt-link>
                 </div>
                 <!-- Menu -->
-                <div class="absolute flex flex-col justify-between w-full h-full top-0 px-6 pb-10 z-10 duration-500 ease-in-expo overflow-hidden bg-white lg:relative lg:flex lg:flex-row lg:items-center lg:w-auto lg:px-0 lg:pb-0 lg:overflow-visible"
+                <div class="absolute flex flex-col w-full h-full top-0 px-6 z-10 duration-500 ease-in-expo overflow-hidden bg-white lg:justify-between lg:relative lg:flex lg:flex-row lg:items-center lg:w-auto lg:px-0 lg:pb-0 lg:overflow-visible"
                     :class="active ? 'h-[100vh]' : 'pointer-events-none lg:pointer-events-auto'">
                     <ul class="menuList uppercase text-xl font-semibold pt-28 transform duration-700 ease-in-out divide-y divide-gray/[.20] lg:divide-y-0 lg:flex lg:items-center lg:content-center lg:text-sm lg:pt-0 lg:h-full"
                         :class="active ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8 lg:opacity-100 lg:-translate-y-0'">
@@ -81,8 +81,8 @@
                         </li>
                     </ul>
                     <button
-                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer transition lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
-                        :class="active ? 'opacity-100 duration-500 delay-300' : 'opacity-0 duration-200 delay-0 lg:opacity-100'">
+                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer transform duration-700 delay-100 lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
+                        :class="active ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8 lg:opacity-300 lg:-translate-y-0'">
                         <a :href="urls.ava"
                             class="flex items-center justify-center w-full h-full uppercase text-xl font-semibold text-white lg:text-sm lg:py-2 lg:px-6"
                             target="_blank" rel="noopener noreferer">login</a>
@@ -108,7 +108,7 @@
                     <a href="tel:08007276282" class="font-bold secondTextColor">0800 727 6282</a>
                 </div>
                 <!-- Menu -->
-                <div class="darkBgColor absolute flex flex-col justify-between w-full h-full top-0 px-6 pb-10 z-10 duration-500 ease-in-expo overflow-hidden lg:relative lg:flex lg:flex-row lg:items-center lg:w-auto lg:px-0 lg:pb-0 lg:overflow-visible"
+                <div class="darkBgColor absolute flex flex-col w-full h-full top-0 px-6 z-10 duration-500 ease-in-expo overflow-hidden lg:justify-between lg:relative lg:flex lg:flex-row lg:items-center lg:w-auto lg:px-0 lg:pb-0 lg:overflow-visible"
                     :class="active ? 'h-[100vh]' : 'pointer-events-none lg:pointer-events-auto'">
                     <ul class="menuList text-white/50 uppercase text-xl font-semibold pt-28 transform duration-700 ease-in-out divide-y divide-gray/[.20] lg:divide-y-0 lg:flex lg:items-center lg:content-center lg:text-sm lg:pt-0 lg:h-full"
                         :class="active ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8 lg:opacity-100 lg:-translate-y-0'">
@@ -167,8 +167,8 @@
                         </li>
                     </ul>
                     <button
-                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer transition lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
-                        :class="active ? 'opacity-100 duration-500 delay-300' : 'opacity-0 duration-200 delay-0 lg:opacity-100'">
+                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer transform duration-700 delay-100 lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
+                        :class="active ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8 lg:opacity-300 lg:-translate-y-0'">
                         <a :href="urls.ava"
                             class="flex items-center justify-center w-full h-full uppercase text-xl font-semibold text-white lg:text-sm lg:py-2 lg:px-6"
                             target="_blank" rel="noopener noreferer">login</a>
@@ -901,7 +901,6 @@ export default {
             meta: [
                 {
                     name: 'theme-color',
-                    media: '(prefers-color-scheme: dark)',
                     content: this.projects[this.slug].iniciais == 'certificacoes-projetos' || this.projects[this.slug].iniciais == 'certificacoes-financeiras' || this.projects[this.slug].iniciais == 'certificacoes-ti' || this.projects[this.slug].iniciais == 'cursos-por-area-de-interesse' ? '#181A1D' : '#FFFFFF'
                 }
             ]
