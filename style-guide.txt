@@ -1,0 +1,42 @@
+Configurações
+    tailwind.config.js
+    /assets/css/tailwindUtilities.css
+    /assets/css/reset.css
+
+Sections
+    py-24
+
+Colors
+    green: #00A9A0
+    green hover: #30BFB8
+    blue: #5F96E7
+    blue hover: #7BAAEF
+    bg-yellow-400
+
+    h1: text-green-500
+    h2: text-gray-700
+    base: text-gray-600
+
+    Linhas de divisões
+        gray/[.20]
+    
+    Gray hover
+        gray/[.07]
+
+Fonts sizes & family
+
+    Family
+        h1: Poppins
+        Base: PlusJakartaSans
+
+    Sizes
+        h1
+            text-5xl
+            font-bold
+        
+        h2
+            text-2xl
+            font-semibold
+
+        h3
+            text-sm

@@ -1,0 +1,11 @@
+<svg width="106" height="10" viewBox="0 0 106 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle r="4" transform="matrix(-1 0 0 1 101.5 5)" stroke="#EA52A2"/>
+<circle r="2.5" transform="matrix(-1 0 0 1 101.5 5)" fill="#EA52A2"/>
+<line y1="-0.5" x2="98" y2="-0.5" transform="matrix(-1 0 0 1 98 5.5)" stroke="url(#paint0_linear_365_85)"/>
+<defs>
+<linearGradient id="paint0_linear_365_85" x1="98" y1="0" x2="0" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="1" stop-color="#EA52A1"/>
+</linearGradient>
+</defs>
+</svg>

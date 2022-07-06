@@ -1,0 +1,1217 @@
+{
+    "oab": {
+        "id": "1799",
+        "canonical": "oab",
+        "iniciais": "oab",
+        "head": {
+            "title": "Curso OAB Online. Preparatório Exame de Ordem (OAB) – Aprova Concursos",
+            "description": "Seja Aprovado no Exame de Ordem (OAB). Cursos para a 1ª e 2ª fases. Com a nossa técnica você verá que passar no Exame da OAB é Fácil. Confira!",
+            "favicon": "/oab/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "/oab/#inicio",
+                "title": "início"
+            },
+            {
+                "url": "/oab/#cursos",
+                "title": "cursos"
+            },
+            {
+                "url": "/oab/#depoimentos",
+                "title": "depoimentos"
+            }
+        ],
+        "assets": {
+            "logoPath": "oab/logo.webp",
+            "logoAlt": "Logotipo Aprova Exame de Ordem",
+            "videoUrl": "https://www.youtube.com/embed/y-ew5FFNCmY?rel=0&showinfo=0&modestbranding=1"
+        },
+        "theme": {
+            "mainColor": "0, 169, 160",
+            "mainColorHover": "48, 191, 184",
+            "secondColor": "0, 169, 160",
+            "secondColorHover": "48, 191, 184",
+            "darkBgColor": "30, 35, 35"
+        },
+        "testimonials": [
+            {
+                "date": "13/01/2021",
+                "author": "Victor",
+                "depoiment": "Boa tarde a todos do aprova. Esta mensagem é para agradecer imensamente a todos da equipe. Fui aprovado recentemente no XXXI Exame de Ordem. Sem dúvida alguma, a contribuição por meio das aulas do Aprova Concursos foi essencial para o alcance deste objetivo. Agradeço a todos os professores, em especial, a equipe de Civil e Processo Civil, professora Reyvani Jabour, professor Gustavo Faria, professor Guilherme Correa."
+            },
+            {
+                "date": "13/01/2021",
+                "author": "Roberto",
+                "depoiment": "Expresso aqui o meu agradecimento a toda equipe do Curso Aprova por minha aprovação na segunda fase do XXXI exame de ordem da OAB em Direito do Trabalho."
+            },
+            {
+                "date": "31/05/2019",
+                "author": "Arlindo",
+                "depoiment": "Boa noite, gostaria de parabenizar o professor de Direito Penal Guilherme, pois ele me deu muita confiança para estudar e me esforçar. Quero agradecer a todos os professores, pois tive a minha aprovação no XXVIII Exame de Ordem. Eu estou muito satisfeito com o curso Aprova! Um abraço a todo!"
+            },
+            {
+                "date": "30/05/2019",
+                "author": "David",
+                "depoiment": "Olá, sou muito grato ao curso que me ajudou muito, excelentes professores e material atual. Estava sem prestar nenhum exame pra ordem há 4 anos e já havia prestado outras 5 vezes, todas passava da 1ª fase mas não atingia a nota na 2ª fase... Fiquei meio cético no inicio, mas precisava de um curso barato por questões financeiras e me surpreendi com a qualidade do material! Consegui minha aprovação no exame de Ordem (CONSTITUCIONAL, prof. Kozikoski é show!) e estou muito feliz pois para mim representa um alivio muito grande ante toda a trajetória de luta que foi até esse momento em decorrência de problemas de saúde e outros fatores que me faziam sentir-me frustrado. Obrigado aos professores! Funciona Mesmo! é dedicar-se e seguir as dicas sem querer inventar que funciona!"
+            },
+            {
+                "date": "18/03/2019",
+                "author": "Fernando",
+                "depoiment": "Gostaria de agradecer imensamente a vocês. Assisti quase todas as aulas. Assisti as revisões. Fiz muitos simulados. Adorei tudo e muita coisa tratada nas aulas, caiu na prova.  Com a ajuda de vocês cravei 60 pontos. Sinceramente não esperava. Acreditava na vitória, mas com um placar apertado, e vocês me possibilitaram essa goleada. Aqui do Maranhão, meu coração atravessa o Brasil para abraçar e agradecer cada um de vocês. E vamos para a 2ª fase em Trabalho"
+            },
+            {
+                "date": "13/07/2018",
+                "author": "Ronan",
+                "depoiment": "Hoje venho com muita alegria, agradecer a equipe de professores do Aprova Concursos, por terem me ajudado na preparação para o XXV exame da OAB, o qual consegui ser aprovado na primeira tentativa, tendo um ótimo desempenho na peça prático profissional. Ressalto que as orientações fornecidas no decorrer do curso de preparação foram de suma importância e decisivas para a minha aprovação. No Aprova Concursos não há espaço para brincadeira e sim muito estudo e dedicação. Parabéns a todos mestres e o meu muito obrigado por fazerem parte dessa nossa vitória. Realmente com o Aprova Concurso passar é fácil."
+            },
+            {
+                "date": "10/04/2018",
+                "author": "Cléber",
+                "depoiment": "Passo por aqui para deixar meus sinceros agradecimentos aos professores do curso de preparação para o XXV Exame de Ordem. Sou aluno do 9º semestre do curso de Direito da cidade de Americana/SP e fiz o referido exame tendo sido aprovado em minha primeira tentativa, graças ao curso Aprova Concursos que me deu grande base e sustentação do conhecimento. Recomendo!"
+            },
+            {
+                "date": "28/03/2018",
+                "author": "Fábio",
+                "depoiment": "Fiquei desempregado devido à crise atual do mercado, recebia uma remuneração muito boa e nesse ano perdi minha estabilidade financeira e a de minha família. Tenho encontrado suporte e criando esperança nas suas aulas, que conseguem proporcionar um valor acessível para aquisição e com excelente qualidade. As dicas e orientações me trouxeram um controle melhor sobre a minha situação de ansiedade. Irei aproveitar o meu desemprego para primeiramente ter minha aprovação na OAB. Em segundo lugar, irei estudar junto com vocês para aminha aprovação em um concurso público e nunca mais ficarei desempregado, pois a fase mais difícil de adaptação aos estudos já passou. Agora pela primeira vez na minha vida estou conseguindo me dedicar aos estudos sem nenhuma dificuldade. Acredito que isso foi em razão da didática de seus professores, pois já assisti as aulas da OAB e todas são excelentes. Sou fã do professor de Administrativo (Leonardo Torres), pois com as aulas dele obtive o acerto em todas as questões de administrativo."
+            },
+            {
+                "date": "19/03/2018",
+                "author": "José",
+                "depoiment": "Comprei o curso completo e passei na primeira e segunda fase do XXIV Exame de Ordem. Ótimos professores e aulas! Recomendo o curso a todos."
+            },
+            {
+                "date": "16/03/2018",
+                "author": "Ivanilton",
+                "depoiment": "Olá! Quero agradecer aos professores, pois comprei o curso de Direito Civil e suas explicações e resoluções de questões me ajudaram e muito a conseguir passar na segunda fase do XXIV Exame de Ordem. O modo de resolução foi crucial para aprender realmente e dominar as questões."
+            },
+            {
+                "date": "12/03/2018",
+                "author": "Marcos",
+                "depoiment": "Adquiri o curso completo da segunda fase do XXIV Exame da OAB, gostei bastante, o curso é muito bom e o valor é justo. Indico!"
+            },
+            {
+                "date": "26/02/2018",
+                "author": "Everaldo",
+                "depoiment": "Fui aprovado no XXIV Exame da OAB assistindo as videoaulas de Direito Constitucional do Aprova Concursos. Confesso que de início não botei muita fé, pois eram poucas aulas em relação as dispostas em outros cursos. Mas gostei das explicações e sinceridade do professor Antônio. Resolvi acreditar e não deu outra, fui aprovado. Já era cliente do Aprova Concursos, agora sou fã mais ainda e estou indicando para vários colegas. Obrigado!"
+            },
+            {
+                "date": "26/02/2018",
+                "author": "José",
+                "depoiment": "Fui aprovado no XXIV Exame de Ordem!"
+            },
+            {
+                "date": "22/02/2018",
+                "author": "Francisco",
+                "depoiment": "Agradeço a toda equipe do Aprova. Em especial ao grande mestre Christiano Gonzaga pelos eficientes ensinamentos em Direito Penal que me proporcionou lograr aprovação no XXIV Exame da OAB. Profissionais excelentes e maestros em proporcionar aprovações. Deus abençoe a toda equipe do Aprova."
+            },
+            {
+                "date": "20/02/2018",
+                "author": "José",
+                "depoiment": "Quero agradecer ao Aprova Concursos, graças a aulas sucintas e objetivas consegui passar de primeira no XXIV Exame da OAB antes de concluir a graduação. Agradeço aos vários professores desta equipe por esta conquista e recomendo o Aprova Concursos."
+            },
+            {
+                "date": "20/02/2018",
+                "author": "Ailton",
+                "depoiment": "Passei no XXIV Exame de Ordem estudando pelo Aprova. Fiz a prova de Direito Constitucional. Prof. Kozikoski é fera! Recomendo!"
+            },
+            {
+                "date": "13/12/2017",
+                "author": "Nathalia",
+                "depoiment": "Obrigada equipe do Aprova Concursos e ao Prof. Antonio Kozikoski! Passei na primeira fase do XXIV Exame de Ordem e vocês me ajudaram muito!"
+            },
+            {
+                "date": "12/12/2017",
+                "author": "Flaviano",
+                "depoiment": "Eu gostaria de agradecer primeiramente a Deus e a todos os professores do curso, e dizer que realmente dessa vez deu tudo certo. Assegurei a minha vaga para a segunda fase em Direito do Trabalho nesta XXIV edição, e com fé, força e foco espero ser aprovado. Muitíssimo obrigado e vamos em frente!"
+            },
+            {
+                "date": "11/12/2017",
+                "author": "Carlos",
+                "depoiment": "Estudando pelo Aprova consegui aprovação no Exame de Ordem XXIV. É o curso mais prático que já vi, vai direto ao que interessa realmente, sem enrolação. Sem falar no melhor custo-benefício do mercado se comparado com outros do mesmo ramo. É um investimento que vale cada centavo. Eternamente grato a toda equipe que colaborou para essa conquista. Muito obrigado!"
+            },
+            {
+                "date": "21/11/2017",
+                "author": "Rafaella",
+                "depoiment": "Fiz a prova da OAB pela primeira vez agora, XXIII Exame. Gostaria de agradecer à equipe do Aprova e a todos os professores do curso Aprova Exame de Ordem pois obtive êxito e fui aprovada de primeira. A minha formatura terá um gostinho ainda mais feliz por tá ter vencido esta grande e importante etapa que é obter a aprovação no Exame da Ordem."
+            },
+            {
+                "date": "20/11/2017",
+                "author": "Alexandre",
+                "depoiment": "Fiz o curso do Aprova tendo realizado todas as aulas na sequência apresentada. Muitas das questões apresentadas caíram na prova exatamente como foram explicadas. Apesar do tempo exíguo e o grande volume de horas de vídeos, consegui ser aprovado sem precisar de materiais, aulas extras ou leituras fora do que fora apresentado nos vídeos. Professores muito bons, que sabem o ensinam e com ótimas dicas. Parabéns ao Prof. Kozikoski e ao curso Aprova Exame de Ordem. Obrigado professores!"
+            },
+            {
+                "date": "16/11/2017",
+                "author": "Jessica",
+                "depoiment": "Gostaria de agradecer primeiramente a Deus, depois a minha família e amigos, que me apoiaram durante todo meu período de preparação, e por último, mas não menos importante aos meus queridos professores do Aprova Exame de Ordem. Vocês foram fundamentais na minha aprovação no XXIII Exame de Ordem. Que Deus abençoe vocês nessa linda tarefa que é ensinar!"
+            },
+            {
+                "date": "31/10/2017",
+                "author": "Luiz",
+                "depoiment": "Curso Aprova Exame de Ordem, excelência em ensino!"
+            },
+            {
+                "date": "30/10/2017",
+                "author": "Elizabete",
+                "depoiment": "Excelente! Professores maravilhosos, competentes! Devo destacar o professor Christiano Gonçalves. Suas aulas são maravilhosas, tranquilas, sabe ser bem didático, tom de voz que não cansa o aluno, exemplifica com clareza, faz link com Direito Penal e Processo Penal com uma tranquilidade. Não deixa o aluno na mão! Disponibilizou seu WhatsApp! E sempre esclarecia minhas dúvidas! O Aprova deve sentir orgulho por tê-lo na equipe! Estou muito feliz com a minha aprovação e por ter tido professores capacitados, de fácil comunicação, pedagógicos, e bem didáticos; Deus abençoe! Valeu a pena! Recomendo o curso! Ah! Tenho 63 anos de idade. Fazer Direito sempre foi o meu sonho. Na década de 70, morando no interior, não pude ir para a capital (Belo Horizonte). Fiz Magistério em minha cidade mesmo! Fiz Pedagogia! A área da Educação foi muito importante para eu entender o Direito. Realizei o sonho! Fui para a faculdade em 2011. Finalizei o curso em 2015. Colei grau em fevereiro de 2016. Tentei no ano passado fazer o Exame da Ordem. Na primeira vez, fiquei com 39 pontos na primeira fase. Na segunda vez, passei na primeira fase, mas na segunda fiquei para a repescagem, mas não consegui. Decidi tentar novamente, estudado no Aprova Concursos. Fiz a primeira fase, passei! Fiz a segunda e passei depois de fazer um recurso. Consegui, graças a Deus! Agora posso falar. Passei no Exame da Ordem e o curso Aprova merece o mérito pelo meu êxito! Sonho meu? Ser advogada! Agora… à inscrição e receber a tão esperada Carteira da Ordem! Muito obrigada a todas as pessoas que direta ou indiretamente contribuíram para o meu êxito. A Deus, toda honra e toda glória! Consegui na minha terceira tentativa! Mas… Cada vez mais preciso estudar mais e mais na área pretendida e sei que posso contar com o Aprova Concursos e seus maravilhosos professores; E para quem não conseguiu, uma dica: não desista! Tenha fé em Deus, persistência nos estudos, assista às aulas, faça anotações da fala dos professores ou o que eles colocam à lousa! Suas explicações são objetivas e claras. Não deixe para estudar outro dia… Siga um horário seu! Muito obrigada! \"Tudo posso Naquele que me dá força\". É preciso fé e obras. Abraços!"
+            },
+            {
+                "date": "25/10/2017",
+                "author": "Thaís",
+                "depoiment": "Fui aprovada no XXIII Exame com maior índice de reprovação na primeira fase com ajuda do Aprova Exame de Ordem. As aulas de Penal e Processo Penal na segunda fase são excelentes. Ótimos professores e com uma didática sem igual. As aulas têm o tempo certo. Muito obrigada, equipe Aprova Concursos!"
+            },
+            {
+                "date": "24/10/2017",
+                "author": "Cleber",
+                "depoiment": "Gostaria de agradecer a todos os professores do Aprova Exame de Ordem pela boa didática utilizada no curso preparatório para o XXIII Exame. Em especial queria agradecer aos professores Bruno e Rafaela pelos ensinamentos proporcionados em Direito do Trabalho, o qual optei na segunda fase. Parabéns pelo curso e me sinto muito feliz neste momento em poder compartilhar com vocês esta aprovação. Abraços!"
+            },
+            {
+                "date": "13/10/2017",
+                "author": "Íris",
+                "depoiment": "Fiquei muito feliz por ter alcançado meu objetivo, foram muitas horas de estudo e dedicação, as aulas online foram importantíssimas em minha conquista. A qualidade e dedicação dos professores fizeram a diferença pra mim. Muito obrigada!!"
+            },
+            {
+                "date": "11/09/2017",
+                "author": "Ricardo",
+                "depoiment": "Sou Ricardo, e tive o prazer de realizar as excelentes aulas do curso Aprova concurso para a primeira fase da OAB, com aulas muito didáticas e que trouxeram um conhecimento profundo, através de professores altamente capacitados. O curso proporcionou objetividade nas matérias, estudando os assuntos mais relevantes, e acertaram em muito os conteúdos cobrados, trazendo com atualidade tudo o que necessitava. Tenho certeza que sem o acompanhamento do curso, não teria logrado êxito na primeira fase da OAB. Recomendo e aprovo o Aprova concursos!!!!"
+            },
+            {
+                "date": "11/07/2017",
+                "author": "Letícia",
+                "depoiment": "Hoje vim agradecer a equipe do APROVA CONCURSOS por me proporcionar uma das maiores e mais emocionantes sensações que já vivenciei na vida. Fui aprovada no XXII Exame da OAB, e ainda nem me formei, estou no nono semestre. Muito obrigada a todos os professores, em especial ao mestre Antonio Kozikoski, não há palavras suficientes que possam mensurar a grandiosidade desse ser humano, uma pessoa generosa, que muitas vezes se mostra tão próxima, que parece um velho conhecido, se não dizer amigo. Muito obrigada a todos os mestres que fizeram parte dessa grande conquista. Agora eu entendo porque passar é fácil… Com uma equipe dessa não existe outra possibilidade, é passar ou passar."
+            },
+            {
+                "date": "05/04/2017",
+                "author": "Sarah",
+                "depoiment": "Eu gostaria de agradecer à toda equipe do Aprova Concursos, em especial ao curso Antônio Kozikoski, por ter sido aprovada no XXI Exame de Ordem. Eu me formei em Direito em 2011, e nunca tentei prestar o exame, por medo de não passar, e também por desânimo com o curso de Direito, que, para mim, não foi dos mais estimulantes. No ano passado, perdi meu emprego, e os amigos me incentivaram tentar retornar ao curso de Direito. Descobri o Aprova Concursos, entrei em contato, gostei do atendimento online que a moça me prestou e fechei o curso. Adorei. Os professores são TODOS SENSACIONAIS, MARAVILHOSOS. Conseguem inspirar e trazer aquela motivação que falta em muitos alunos, mostrando o quanto o Direito é bonito e instigante. O curso me trouxe a magia e me reviveu o gosto pelo Direito. Que aulas maravilhosas e com o \"material mais completo do Brasil\"!!! O professor Kozikoski é fenomenal, divertido, e passa a sensação de ser muito íntimo, próximo da gente. Aliás, todos os professores conseguem passar uma sensação de proximidade, de amizade, nós temos a percepção de que todos somos uma grande família, um grande grupo de amigos. Já estou com saudades. Parabéns para toda a equipe!"
+            },
+            {
+                "date": "10/03/2017",
+                "author": "Tatiane",
+                "depoiment": "Gostaria apenas de agradecer e compartilhar com este curso maravilhoso a minha alegria de ter sido aprovada no XXI Exame da Ordem com a nota 7,95! Muito obrigada de coração! Pois sem vocês não teria conseguido! Gostaria de enviar um forte abraço a todos os professores de 1ª fase, mas em especial a professora Rafaela, de direito do trabalho, matéria escolhida para a 2ª fase. Fiquei surpresa com a minha nota, pois aprendi direito do trabalho do zero, não sabia nada e com as aulas consegui fazer o RO com êxito! Obrigada!."
+            },
+            {
+                "date": "13/09/2016",
+                "author": "Rosilene",
+                "depoiment": "Agradeço ao APROVA pela a minha vitória na 1ª fase do exame da ordem, pois se não fossem as disponibilidades das aulas e vários acessos em todas as matérias eu não teria tido sucesso na prova em todas as questões. O MEU MUITO OBRIGADA, MUITO BOM MESMO!!!"
+            },
+            {
+                "date": "09/03/2016",
+                "author": "Ana",
+                "depoiment": "Quero agradecer ao Aprova Concursos pelas maravilhosas aulas. Eu já estava tristinha quando fiquei reprovada na primeira vez, quando vi o curso do aprova que cabia perfeitamente em meu orçamento. Não pensei duas vez e chamei uma amiga para embarcar nessa comigo, e hoje para glória de Deus e com todo apoio do Aprova Concursos, posso dizer que sou advogada. Valeu aprova!"
+            },
+            {
+                "date": "19/11/2015",
+                "author": "Ana",
+                "depoiment": "Agradeço a Deus, pela coragem e disposição e ao Aprova, que deram o suporte necessário para a minha aprovação no Exame de Ordem. Obrigado pela dedicação e comprometimento de todos os professores. Isso nos motiva a buscar mais e mais. Sei que dei apenas um passo em direção ao sucesso, mas para percorrer toda a caminhada, é necessário um passo após o outro. Deus abençoe a todos e mais uma vez, muito obrigado. Beijos a todos."
+            },
+            {
+                "date": "17/11/2015",
+                "author": "Alessandro",
+                "depoiment": "Quero agradecer a equipe do Aprova Concursos por ter me ajudado nesse meu primeiro passo para o meu sonho. Fui aprovado no Exame de Ordem. Acertei 54 questões na primeira fase e tirei 8,40 na segunda etapa e devo toda minha gratidão a expertise do professor Kozikoski."
+            },
+            {
+                "date": "13/11/2015",
+                "author": "Vanilse",
+                "depoiment": "Comprei o curso Aprova Concursos. Preparei-me e estudei por ele na minha 1ª fase do Exame de Ordem e fui aprovada com êxito. O curso foi fundamental para a minha preparação na 1ª fase do exame de ordem, me dando uma ótima base para prestar a prova de 2ª fase, na qual veio a minha aprovação. E hoje posso dizer que sou Advogada, e fui aluna do Aprova Concursos! Gostaria de agradecer aos professores da equipe. São feras! E vou continuar prestando concursos públicos e estudando pelas aulas do Aprova Concursos, pois as metodologias das aulas são dinâmicas e ótimas."
+            },
+            {
+                "date": "03/11/2015",
+                "author": "Sandra",
+                "depoiment": "Quero dividir com todos minha alegria. Fui aprovada no exame de ordem. Agradeço a Deus e a equipe do aprova, especialmente ao professor Bruno e a professora Rafaela por toda a dedicação e competência no Direito do Trabalho. Realmente ver meu nome na lista de aprovados é algo indescritível...Brilhei..."
+            },
+            {
+                "date": "30/10/2015",
+                "author": "Jessica",
+                "depoiment": "Agradeço ao Aprova Concursos pela aprovação na primeira e segunda fase da OAB. Os professores são espetaculares. Obrigado Aprova!!!!!"
+            },
+            {
+                "date": "29/10/2015",
+                "author": "Camila",
+                "depoiment": "Estou muito feliz! Valeu equipe do Aprova, estou muito satisfeita com vocês, em especial ao mestre Antonio, de Constitucional. Ótimo, sem palavras para descrever o perfil deste profissional, não há como mensurar! Que você fique por muito tempo na equipe do Aprova, só temos a ganhar. Pretendo continuar os estudos para outros concursos, e reencontrando ele, sei que estarei sendo capacitada adequadamente. Um forte abraço, pessoal. Recomendo o APROVA!"
+            },
+            {
+                "date": "27/10/2015",
+                "author": "Gabriel",
+                "depoiment": "Fui aprovado no Exame de Ordem, graças as aulas do Aprova, principalmente na segunda fase. Um abraço e obrigado pelas aulas!!"
+            },
+            {
+                "date": "26/10/2015",
+                "author": "Luiz",
+                "depoiment": "Que repescagem, que nada! EU FIZ APROVA ! Fui aprovado no Exame da Ordem, alcancei meu objetivo, e dedico esta aprovação ao meu irmão, Dr. Paulo Cesar, falecido em 22/10/2013, e também aos Professores que realmente transmitem conhecimento. Parabéns para nós!"
+            },
+            {
+                "date": "17/10/2015",
+                "author": "Marcio",
+                "depoiment": "Quero agradecer ao professor Kozikoski pelas excelentes aulas de Direito Constitucional e Prática Constitucional. Fui aprovado no Exame de Ordem. O Curso Aprova, aprova mesmo!"
+            },
+            {
+                "date": "28/07/2015",
+                "author": "Luana",
+                "depoiment": "Olá!! Quero agradecer e compartilhar que obtive êxito na primeira fase do Exame de Ordem! Muito obrigada aos professores do Aprova Concursos, por terem me ajudado a conquistar mais essa etapa e também por serem tão acessíveis! O curso está de parabéns pela qualidade!!!"
+            },
+            {
+                "date": "04/07/2015",
+                "author": "Danielle",
+                "depoiment": "Agradeço a Equipe do Aprova Concursos, pela minha Aprovação no Exame da OAB, valeu muito, as dicas dos professores me ajudaram muito, o material bem elaborado, obrigada Professores. Valeu!!!"
+            },
+            {
+                "date": "02/07/2015",
+                "author": "Roberto",
+                "depoiment": "Agradeço, imensamente a equipe do Aprova pela minha aprovação no Exame da OAB. Parabéns a todos os professores. Valeu pelo método! Excelente! Deu certinho! Esse é o caminho! Show de bola, tudo!"
+            },
+            {
+                "date": "09/02/2015",
+                "author": "Laura",
+                "depoiment": "Olá, fui aprovada no Exame de Ordem e essa vitória também é do Aprova!!! Fiquei muito satisfeita com os cursos que fiz para a primeira e segunda fase. Agradeço a toda a equipe de professores para a primeira fase, foram todos nota 10!!! Especialmente, na segunda fase, agradeço aos professores de direito penal, que foram excelentes e muito dedicados na preparação para a prova prático-profissional! A equipe do Aprova é show!!! Parabéns a todos vocês e muito obrigada!!!"
+            },
+            {
+                "date": "09/02/2015",
+                "author": "Simone",
+                "depoiment": "Curso Aprova muito obrigada pela grande vitória em minha vida. Fui aprovada no Exame da OAB, estou muito feliz, pois me dediquei muito assistindo as aulas do Aprova Concursos, vocês estão de parabéns com excelentes professores!!!! Muito obrigadaaaaa! A todos eles que fazem um excelente trabalho. Minha segunda fase foi Direito Penal, nunca irei esquecer do curso e dos professores, pois foram fundamentais para minha aprovação.Obrigada!!! Muita fé em Deus foi imprescindível também para alcançar esta vitória. Valeu!!!"
+            },
+            {
+                "date": "27/12/2012",
+                "author": "Oswaldo",
+                "depoiment": "Estudei para o exame da ordem dos advogados do Brasil, em casa apenas com o material do aprova concursos e consegui a tal sonhada aprovação, estou terminando o processo para conseguir minha habilitação como advogado e iniciar a exercer a profissão, além disso já fui aprovado em outros 22 concursos públicos e estou em fase de homologação do meu recorde como o maior número de aprovações em concursos públicos do Brasil, e a aprova concursos, claro, faz parte desta minha conquista!!!"
+            }
+        ],
+        "faq": [
+            {
+                "question": "Como se preparar para o Exame de Ordem (OAB)?",
+                "answer": "<p>Para uma boa preparação é necessário se dedicar as matérias que são consideradas o tripé da aprovação. Ou seja, você deve focar seus estudos priorizando as disciplinas com maior peso/quantidade de questões.</p><p>Porém, com o Aprova, esta preocupação não é sua! Isso porque, por meio de videoaulas organizadas em formato de plano de estudos, resumimos todo o conteúdo que você precisa saber para passar no Exame de Ordem, de forma rápida, direta, eficaz e sem perda de tempo.</p>"
+            },
+            {
+                "question": "Quando posso fazer a prova do Exame de Ordem (OAB)?",
+                "answer": "<p>Quem já concluiu o curso superior de Direito ou está matriculado no 9.º ou no 10º semestre (ou 5.º ano) já pode se inscrever e realizar a prova do Exame de Ordem. </p>"
+            },
+            {
+                "question": "Como passar no Exame de Ordem (OAB)?",
+                "answer": "<p>A prova é destinada aos bacharéis e estudantes de Direito que comprovem estar matriculados nos últimos dois semestres ou no último ano do curso de graduação em Direito.</p><p>Porém, mesmo que a sua intenção inicial não seja advogar, os principais concursos para a área de Direito exigem o registro na OAB como requisito na posse.</p><p>Então, antes que você comece a sua jornada de estudos com as nossas videoaulas, separamos algumas dicas essenciais:</p><ul class='faq-list'><li>Leia o edital publicado pela OAB e fique por dentro de todas as regras;</li><li>Priorize as matérias que você tem mais dificuldade;</li><li>Leia, releia e resolva questões de exames anteriores;</li><li>Estude também a “letra da lei”;</li><li>Escolha com cuidado a área de 2ª fase;</li><li>No dia da prova, tenha atenção ao emocional, administre seu tempo e preencha com calma o cartão de respostas.</li></ul>"
+            },
+            {
+                "question": "O que mais cai na prova do Exame de Ordem (OAB)?",
+                "answer": "<p>O Exame da OAB é uma prova longa, com duas etapas e muitas disciplinas. Por isso, resolvemos compartilhar com você uma estimativa das matérias mais relevantes e a quantidade de questões que costumam ser cobradas em cada uma delas:</p><ul class='faq-list'><li>Ética – 8 questões</li><li>Direito Civil – 7 questões</li><li>Direito Processual Civil – 7 questões</li><li>Direito Constitucional – 7 questões</li><li>Direito Administrativo – 6 questões</li><li>Direito Penal – 6 questões</li><li>Direito Processual Penal – 6 questões</li><li>Direito do Trabalho – 6 questões</li><li>Direito Processual do Trabalho - 5 questões</li><li>Direito Tributário – 5 questões</li><li>Direito Empresarial – 5 questões</li><li>Direitos Humanos – 2 questões</li><li>Direito Internacional – 2 questões</li><li>ECA – 2 questões</li><li>Direito Ambiental – 2 questões</li><li>Direito do Consumidor – 2 questões</li><li>Filosofia do Direito – 2 questões</li></ul>"
+            },
+            {
+                "question": "Quanto tempo dura a prova do Exame de Ordem (OAB)?",
+                "answer": "<p>Na 1ª fase do Exame de Ordem os candidatos têm 5 horas para concluir a prova. A 2ª fase também tem duração de 5 horas e, diferentemente da parte objetiva, é permitida consulta a legislação não comentada ou anotada.</p>"
+            },
+            {
+                "question": "Como escolher a segunda fase do Exame de Ordem (OAB)?",
+                "answer": "<p>As opções disponíveis são Direito Constitucional, Direito Administrativo, Direito Civil, Direito Penal, Direito do Trabalho, Direito Tributário e Empresarial.</p><p>Diante de tantas disciplinas disponíveis, é normal se sentir confuso. Em primeiro lugar, você deve levar em conta a sua aptidão. Você faz ou fez estágio em alguma área específica? Considere optar pela alternativa que está em “exercício” ou que possui “maior conhecimento”.</p><p>Em segundo lugar, procure se basear no conteúdo que goste, ou que tenha se identificado durante o período de faculdade, pois estudar algo sem ter afinidade é sempre mais complicado.</p><p>Mas, se ainda bater aquela insegurança, consulte as três últimas provas das áreas em que tem mais dúvidas e análise com cuidado a que considerar mais “fácil” de acordo com as suas aptidões.</p>"
+            },
+            {
+                "question": "Como se inscrever no Exame de Ordem (OAB)?",
+                "answer": "<p>Após a divulgação do edital e abertura do período de inscrição, o que geralmente acontece no mesmo dia, é hora de se inscrever.</p><p>Para isso, basta acessar o site da FGV, no período mencionado e preencher o formulário com os dados solicitados.</p><p>Submetido o formulário, é só imprimir o boleto gerado e efetuar o pagamento, efetivando assim, o processo de inscrição.</p>"
+            },
+            {
+                "question": "Quanto custa a inscrição no Exame de Ordem (OAB)?",
+                "answer": "<p>Tendo como base o edital do último exame, a inscrição deve custar, aproximadamente, R$ 260.</p>"
+            }
+        ]
+    },
+    "exame-de-suficiencia-cfc-crc": {
+        "id": "1611",
+        "canonical": "exame-de-suficiencia-cfc-crc",
+        "iniciais": "cfc",
+        "head": {
+            "title": "Curso online Exame de Suficiência 2022 CFC/CRC – Aprova Concursos",
+            "description": "Conquiste seu registro profissional no CRC. Prepare-se com o Aprova. Aqui você não perde tempo e aprende o que é essencial para ser aprovado. Conheça nosso Curso!",
+            "favicon": "/cfc/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "/exame-de-suficiencia-cfc-crc/#inicio",
+                "title": "início"
+            },
+            {
+                "url": "/exame-de-suficiencia-cfc-crc/#cursos",
+                "title": "cursos"
+            },
+            {
+                "url": "/exame-de-suficiencia-cfc-crc/#depoimentos",
+                "title": "depoimentos"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/noticias/?s=CFC",
+                "title": "notícias"
+            }
+        ],
+        "assets": {
+            "logoPath": "cfc/logo.svg",
+            "logoAlt": "Logotipo Aprova Exame de Suficiência",
+            "videoUrl": "https://www.youtube.com/embed/kIDFQsXHipI?rel=0&showinfo=0&modestbranding=1"
+        },
+        "theme": {
+            "mainColor": "95, 150, 231",
+            "mainColorHover": "123, 170, 239",
+            "secondColor": "95, 150, 231",
+            "secondColorHover": "123, 170, 239",
+            "darkBgColor": "30, 31, 35"
+        },
+        "testimonials": [
+            {
+                "date": "",
+                "author": "Bethânea",
+                "depoiment": "Só quero agradecer a todos os professores do Aprova pelo ótimo curso do Conselho Federal de Contabilidade. Ainda não saiu a relação dos aprovados, mas, pela quantidade de acertos, já sei que passei na primeira tentativa no CFC 2020 !!!"
+            },
+            {
+                "date": "",
+                "author": "Marcio",
+                "depoiment": "O curso foi essencial para minha aprovação. Conteúdo foi rico e as dicas foram precisas. Passei na primeira tentativa. Nota 10 para vocês."
+            },
+            {
+                "date": "",
+                "author": "Sandra",
+                "depoiment": "Olá professores e toda equipe do curso de Exame de Suficiência! Gostaria de agradecer e parabeniza-los pela excelência e competência das aulas ministradas. Estou muito feliz por essa conquista!"
+            },
+            {
+                "date": "",
+                "author": "Maria",
+                "depoiment": "Gostaria de agradecer aos professores do Aprova Concursos pelas ótimas aulas e material com conteúdo atualizado. Fiz a prova do Exame de Suficiência 2017/02 e com a permissão de Deus, foco e ótimo material, passei. Estou muito feliz por essa conquista. Parabéns!"
+            },
+            {
+                "date": "",
+                "author": "Eder",
+                "depoiment": "Gostaria de agradecer a toda equipe do Aprova Concursos, em especial os professores pela qualidade do material disponibilizado para os alunos, tanto as videoaulas quanto as apostilas. Força a mais que precisava para a minha aprovação no segundo Exame de Suficiência CFC 2015. Abraço grande a todos!"
+            },
+            {
+                "date": "",
+                "author": "Katia",
+                "depoiment": "Fui aprovada no Exame de Suficiência em 2015 em Minas Gerais"
+            },
+            {
+                "date": "",
+                "author": "Adenilson",
+                "depoiment": "Fui aprovado no Exame de Suficiência do CRC! Realmente o Aprova Concursos ajuda você a se preparar para provas!"
+            },
+            {
+                "date": "",
+                "author": "Anna",
+                "depoiment": "Gostaria de deixar aqui meu agradecimento à equipe do Aprova Concursos. Me formei no final de 2014 e em março de 2015 fiz a prova do CRC e passei. Estudei e acompanhei as aulas aqui e estão de parabéns. Professores qualificados e de excelência. Métodos práticos onde aprendi com muita facilidade. Eu indico!"
+            },
+            {
+                "date": "",
+                "author": "Lucimar",
+                "depoiment": "Gostaria de deixar meu depoimento em relação ao curso do Aprova, elogiando muito. Primeiramente vou agradecer a Deus por ter passado e em segundo agradeço ao curso do Aprova. Tentei por 3 vezes fazer a prova do CRC e não conseguia passar. Pesquisando na internet vi o Aprova Concursos e resolvi fazer o curso. Paguei e comecei a estudar em janeiro de 2015, e quando chegou o dia da prova em 22 de março fui bem confiante, fiz e quando saiu o resultado vi meu nome lá como aprovada. Nem acreditei! Fiquei tão feliz e agora recomendo para meus amigos. Parabéns aos profissionais e responsáveis pelo curso!"
+            },
+            {
+                "date": "",
+                "author": "Wilker",
+                "depoiment": "Quero agradecer imensamente ao APROVA CONCURSOS pois consegui passar na primeira prova do CFC de 2020, acertei 36 questões mais do que o suficiente e estou no último ano de Ciências Contábeis. Muito Obrigado vocês são fera."
+            }
+        ],
+        "faq": [
+            {
+                "question": "O que é Exame de Suficiência de Contabilidade (CFC/CRC)?",
+                "answer": "<p>O Exame de Suficiência é requisito para a obtenção do registro profissional de Contador, e tem como objetivo testar a capacitação, conhecimentos e práticas necessárias ao exercício da Contabilidade.</p>"
+            },
+            {
+                "question": "Quando posso fazer o Exame de Suficiência do CFC/CRC?",
+                "answer": "<p>Organizado pelo Conselho Federal de Contabilidade, o Exame de Suficiência é realizado em duas edições anuais, destinadas aos bacharéis e estudantes do último ano letivo do curso de Ciências Contábeis. As datas são divulgadas no site da organizadora Consulplan. </p>"
+            },
+            {
+                "question": "O que cai no Exame de Suficiência do CFC/CRC?",
+                "answer": "<p>A prova conta com 50 questões, distribuídas entre as disciplinas de Contabilidade Geral, Contabilidade de Custos, Contabilidade Aplicada ao Setor Público, Contabilidade Gerencial, Controladoria, Noções de Direito e Legislação Aplicada, Matemática Financeira e Estatística, Teoria da Contabilidade, Legislação e Ética Profissional, Princípios da Contabilidade e Normas Brasileiras de Contabilidade, Auditoria Contábil, Perícia Contábil e Língua Portuguesa Aplicada.</p>"
+            },
+            {
+                "question": "Como passar no Exame de Suficiência do CFC/CRC?",
+                "answer": "<p>Considerando o valor de 1 ponto para cada questão, para conquistar a aprovação no Exame do CFC você deve acertar, no mínimo, 50% da prova, ou seja, 25 questões, o que totaliza 25 pontos.</p>"
+            },
+            {
+                "question": "Como estudar para o Exame de Suficiência do CFC/CRC?",
+                "answer": "<p>O primeiro passo é garantir uma boa preparação, não adianta sair por aí estudando tudo que vem pela frente! Aqui nesta etapa, você deve contar com uma orientação profissional vinda de cursos preparatórios como o Aprova Concursos. Com um estudo dirigido, contando com professores especialistas na área, você conseguirá dar atenção aos conteúdos que realmente interessam e não perderá tempo estudando errado.</p>"
+            },
+            {
+                "question": "O que é preciso para tirar o CFC/CRC?",
+                "answer": "<p>Após a aprovação, você deve entrar em contato com o Conselho Regional da sua cidade para efetuar o seu registro profissional. A documentação exigida pode variar de acordo com a regionalidade, porém, alguns deles fazem parte de uma lista básica. Confira:</p><ul class='faq-list'><li>1 foto 3x4</li><li>Original e cópia do diploma</li><li>Original e cópia do RG, CPF e comprovante de regularidade com o serviço militar</li><li>Original de cópia da certidão de nascimento ou casamento</li><li>Comprovante de endereço</li><li>Pagamento de anuidade</li></ul>"
+            },
+            {
+                "question": "Onde fazer o exame de suficiência do CFC/CRC? ",
+                "answer": "<p>A prova pode ser realizada nos Estados e Cidades listados abaixo:</p><ul class='faq-list'><li>Acre: Cruzeiro do Sul e Rio Branco</li><li>Alagoas: Maceió </li><li>Amazonas: Manaus </li><li>Amapá: Macapá </li><li>Bahia: Alagoinhas, Barreiras, Eunápolis, Feira de Santana, Irecê, Itabuna, Salvador e Vitória da Conquista </li><li>Ceará: Fortaleza, Juazeiro do Norte e Sobral </li><li>Distrito Federal: Brasília </li><li>Espírito Santo: Cachoeiro de Itapemirim, Linhares e Vitória </li><li>Goiás: Anápolis, Goiânia e Rio Verde Maranhão Imperatriz e São Luís</li><li>Mato Grosso: Barra do Garças, Cáceres, Cuiabá, Rondonópolis, Sinop e Tangará da Serra </li><li>Mato Grosso do Sul: Campo Grande e Dourados </li><li>Minas Gerais: Belo Horizonte, Divinópolis, Governador Valadares, Ipatinga, Juiz de Fora, Montes Claros, Paracatu, Patos de Minas, Poços de Caldas, Pouso Alegre, São João del-Rei, Uberlândia e Varginha </li><li>Pará: Belém, Castanhal, Itaituba, Marabá, Redenção e Santarém </li><li>Paraíba: Campina Grande e João Pessoa </li><li>Paraná: Cascavel, Curitiba, Francisco Beltrão, Londrina, Maringá, Ponta Grossa e Umuarama </li><li>Pernambuco: Caruaru, Petrolina e Recife Piauí Floriano, Parnaíba, Picos e Teresina Rio de Janeiro Campos dos Goytacazes, Niterói, Nova Friburgo, Nova Iguaçu, Petrópolis, Rio de Janeiro e Volta Redonda</li><li>Rio Grande do Norte: Mossoró e Natal </li><li>Rio Grande do Sul: Caxias do Sul, Ijuí, Lajeado, Novo Hamburgo, Passo Fundo, Pelotas, Porto Alegre, Santa Cruz do Sul, Santa Maria, Santo Ângelo e Uruguaiana </li><li>Rondônia: Ji-Paraná, Porto Velho e Vilhena </li><li>Roraima: Boa Vista </li><li>Santa Catarina: Blumenau, Chapecó, Criciúma, Florianópolis, Itajaí, Joaçaba, Joinville e Lages </li><li>São Paulo: Araçatuba, Araraquara, Bauru, Campinas, Jundiaí, Marília, Piracicaba, Presidente Prudente, Ribeirão Preto, Santos, São José do Rio Preto, São José Dos Campos, São Paulo e Sorocaba </li><li>Sergipe: Aracaju</li><li>Tocantins: Araguaína, Gurupi e Palmas</li></ul>"
+            },
+            {
+                "question": "Qual a validade do exame de suficiência CFC/CRC? ",
+                "answer": "<p>De acordo com a Resolução CFC n.º 1.518/2016, todos os profissionais que passaram no Exame de Suficiência podem solicitar seu registro a qualquer tempo, ou seja, não há um prazo de vencimento da aprovação, ela é válida a qualquer tempo.</p>"
+            },
+            {
+                "question": "O que pode levar no dia da prova do CFC/CRC?",
+                "answer": "<p>Segundo o último edital, é necessário levar:</p><ul class='faq-list'><li>documento oficial de identificação original, em condições que permita sua identificação;</li><li>máscara de proteção facial que cubra totalmente nariz e boca;</li><li>caneta esferográfica de tinta azul ou preta e de ponta grossa;</li><li>comprovante de inscrição.</li><li>em razão da pandemia, será ainda permitido ao examinando outros itens de proteção individual, tais como: faceshield, luvas (desde que em material transparente ou semitransparente), frasco de álcool 70% e óculos em material totalmente transparente. </li></ul><p>Será admitido o uso de máquina calculadora, desde que não permita o armazenamento de texto. </p><p>Não é permitida a utilização de livros, anotações, impressos ou qualquer outro material de consulta, protetor auricular, lápis, borracha ou corretivo. </p><p>Também não é permitido ingressar na sala de provas sem o devido recolhimento, com respectiva identificação, dos seguintes equipamentos: bip, telefone celular, walkman, agenda eletrônica, notebook, palmtop, Ipod, Ipad, tablet, smartphone, mp3, mp4, receptor, gravador, fone de ouvido, pen drive, máquina fotográfica, controle de alarme de carro, relógio de qualquer modelo ou pulseiras magnéticas e/ou similares, carteiras etc.</p><p>E ainda, não será permitida, durante a realização da prova escrita, a utilização pelo examinando de óculos escuros (exceto para correção visual ou fotofobia) ou quaisquer acessórios de chapelaria (chapéu, boné, gorro etc.).</p>"
+            }
+        ]
+    },
+    "enem": {
+        "id": "6894",
+        "canonical": "enem",
+        "iniciais": "enem",
+        "head": {
+            "title": "Curso Preparatório ENEM 2022 | Curso Online ENEM – Aprova Concursos",
+            "description": "Seja Aprovado no ENEM. Estude no melhor Curso Preparatório para o ENEM. Videoaulas dinâmicas e fáceis para você aprender o que realmente importa. Confira!",
+            "favicon": "/enem/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "/enem/#inicio",
+                "title": "início"
+            },
+            {
+                "url": "/enem/#cursos",
+                "title": "cursos"
+            },
+            {
+                "url": "/enem/#depoimentos",
+                "title": "depoimentos"
+            }
+        ],
+        "assets": {
+            "logoPath": "enem/logo.svg",
+            "logoAlt": "Logotipo Aprova Enem",
+            "videoUrl": "https://www.youtube.com/embed/XqJhEa_PigM?rel=0&showinfo=0&modestbranding=1"
+        },
+        "theme": {
+            "mainColor": "233, 109, 109",
+            "mainColorHover": "242, 131, 131",
+            "secondColor": "233, 109, 109",
+            "secondColorHover": "242, 131, 131",
+            "darkBgColor": "28, 24, 24"
+        },
+        "testimonials": [
+            {
+                "date": "",
+                "author": "Luiza",
+                "depoiment": "Eu achei o curso muito bom! A didática dos professores também é muito boa. Principalmente os da área de Humanas, como os de História, Literatura… Eu adorei o Prof. Guilherme Shibata, ele é muito bom! Gostei também da parte de Biologia, Química, enfim… Os professores são excelentes, adorei! Eles me ajudaram a conquistar duas bolsas de 100% no ProUni, e também no Sisu para a Federal de Minas Gerais. Foi tudo ótimo!"
+            },
+            {
+                "date": "",
+                "author": "Letícia",
+                "depoiment": "Há 10 anos me formei no ensino médio, tenho 28 anos e estava retornando aos estudos, e decidi fazer o curso extensivo do APROVA para o ENEM no ano de 2015 e estava em busca de uma vaga na melhor faculdade de nutrição aqui do RS. Fiz o curso e gostei muito! Fui aprovada na Universidade Federal de Ciências da Saúde de Porto Alegre, no curso de nutrição. Os professores são ótimos, tudo que foi visto em aula e as dicas que eles deram como especialistas no ENEM me ajudaram muito no dia da prova! Recomendo fortemente o curso para quem está buscando uma vaga e que quer fazer um curso de qualidade no conforto da sua casa. Obrigada ao APROVA , aos professores altamente capacitados! O curso fez a diferença na minha vida. Aprendi muitas coisas não só para o ENEM, mas que inclusive utilizarei na faculdade."
+            },
+            {
+                "date": "",
+                "author": "Aroldo",
+                "depoiment": "Olá!!! Fiz um curso de preparação para um concurso na UFLA – Universidade Federal de Lavras e fui aprovado! Já sou servidor a um ano e meio aqui na instituição. Apostando na fórmula, realizei durante 2014 o preparatório do Enem aqui no Aprova e pasmem, fui bem no provão do Enem cujo resultado saiu dia 13 e, para minha surpresa, também fiz o vestibular para Engenharia Elétrica no CEFET-MG, na modalidade de concorrência ampla e passei em 19.º colocado. Obrigado a equipe de professores!!! Valeu a pena estudar aqui!"
+            },
+            {
+                "date": "",
+                "author": "Camila",
+                "depoiment": "Estudei com o Aprova para o Enem e passei na Universidade Federal Rural do Rio de Janeiro! Muito feliz!"
+            },
+            {
+                "date": "",
+                "author": "Edson",
+                "depoiment": "Eu me formei em direito em 2003. Em virtude de tempo e condições financeiras não tive como fazer um curso preparatório para OAB. Após conhecer o Aprova, eu me matriculei em dois cursos, um foi o preparatório do Enem, e fui aprovado na Fuvest. E o outro foi o preparatório para a OAB, e fui agraciado com a aprovação no Exame de Ordem VI Unificado. A formatação do curso permitiu que eu revisasse sempre as aulas, além do que as assisti nos meus horários disponíveis. Foi excelente e ainda guardo o conteúdo."
+            },
+            {
+                "date": "",
+                "author": "Wellen",
+                "depoiment": "Hoje recebi uma notícia que me deixou MUITO feliz. Fui aprovada em Medicina na Universidade Federal do Vale do São Francisco - Univasf!!! Já tinha sido aprovada, no inicio do ano, em Odontologia na Universidade Federal de Pernambuco - UFPE! Essas minhas conquistas foram frutos da minha determinação e, é claro, de todos os professores do Aprova no Enem, que estiveram comigo desde o início dos meus estudos. Eles me apoiaram mesmo que de longe! Amei o ensino que vocês me proporcionaram e fiquei realizada após fazer somente 1 ano de cursinho com vocês. Obrigada a todos os professores e à equipe que se mostrava bem competente!"
+            },
+            {
+                "date": "",
+                "author": "Letícia",
+                "depoiment": "Há 10 anos me formei no ensino médio, tenho 28 anos e estava retornando aos estudos, e decidi fazer o curso extensivo do APROVA para o ENEM no ano de 2015 e estava em busca de uma vaga na melhor faculdade de nutrição aqui do RS. Fiz o curso e gostei muito! Fui aprovada na Universidade Federal de Ciências da Saúde de Porto Alegre, no curso de nutrição. Os professores são ótimos, tudo que foi visto em aula e as dicas que eles deram como especialistas no ENEM me ajudaram muito no dia da prova! Recomendo fortemente o curso para quem está buscando uma vaga e que quer fazer um curso de qualidade no conforto da sua casa. Obrigada ao APROVA , aos professores altamente capacitados! O curso fez a diferença na minha vida. Aprendi muitas coisas não só para o ENEM, mas que inclusive utilizarei na faculdade."
+            },
+            {
+                "date": "",
+                "author": "Luan",
+                "depoiment": "Aprova Concursos, um dia resolvi que precisava estudar, que eu queria fazer uma faculdade, realizar meu sonho de ser engenheiro. Esse dia foi no início do ano passado. Mesmo tendo estudado somente em escola pública, e já a conclui faz 6 anos (2010) resolvi fazer o ENEM para pleitear uma vaga pelo Prouni, para isso comprei um curso, um pouco com medo, esse curso era o Aprova no ENEM 2015. Eis que essa atitude viria a se tornar um dos passos mais importantes de toda a minha vida. Trabalho durante o dia todo e estudava sozinho toda madrugada com o Aprova no ENEM, aprendi muitas coisas, tudo que eu precisava saber para fazer uma excelente prova e me tornei fã de cada um dos professores, tanto pela inteligencia e forma didática quanto pela maneira que eles davam as aulas; de forma engraçada e sempre sempre nos incentivando ao máximo se importando com a gente. Por fim acabei indo tão bem no ENEM que pude escolher o curso que eu quisesse pelo prouni e praticamente todos pelo SISU. Dia 15 início as aulas de Engenharia Química na Usp, e só tenho a agradecer à equipe Aprova concursos e a cada um dos professores. Muitoooo Obrigadooo a Todoss vocês!"
+            },
+            {
+                "date": "",
+                "author": "Alini",
+                "depoiment": "É com muita felicidade e satisfação que venho através deste informar que fui aprovada na UFPR. As videoaulas do Aprova Concursos foram o meu material de estudo. Durante quatro meses com 13 horas de estudo eu assisti a praticamente todas as aulas do preparatório para o Enem e para o vestibular, fiz cursinho e parei no terceiro mês, as viíe a ulas foram a única alternativa e foi a melhor de todas, estudei sozinha todos os conteúdos e resolvi todos os exercícios e li textos foi a parte fundamental para a minha conquista. Os cursos são completos e eu fui uma das alunas, posso dizer que o Aprova concursos aprova. Eu fui aprovada."
+            }
+        ],
+        "faq": [
+            {
+                "question": "SOBRE O CURSO",
+                "answer": "<p>Está chegando o seu momento de mandar bem no ENEM. Sim, ainda dá tempo de dar o pontapé inicial para um futuro melhor. Nós estamos aqui para te ajudar. Para isso, criamos um curso preparatório online pensando naquele seu notão no final do ano, que pode, inclusive, levar você para dentro da Universidade. Dá uma olhada:</p><ul class='mt-3'><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>1. Curso com time de professores especialistas no ENEM!</p><p>No curso online você conta com muita informação, agilidade e conhecimento. Por aqui todo mundo se conhece e já trabalha junto há anos. Esse entrosamento você vai perceber o tempo todo. Tem uma seleção de primeira te esperando.</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>2. Estudar para o ENEM pode ser fácil!</p><p>Aqui no Aprova Enem nós preparamos os conteúdos pensando em você. Você tem a disposição um curso preparatório sem frases difíceis, sem explicações complicadas e com muita descontração. Tudo atualizado, específico e no seu ritmo. Nós falamos a sua língua!</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>3. Direto ao ponto</p><p>Aqui as aulas são gravadas por assunto! Fica fácil planejar seus estudos e também encontrar rapidamente aquele conteúdo na mesma hora em que a dúvida aparece.</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>4. É sempre bom revisar o conteúdo do curso!</p><p>Tem muito conteúdo para ver e um tanto de assunto para estudar. Por isso, temos aulas do zero para nivelar o conhecimento dos estudantes. E já que uma revisão não faz mal a ninguém, trouxemos uma super revisão para você.</p></li></ul>"
+            },
+            {
+                "question": "SOBRE O ENEM",
+                "answer": "<p>O Exame Nacional do Ensino Médio (mas pode chamar de Enem) é uma avaliação criada em 1998 pelo Ministério da Educação. Sua nota pode ser a porta de entrada para os estudantes nas universidades públicas do Brasil. Um bom desempenho também pode dar aquela ajuda na hora de conseguir bolsas parciais ou integrais em universidades particulares.</p><p class='mt-3'>Quem vai participar pode se sentir orgulhoso, pois fará parte do maior teste educacional do país e o segundo maior do mundo. São dois dias de provas, com nada mais nada menos que 180 questões de múltipla escolha, divididas em quatro áreas de conhecimento:</p><ul class='mt-3'><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>1. Ciências Humanas e Suas Tecnologias</p><p>História, Geografia, Filosofia e Sociologia;</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>2. Ciências da Natureza e Suas Tecnologias</p><p>Química, Física e Biologia;</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>3. Linguagens, Códigos e Suas Tecnologias</p><p>Língua Portuguesa, Literatura, Língua Estrangeira Inglês ou Espanhol, Artes, Educação Física e Tecnologias da Informação e Comunicação;</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>4. Matemática e Suas Tecnologias</p></li></ul>"
+            }
+        ]
+    },
+    "encceja": {
+        "id": "6895",
+        "canonical": "encceja",
+        "iniciais": "encceja",
+        "head": {
+            "title": "Curso Preparatório ENCCEJA 2022 | Curso Online encceja – Aprova Concursos",
+            "description": "Seja Aprovado no ENCCEJA. Estude no melhor Curso Preparatório para o ENCCEJA. Videoaulas dinâmicas e fáceis para você aprender o que realmente importa. Confira!",
+            "favicon": "/encceja/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "/encceja/#inicio",
+                "title": "início"
+            },
+            {
+                "url": "/encceja/#cursos",
+                "title": "cursos"
+            },
+            {
+                "url": "/encceja/#depoimentos",
+                "title": "depoimentos"
+            }
+        ],
+        "assets": {
+            "logoPath": "encceja/logo.svg",
+            "logoAlt": "Logotipo Aprova encceja",
+            "videoUrl": "https://www.youtube.com/embed/lED1ntIkPdc?rel=0&showinfo=0&modestbranding=1"
+        },
+        "theme": {
+            "mainColor": "243, 102, 57",
+            "mainColorHover": "249, 127, 89",
+            "secondColor": "243, 102, 57",
+            "secondColorHover": "249, 127, 89",
+            "darkBgColor": "24, 15, 12"
+        },
+        "testimonials": [
+            {
+                "date": "06/05/2022",
+                "author": "Junio",
+                "depoiment": "A didática, o conhecimento e segurança do conteúdo passado, a excelência das aulas, com exemplos de como o assunto pode cair na prova, parabéns!!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Eduardo",
+                "depoiment": "Curso ótimo, método de ensino muito bom! Os assuntos são explicados de maneira simplificada e são facéis de entender."
+            },
+            {
+                "date": "28/04/2022",
+                "author": "Lucas",
+                "depoiment": "Professores ótimos, o material também é muito bom, boas explicações, principalmente pelos exemplos que facilitam o entendimento."
+            },
+            {
+                "date": "10/04/2022",
+                "author": "Sayuri",
+                "depoiment": "Ótima didática do curso, interseção com demais matérias, exatamente como é cobrado em prova!"
+            },
+            {
+                "date": "19/04/2022",
+                "author": "Aicha",
+                "depoiment": "Foram as melhores aulas de Direito que já tive, bem explicada, nada maçante, e sem enrolação. Nota 10!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Thallita",
+                "depoiment": "Ótimas aulas, professor sem enrolação, vai direto nos pontos mais importantes da matéria!"
+            },
+            {
+                "date": "11/04/2022",
+                "author": "Beatriz",
+                "depoiment": "Aulas maravilhosas, nunca entendi um conteúdo tão bem!!"
+            },
+            {
+                "date": "11/05/2022",
+                "author": "Regis",
+                "depoiment": "Aulas objetivas, Muito boas. Utilização de palavras fáceis para assimilação do conteúdo. Parabéns!"
+            },
+            {
+                "date": "29/04/2022",
+                "author": "George",
+                "depoiment": "Amei ! Explicações de forma bem clara e com questões, aulas maravilhosas. Ótimas dicas."
+            },
+            {
+                "date": "11/05/2022",
+                "author": "Gustavo",
+                "depoiment": "Ótimas aulas, o que eu não aprendi em vários anos no ensino médio eu aprendi aqui!"
+            }
+        ],
+        "faq": [
+            {
+                "question": "SOBRE O CURSO",
+                "answer": "<p>Está chegando o seu momento de mandar bem no ENCCEJA. Sim, ainda dá tempo de dar o pontapé inicial para um futuro melhor. Nós estamos aqui para te ajudar. Para isso, criamos um curso preparatório online pensando naquele seu notão no final do ano, que pode, inclusive, levar você para dentro da Universidade. Dá uma olhada:</p><ul class='mt-3'><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>1. Curso com time de professores especialistas no ENCCEJA!</p><p>No curso online você conta com muita informação, agilidade e conhecimento. Por aqui todo mundo se conhece e já trabalha junto há anos. Esse entrosamento você vai perceber o tempo todo. Tem uma seleção de primeira te esperando.</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>2. Estudar para o ENCCEJA pode ser fácil!</p><p>Aqui no Aprova Encceja nós preparamos os conteúdos pensando em você. Você tem a disposição um curso preparatório sem frases difíceis, sem explicações complicadas e com muita descontração. Tudo atualizado, específico e no seu ritmo. Nós falamos a sua língua!</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>3. Direto ao ponto</p><p>Aqui as aulas são gravadas por assunto! Fica fácil planejar seus estudos e também encontrar rapidamente aquele conteúdo na mesma hora em que a dúvida aparece.</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>4. É sempre bom revisar o conteúdo do curso!</p><p>Tem muito conteúdo para ver e um tanto de assunto para estudar. Por isso, temos aulas do zero para nivelar o conhecimento dos estudantes. E já que uma revisão não faz mal a ninguém, trouxemos uma super revisão para você.</p></li></ul>"
+            },
+            {
+                "question": "SOBRE O ENCCEJA",
+                "answer": "<p>O Exame Nacional do Ensino Médio (mas pode chamar de Encceja) é uma avaliação criada em 1998 pelo Ministério da Educação. Sua nota pode ser a porta de entrada para os estudantes nas universidades públicas do Brasil. Um bom desempenho também pode dar aquela ajuda na hora de conseguir bolsas parciais ou integrais em universidades particulares.</p><p class='mt-3'>Quem vai participar pode se sentir orgulhoso, pois fará parte do maior teste educacional do país e o segundo maior do mundo. São dois dias de provas, com nada mais nada menos que 180 questões de múltipla escolha, divididas em quatro áreas de conhecimento:</p><ul class='mt-3'><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>1. Ciências Humanas e Suas Tecnologias</p><p>História, Geografia, Filosofia e Sociologia;</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>2. Ciências da Natureza e Suas Tecnologias</p><p>Química, Física e Biologia;</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>3. Linguagens, Códigos e Suas Tecnologias</p><p>Língua Portuguesa, Literatura, Língua Estrangeira Inglês ou Espanhol, Artes, Educação Física e Tecnologias da Informação e Comunicação;</p></li><li class='flex flex-col ml-3'><p class='mainTextColor font-bold'>4. Matemática e Suas Tecnologias</p></li></ul>"
+            }
+        ]
+    },
+    "assinaturas": {
+        "id": "6891",
+        "canonical": "assinaturas",
+        "iniciais": "assinatura",
+        "head": {
+            "title": "Videoaula e curso preparatório para concursos público | Aprova Concursos",
+            "description": "Adquira assinatura completa e acesse todos cursos preparatórios para concursos públicos Assista vídeoaulas  e prepare-se para prestar concursos publicos",
+            "favicon": "/assinaturas/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "https://www.aprovaconcursos.com.br/boleto",
+                "title": "boleto 2ª via"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/noticias/",
+                "title": "notícias"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/noticias/categoria/aprovados/",
+                "title": "hall dos aprovados"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/questoes-de-concurso/",
+                "title": "aprova questões"
+            }
+        ],
+        "assets": {
+            "logoPath": "#",
+            "logoAlt": "#",
+            "videoUrl": "https://www.youtube.com/embed/IGSXhQ17vbs?rel=0&showinfo=0&modestbranding=1"
+        },
+        "theme": {
+            "mainColor": "89, 49, 119",
+            "mainColorHover": "112, 67, 146",
+            "secondColor": "251, 155, 111",
+            "secondColorHover": "251, 177, 143",
+            "darkBgColor": "23, 25, 47"
+        },
+        "testimonials": [
+            {
+                "date": "06/05/2022",
+                "author": "Junio",
+                "depoiment": "A didática, o conhecimento e segurança do conteúdo passado, a excelência das aulas, com exemplos de como o assunto pode cair na prova, parabéns!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Eduardo",
+                "depoiment": "Curso ótimo, método de ensino muito bom! Os assuntos são explicados de maneira simplificada e são facéis de entender."
+            },
+            {
+                "date": "28/04/2022",
+                "author": "Lucas",
+                "depoiment": "Professores ótimos, o material também é muito bom, boas explicações, principalmente pelos exemplos que facilitam o entendimento."
+            },
+            {
+                "date": "10/04/2022",
+                "author": "Sayuri",
+                "depoiment": "Ótima didática do curso, interseção com demais matérias, exatamente como é cobrado em prova!"
+            },
+            {
+                "date": "19/04/2022",
+                "author": "Aicha",
+                "depoiment": "Foram as melhores aulas de Direito que já tive, bem explicada, nada maçante, e sem enrolação. Nota 10!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Thallita",
+                "depoiment": "Ótimas aulas, professor sem enrolação, vai direto nos pontos mais importantes da matéria!"
+            },
+            {
+                "date": "11/04/2022",
+                "author": "Beatriz",
+                "depoiment": "Aulas maravilhosas, nunca entendi um conteúdo tão bem!!"
+            },
+            {
+                "date": "11/05/2022",
+                "author": "Regis",
+                "depoiment": "Aulas objetivas, Muito boas. Utilização de palavras fáceis para assimilação do conteúdo. Parabéns!"
+            },
+            {
+                "date": "29/04/2022",
+                "author": "George",
+                "depoiment": "Amei ! Explicações de forma bem clara e com questões, aulas maravilhosas. Ótimas dicas."
+            },
+            {
+                "date": "11/05/2022",
+                "author": "Gustavo",
+                "depoiment": "Ótimas aulas, o que eu não aprendi em vários anos no ensino médio eu aprendi aqui!"
+            }
+        ],
+        "faq": [
+            {
+                "question": "Fazer a Assinatura Completa gera fidelidade?",
+                "answer": "<p>Não, ao fazer a Assinatura Completa você não ficará preso a nenhum tipo de fidelidade.</p>"
+            },
+            {
+                "question": "A Assinatura Completa pode ser cancelada a qualquer momento?",
+                "answer": "<p>Você poderá cancelar a sua assinatura no momento em que quiser, sem necessidade de pagar qualquer tipo de multa</p>"
+            },
+            {
+                "question": "Como renovar a Assinatura Completa?",
+                "answer": "<p>A renovação da Assinatura Completa é feita de forma automática a cada 30 dias.</p>"
+            },
+            {
+                "question": "O limite do cartão de crédito será comprometido?",
+                "answer": "<p>Não se preocupe, a cobrança acontecerá mês a mês e o único limite descontado será referente ao valor da parcela.</p>"
+            },
+            {
+                "question": "É possível acessar em mais de um navegador ao mesmo tempo?",
+                "answer": "<p>Você poderá acessar o AVA em qualquer navegador de internet, mas não é possível fazê-lo mais de uma vez, simultaneamente, utilizando o mesmo login.</p>"
+            },
+            {
+                "question": "A Assinatura Completa pode ser dividida com outra pessoa?",
+                "answer": "<p>A Assinatura Completa é de uso pessoal e intransferível, ou seja, apenas o assinante poderá acessar o portal AVA com o login e senha criados no momento da compra.</p>"
+            }
+        ]
+    },
+    "certificacoes-financeiras": {
+        "id": "7634",
+        "canonical": "certificacoes-financeiras",
+        "iniciais": "certificacoes-financeiras",
+        "head": {
+            "title": "Curso para Certificação Financeira - Aprova Concursos",
+            "description": "Videoaulas para uma preparação completa para Certificação Financeira/Bancária. Aprenda o essencial para ser aprovado. Conheça nossos cursos!",
+            "favicon": "/certificacoes-financeiras/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "https://www.aprovaconcursos.com.br/certificacoes-ti/",
+                "title": "certificações TI"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/certificacoes-projetos/",
+                "title": "certificações projetos"
+            }
+        ],
+        "assets": {
+            "logoPath": "#",
+            "logoAlt": "#",
+            "videoUrl": "https://www.youtube.com/embed/MpLe8EzD8xg?rel=0&showinfo=0&modestbranding=1"
+        },
+        "theme": {
+            "mainColor": "33, 195, 96",
+            "mainColorHover": "73, 225, 132",
+            "secondColor": "33, 195, 96",
+            "secondColorHover": "73, 225, 132",
+            "darkBgColor": "24, 26, 29"
+        },
+        "testimonials": [
+            {
+                "date": "11/05/2022",
+                "author": "Regis",
+                "depoiment": "Aulas objetivas, Muito boas. Utilização de palavras fáceis para assimilação do conteúdo. Parabéns!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Eduardo",
+                "depoiment": "Curso ótimo, método de ensino muito bom! Os assuntos são explicados de maneira simplificada e são facéis de entender."
+            },
+            {
+                "date": "11/05/2022",
+                "author": "Gustavo",
+                "depoiment": "Ótimas aulas, o que eu não aprendi em vários anos no ensino médio eu aprendi aqui!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Thallita",
+                "depoiment": "Ótimas aulas, professor sem enrolação, vai direto nos pontos mais importantes da matéria!"
+            },
+            {
+                "date": "06/05/2022",
+                "author": "Junio",
+                "depoiment": "A didática, o conhecimento e segurança do conteúdo passado, a excelência das aulas, com exemplos de como o assunto pode cair na prova, parabéns!"
+            },
+            {
+                "date": "19/04/2022",
+                "author": "Aicha",
+                "depoiment": "Foram as melhores aulas de Direito que já tive, bem explicada, nada maçante, e sem enrolação. Nota 10!"
+            },
+            {
+                "date": "29/04/2022",
+                "author": "George",
+                "depoiment": "Amei ! Explicações de forma bem clara e com questões, aulas maravilhosas. Ótimas dicas."
+            },
+            {
+                "date": "11/04/2022",
+                "author": "Beatriz",
+                "depoiment": "Aulas maravilhosas, nunca entendi um conteúdo tão bem!!"
+            },
+            {
+                "date": "28/04/2022",
+                "author": "Lucas",
+                "depoiment": "Professores ótimos, o material também é muito bom, boas explicações, principalmente pelos exemplos que facilitam o entendimento."
+            },
+            {
+                "date": "10/04/2022",
+                "author": "Sayuri",
+                "depoiment": "Ótima didática do curso, interseção com demais matérias, exatamente como é cobrado em prova!"
+            }
+        ],
+        "faq": [
+            {
+                "question": "O que é a certificação CPA20?",
+                "answer": "<p>A Certificação Profissional CPA-20 é necessária aos profissionais que atuam na distribuição de produtos de investimento para clientes dos seguintes segmentos: varejo alta renda, corporate, private, investidores institucionais que trabalham em agências bancárias ou em plataformas de atendimento. </p> <p>Essa certificação é oferecida pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais, mais conhecida por sua sigla ANBIMA. Em outras palavras, é possível dizer que essa certificação serve para comprovar os conhecimentos e habilidades do profissional que atua na área. Afinal, ele vai atuar com a venda de produtos de investimento ou na manutenção de carteiras. </p> <p>A certificação cpa20 é destinada para: </p> <ul> <li>Profissionais que trabalham em instituições que seguem o Código de Certificação da ANBIMA.</li> <li>Profissionais que trabalham em instituições financeiras em geral, mesmo aquelas que não aderiram ao código.</li> <li>Estudantes e profissionais de autarquias ou órgãos públicos.</li> </ul> <p>É importante destacar que para receber a certificação CPA20, é preciso passar por uma prova de conhecimentos e acertar no mínimo 70% das questões. Ou seja, a prova conta com 60 perguntas, portanto, o candidato precisa acertar no mínimo, 42 dessas perguntas para ser aprovado e obter a sua certificação profissional CPA 20. </p> <p>Os principais conteúdos que podem cair no Exame do CPA20 são os seguintes: </p> <ul> <li>Sistema Financeiro Nacional e Participantes do Mercado</li> <li>Compliance Legal, Ética e Análise do perfil do investidor</li> <li>Princípios Básicos de Economia e Finanças</li> <li>Instrumentos de Renda Variável, Renda Fixa e Derivativos</li> <li>Fundos de Investimento</li> <li>Previdência Complementar Aberta</li> <li>Mensuração e Gestão de Performance e Riscos</li> </ul> <p>Também é preciso destacar que existem duas formas de inscrição na prova: se você trabalha em uma empresa ou banco associado da ANBIMA, o setor de RH pode realizar a sua inscrição para a prova. Mas, se você quer obter essa certificação para ingressar em uma empresa, pode fazer a sua candidatura diretamente pelo site da própria ANBIMA. </p> <p>Para se inscrever é necessário pagar uma taxa de participação. Atualmente, o valor é de R$ 537 para não associados e de R$ 448 para aqueles que já são associados. Caso você já possua a certificação e só precise de atualização, a taxa é de R$ 448 para não associados e de R$ 374 para associados.</p> <p>O pagamento dessa taxa pode ser realizado por boleto bancário, ou a vista no cartão de crédito. Mas atenção, não é possível parcelar esse valor. Se o profissional optar pelo cartão de crédito é possível fazer o agendamento do exame imediatamente, assim que a administradora do cartão confirmar o pagamento. Já com a opção de boleto bancário também é necessário confirmar o pagamento, porém leva aproximadamente três dias úteis.</p> <p>O agendamento do exame poderá ser realizado direto no site da ANBIMA após a confirmação do pagamento da taxa de inscrição. Em caso de indisponibilidade no dia marcado, o candidato poderá reagendar a prova no máximo duas vezes, somente se á não estiver confirmado (oito dias antes da prova).</p> <p>Por fim, é importante ressaltar que ao obter a CPA-20, o profissional pode, automaticamente, exercer também as atividades abrangidas pela CPA-10.</p>"
+            },
+            {
+                "question": "CERTIFICAÇÕES FINANCEIRAS: ABECIP CA 300 e ABECIP CA 600 - Qual a diferença? Qual escolher?",
+                "answer": "<p>As certificações da Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (Abecip) são destinadas para quem atua ou deseja trabalhar com a comercialização de produtos de crédito imobiliário. Mas, é importante ressaltar que existem dois tipos de certificação: a CA-300 e a CA-600 e existem diferenças entre elas.</p> <p>A certificação ABECIP CA-300 é destinada a profissionais que desejam trabalhar com a comercialização de produtos de crédito imobiliário. Ela se destina aos correspondentes que atuam nessa área. Além de reconhecer a experiência e capacidade técnica do profissional, o certificado ABECIP CA-300 também visa promover a melhoria da qualidade das informações que são repassadas aos consumidores.</p> <p>Por outro lado, a CA-600 tem como principal objetivo promover o aperfeiçoamento de quem atua na área de crédito imobiliário e na estruturação de operações financeiras baseada em imóveis. Mas, essa certificação também pode ser muito útil àqueles que, apesar de ainda não atuarem efetivamente, buscam uma boa qualificação para iniciar neste segmento já com um certificado no currículo.</p> <p>Além de promover a melhoria da qualidade das informações repassadas ao consumidor e demais públicos, o Programa de Certificação ABECIP CA 600 tem ainda como premissa reconhecer a capacidade técnica e experiência do profissional de crédito imobiliário, incentivando sua atualização, dando maior credibilidade aos associados e não associados, elevando os padrões de conduta ética e fortalecendo o mercado de crédito imobiliário, que está sempre em ampla expansão.</p> <p>Esse certificado é obrigatório para os profissionais que tenham contato com clientes e atuem exclusivamente na comercialização de produtos de crédito imobiliário, de acordo com o Normativo do Sistema de Autorregulação Bancária da Febraban Nº 009/2013.</p> <p>Tanto a inscrição para abecip ca 300 quanto a da certificação abecip ca-600 podem ser feitas no site da Associação Brasileira das Entidades de Crédito Imobiliário e Poupança. No site da ABECIP estão listados todos os conteúdos que podem ser cobrados na Prova da CA-300. São eles: </p> <ul> <li>Sistema Financeiro Nacional – SFN</li> <li>Sistema Financeiro da Habitação – SFH</li> <li>Sistema de Financiamento Imobiliário – SFI</li> <li>Negócios e Garantias Imobiliárias</li> <li>Produtos para Pessoa Física</li> <li>Seguros/Seguradoras</li> <li>Código de Defesa do Consumidor/Ouvidoria/Ética</li> <li>Matemática Financeira</li> </ul> <p>Da mesma forma, confira abaixo quais são os temas que mais aparecem no exame para certificação CA-600:</p> <ul> <li>Sistema Financeiro Nacional - SFN;</li> <li>Sistema Financeiro Imobiliário - SFI;</li> <li>Sistema Financeiro da Habitação - SFH;</li> <li>Garantias Imobiliárias;</li> <li>Produtos para Pessoa Física;</li> <li>Seguradoras e Seguros;</li> <li>Custos e Tributação de Serviços;</li> <li>Matemática Financeira;</li> <li>Ouvidoria;</li> <li>Pós-Contratação.</li> </ul> <p>As duas certificações possuem um módulo adicional, chamado Habitação de Interesse Social (H.I.S.). Ao solicitar esse módulo, o candidato irá responder a 10 questões a mais no dia da prova e ao ser aprovado, estará apto a atuar com operações de crédito imobiliário enquadradas nos Programas Sociais do Governo. </p> <p>Por fim, em resumo, é possível dizer que a ABECIP CA-300 é a Certificação Básica em crédito imobiliário, ela é obrigatória para correspondentes. Já a ABECIP CA-600 é a Certificação avançada em crédito imobiliário e é obrigatória, mas destinada para bancários que trabalham com crédito imobiliário.</p>"
+            },
+            {
+                "question": "Certificação ABECIP CA-300 - O que é? Para que serve?",
+                "answer": "<p>Para atuar com a comercialização de produtos de crédito imobiliário, é preciso obter a certificação ABECIP CA-300. Essa é uma certificação que tem o objetivo de atender à Resolução 3.954 do Banco Central e promover o aperfeiçoamento dos profissionais que atuam ou desejam atuar como correspondentes, vinculados ou não a uma Instituição associada à Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (ABECIP) e voltados para a comercialização de produtos de crédito imobiliário.</p> <p>Além de reconhecer a experiência e capacidade técnica do correspondente de crédito imobiliário, o certificado da ABECIP CA-300 também visa promover a melhoria da qualidade das informações que são repassadas aos consumidores. Também é preciso destacar que além dos citados acima, essa certificação também pretende incentivar a atualização dos profissionais, dar maior credibilidade nos serviços prestados para os associados, elevar os padrões de conduta ética e por fim, fortalecer o mercado de crédito imobiliário, que está em constante expansão.</p> <p>Em 2017, além do Certificado ABECIP CA 300, a instituição criou a Certificação CA-300 com Habitação de Interesse Social (CA- 300 H.I.S.). Este módulo é opcional e visa atestar o conhecimento do Profissional Certificado em relação às operações de Crédito Imobiliário enquadradas nos Programas Sociais do Governo.</p> <p>A CA-300 também está aberta para os universitários, bem como outros interessados na certificação profissional. Quem quer obter essa certificação, primeiramente, precisa ser aprovado na prova abecip ca 300. O exame tem de 1h30 a 2 horas de duração e é realizado em todo país. Confira alguns detalhes de cada prova: </p> <p>Exame CA-300</p> <ul> <li>Composição: 30 questões de múltipla escolha, com 4 alternativas.</li> <li>Aprovação: Aproveitamento mínimo de 60% (18 acertos)</li> <li>Taxa de Inscrição: R$272,00</li> <li>Tempo de Realização: 1h30min</li> <li>Validade do Certificado: 5 anos</li> </ul> <p>Exame CA-300 & H.I.S.</p> <ul> <li>Composição: 40 questões de múltipla escolha, com 4 alternativas.</li> <li>Aprovação: Aproveitamento mínimo de 60% (24 acertos)</li> <li>Taxa de Inscrição: R$272,00</li> <li>Tempo de Realização: 2 horas</li> <li>Validade do Certificado: 5 anos</li> </ul> <p>A inscrição para abecip ca 300 pode ser feita pela internet e a prova é realizada pela Fundação Getúlio Vargas, a FGV.  Ao acessar o Sistema de Certificação, o candidato deverá ler com atenção o Regulamento e o Código de Ética do Exame e, aceitando seus termos, deverá registrar sua concordância. Após este procedimento, o sistema ficará disponível para que o candidato realize sua inscrição.</p> <p>É importante ressaltar que a inscrição para o exame dá direito a um agendamento. Portanto, caso o candidato não seja aprovado no exame ou não compareça no dia e no horário marcados, ele deverá fazer uma nova inscrição para realizar um novo agendamento.</p> <p>No site da ABECIP estão listados todos os conteúdos que podem ser cobrados na Prova da CA-300. São os seguintes: </p> <ul> <li>Sistema Financeiro Nacional – SFN</li> <li>Sistema Financeiro da Habitação – SFH</li> <li>Sistema de Financiamento Imobiliário – SFI</li> <li>Negócios e Garantias Imobiliárias</li> <li>Produtos para Pessoa Física</li> <li>Seguros/Seguradoras</li> <li>Código de Defesa do Consumidor/Ouvidoria/Ética</li> <li>Matemática Financeira</li> </ul> <p>Ainda no site da Associação Brasileira das Entidades de Crédito Imobiliário e Poupança (ABECIP) você encontra um mapa com todas as cidades onde é possível realizar a prova. Esses locais são parte de uma rede de centro de testes formado pela FGV.</p>"
+            },
+            {
+                "question": "Certificação ABECIP CA-600 - O que é? Para que serve?",
+                "answer": "<p>A certificação ABECIP CA-600 tem como principal objetivo promover o aperfeiçoamento de quem atua na área de crédito imobiliário e na estruturação de operações financeiras baseada em imóveis. Mas também pode ser muito útil àqueles que, apesar de ainda não atuarem nesse ramo, buscam uma boa qualificação para iniciar neste segmento já com um certificado no currículo.</p> <p>Além de promover a melhoria da qualidade das informações repassadas ao consumidor e demais públicos, o Programa de Certificação ABECIP CA 600 tem ainda como premissa reconhecer a capacidade técnica e experiência do profissional de crédito imobiliário, incentivando sua atualização, dando maior credibilidade aos associados e não associados, elevando os padrões de conduta ética e fortalecendo o mercado de crédito imobiliário, que está sempre em ampla expansão.</p> <p>Esse certificado é obrigatório para os profissionais que tenham contato com clientes e atuem exclusivamente na comercialização de produtos de crédito imobiliário, de acordo com o Normativo do Sistema de Autorregulação Bancária da Febraban Nº 009/2013.</p> <p>É importante destacar que em 2017 a ABECIP também criou um módulo adicional de Habitação de Interesse Social (H.I.S.), que pode compor os conteúdos de qualquer uma das outras certificações oferecidas. Ele não é obrigatório, e os candidatos que optarem por realizá-lo (e nós aconselhamos a fazê-lo para dar a sua carreira uma credibilidade ainda maior) terão um tema específico incluído no conteúdo programático, além de 10 questões a mais somadas ao exame.</p> <p>A Certificação CA-600 com Habitação de Interesse Social é equivalente à Certificação CA-600 tanto para qualificação quanto para atendimento ao mencionado Normativo de Autorregulação, e visa atestar o conhecimento do profissional certificado em relação às operações de crédito imobiliário enquadradas nos Programas Sociais do Governo.</p> <p>É possível escolher pelo exame para conquistar a certificação CA-600 regular ou com o módulo adicional de Habitação de Interesse Social. Esses exames são feitos de forma presencial e são realizados em todo o país, portanto, certamente haverá um lugar próximo a você onde ele poderá ser feito. </p> <p>Confira as principais características das provas: </p> <p><strong>EXAME CA-600 REGULAR</strong></p> <ul> <li>Composto por 50 questões de múltipla escolha, cada uma contendo 4 (quatro) alternativas de respostas;</li> <li>Para ser aprovado é necessário atingir um aproveitamento mínimo de 70%, o correspondente a 35 acertos;</li> <li>Os candidatos têm ao todo 2 (duas) horas para realizar o exame;</li> <li>A taxa de inscrição custa, até o momento desta postagem, R$ 339,00;</li> <li>O certificado é válido por 5 (cinco) anos.</li> </ul> <p><strong>EXAME CA-600 & H.I.S.</strong></p> <ul> <li>Composto por 60 questões de múltipla escolha, cada uma contendo 4 (quatro) alternativas de respostas;</li> <li>Para ser aprovado é necessário atingir um aproveitamento mínimo de 70%, o correspondente a 42 acertos;</li> <li>Os candidatos têm ao todo 2 (duas) horas para realizar o exame;</li> <li>A taxa de inscrição custa, até o momento desta postagem, R$ 339,00;</li> <li>O certificado é válido por 5 (cinco) anos.</li> </ul> <p>Em relação ao conteúdo da prova, o foco principal dos assuntos cobrados no exame é relacionado a conhecimentos referentes a essa área. Porém, também costumam cair na prova questões com relação ao mercado financeiro nacional, economia, direito, enfim. Então, confira abaixo quais são os temas que mais aparecem no exame para certificação CA-600:</p> <ul> <li>SFN (Sistema Financeiro Nacional);</li> <li>SFI (Sistema Financeiro Imobiliário);</li> <li>SFH (Sistema Financeiro da Habitação);</li> <li>Garantias Imobiliárias;</li> <li>Produtos para Pessoa Física;</li> <li>Seguradoras e Seguros;</li> <li>Custos e Tributação de Serviços;</li> <li>Matemática Financeira;</li> <li>Ouvidoria;</li> <li>Pós-Contratação.</li> </ul>"
+            },
+            {
+                "question": "Certificação CEA - Vale a pena fazer direto?",
+                "answer": "<p>A sigla CEA significa Certificado de Especialista em Investimentos, essa é uma certificação obrigatória para os profissionais bancários que querem atuar como assessores de gerentes de contas de investidores. Somente após a aprovação na prova da certificação CEA é possível supervisionar os profissionais que prospectam novos clientes, vendem os produtos e indicam os melhores produtos financeiros. </p> <p>O certificado CEA é muito importante para os profissionais da área comercial, pois é ele que ajuda a manter um padrão de qualidade na venda de fundos. É possível dizer ainda que essa certificação na área financeira é a mais completa da ANBIMA, pois ao obter a certificação CEA, o profissional pode, automaticamente, exercer as atividades abrangidas pela certificação CPA-10 e pela certificação CPA-20.</p> <p>Mas, vale a pena fazer direto ou é melhor conquistar as outras certificações antes? Digamos que o caminho natural, seria passar pelo CPA10, pelo CPA 20 e só depois pela CEA. Porém, não há nenhum pré-requisito, a decisão é sua. Mas, alguns especialistas não indicam ir direto para a certificação CEA pelo nível de dificuldade da prova. Para se ter uma ideia, essa prova foi criada em 2009, mas na época era chamada de CEI. </p> <p>Em 2016 sua taxa média de aprovação era de apenas 40%, portanto dá para ter uma ideia de que a prova não é tão simples assim. Porém, se você apostar em um curso para bancário, pode ter o auxílio de professores que vão te mostrar o melhor e menor caminho até a aprovação. Dessa forma, ficará bem mais fácil alcançar o seu objetivo.</p> <p>Outro ponto que é apontado como motivo para não fazer direto o exame da certificação CEA antes dos demais, é de que é preciso uma maior experiência na área. Mas, segundo relatórios de 2015 da própria ANBIMA, a aprovação dos candidatos que estão fora do setor financeiro é maior do que as do que estão empregados na área. Por exemplo, no ano em questão, a taxa de aprovados dos profissionais que estavam fora do mercado financeiro foi de 42% contra 40% de vinculados a uma instituição. E a mesma tendência foi observada na certificação CPA20, em que 65% dos candidatos do grupo que conquistaram a certificação não trabalhavam na área.</p> <p>Por falar nisso, é preciso destacar que o exame da certificação CEA é composto por uma avaliação que contém 70 (setenta) questões e o tempo disponível para responder as questões da prova do certificado CEA é de 3 (três) horas e 30 (trinta) minutos. Para ser aprovado e obter a certificação CEA é necessário obter no mínimo 70% de acerto no total das respostas.</p> <p>Essas 70 questões da prova são divididas em 7 módulos de acordo com a área do conhecimento. Confira quais são os conteúdos que podem aparecer na lista a seguir:</p> <ul> <li>Sistema Financeiro Nacional e Regulação dos Mercados;</li> <li>Fundamentos de Economia, Finanças e Estatística;</li> <li>Produtos de Renda Variável, Renda Fixa e Contratos Derivativos;</li> <li>Fundos de Investimento;</li> <li>Gestão de Carteira e Risco;</li> <li>Planejamento de Investimento;</li> <li>Produtos de Previdência Complementar.</li> </ul>"
+            },
+            {
+                "question": "Certificações Anbima CEA, CPA-10 e CPA-20 - Entenda a diferença e descubra qual a mais indicada de acordo com seu objetivo",
+                "answer": "<p>Se você busca por uma certificação financeira, precisa saber que cada uma delas tem um objetivo diferente. Então, para que você possa escolher qual a melhor, pensando em seus objetivos profissionais, trouxemos uma breve explicação de cada uma. </p> <p>Primeiramente, é preciso esclarecer o que é Anbima, a sigla se refere a Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais. Essa instituição é responsável por definir boas práticas para as empresas, como bancos, gestoras, corretoras, distribuidoras e administradoras, além de oferecer certificações para os profissionais das áreas.</p> <p>As principais certificações oferecidas pela ANBIMA são as seguintes:</p> <p><strong>CPA-10</strong></p> <p>A certificação anbima cpa-10 é, sem dúvidas, uma das mais conhecidas. A CPA10 é uma certificação que serve para regularizar os profissionais que desempenham atividades de comercialização e distribuição de produtos de investimento diretamente junto ao público investidor em agências bancárias, bem como de atendimento ao público investidor em centrais de atendimento que tenham conhecimento do mercado.</p> <p>Para obter a CPA10 é preciso realizar um exame de certificação e apresentar um índice de acerto igual ou superior a 70% na prova. É importante lembrar que essa certificação é um diferencial no currículo ao pleitear uma vaga em instituições. E isto deve-se tanto à obrigatoriedade da certificação para a comercialização de produtos de investimento quanto à credibilidade que a CPA-10 demonstra ao atestar que os profissionais certificados possuem os conhecimentos necessários para atuar no mercado financeiro.</p> <p><strong>CPA-20</strong></p> <p>A Certificação Profissional Anbima série 20 é necessária aos profissionais que atuam na distribuição de produtos de investimento para clientes dos seguintes segmentos: varejo alta renda, corporate, private, ou ainda, investidores institucionais que trabalhem em agências bancárias ou em plataformas de atendimento.</p> <p>Em outras palavras, podemos dizer que essa certificação serve para comprovar os conhecimentos e habilidades do profissional da área. Afinal, ele vai atuar com a venda de produtos de investimento ou na manutenção de carteiras. Sendo assim, precisa ter um know-how grande do segmento, afinal, é uma grande responsabilidade com os clientes.</p> <p>Para receber a certificação CPA20 é preciso passar por uma prova e acertar no mínimo 70% das questões, assim como acontece no caso da CPA 10. E vale ressaltar que ao obter a certificação CPA-20, o profissional está habilitado automaticamente a exercer as atividades abrangidas pela CPA-10.</p> <p><strong>CEA</strong></p> <p>A sigla CEA significa Certificado de Especialista em Investimentos. O certificado CEA é obrigatório para os profissionais bancários que querem atuar como assessores de gerentes de contas de investidores.</p> <p>Somente após a aprovação da certificação CEA é possível supervisionar os profissionais que prospectam novos clientes, vendem os produtos e indicam os melhores produtos financeiros. O certificado CEA é muito importante para os profissionais da área comercial, pois é ele que ajuda a manter um padrão de qualidade na venda de fundos.</p> <p>O Certificado CEA pode ser conquistado com a aprovação em uma prova da ANBIMA que possui 70 questões. O tempo disponível para responder é de 3 horas e 30 minutos, e é necessário obter no mínimo 70% de acerto nas respostas. Ao obter a certificação CEA, o profissional pode, automaticamente, exercer as atividades abrangidas pela certificação CPA-10 e pela certificação CPA-20.</p>"
+            },
+            {
+                "question": "O que cai na prova da ANEPS?",
+                "answer": "<p>O conteúdo cobrado na prova da Associação Nacional dos Profissionais e Empresas Promotoras de Crédito e Correspondentes no País (ANEPS), dependerá do tipo de certificação escolhida:  </p> <p>CERTIFICAÇÃO PLUS</p> <ul> <li> Sistema Financeiro Nacional <ul> <li>Instituições Financeiras</li> <li>Banco Central</li> <li>Atribuições</li> <li>Reclamações</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Juros</li> <li>Prestações</li> <li>Sistemas de Informações de Crédito</li> <li>Conceitos gerais do SFN</li> </ul> </li> <li> Mercado Financeiro <ul> <li>Conceito de Risco</li> <li>Risco de Crédito</li> <li>Risco de Mercado</li> <li>Risco Operacional</li> <li>Risco de Reputação</li> <li>Fraudes</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Compliance</li> <li>Controles Internos</li> <li>Fraudes Detecção e Prevenção</li> <li>Elementos básicos da matemática financeira (conceito e aplicação de juros)</li> </ul> </li> <li> Produtos e Serviços <ul> <li>Conceitos de Produtos de Financiamento</li> <li>Definição de Empréstimos e Financiamentos</li> <li>Tipos de Empréstimo</li> <li>Tipos de Financiamento</li> <li>CET – Custo Efetivo Total</li> <li>Tarifas</li> <li>Crédito Consignado</li> <li>Empréstimo Pessoal Consignado</li> <li>Empréstimo Pessoal Consignado – Cartão</li> <li>Formas de Garantias</li> <li>Procedimentos de Contratação</li> <li>Crédito Direto ao Consumidor e Arrendamento Mercantil</li> <li>Conceitos Gerais e Diferenças</li> <li>Financiamento de Veículos</li> <li>Arrendamento Mercantil (Leasing)</li> </ul> </li> <li> Ética nos Negócios <ul> <li>Código de Defesa do Consumidor</li> <li>Código de Ética e Conduta</li> <li>Uso Consciente do Crédito</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Sigilo Bancário</li> <li>Finanças Pessoais</li> </ul> </li> </ul> <p>CERTIFICAÇÃO COMPLETA</p> <ul> <li> Sistema Financeiro Nacional <ul> <li>Instituições Financeiras</li> <li>Banco Central</li> <li>Atribuições</li> <li>Reclamações</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Juros</li> <li>Prestações</li> <li>Sistemas de Informações de Crédito</li> <li>Conceitos gerais do SFN</li> <li>Sistema Financeiro da Habitação</li> <li>Sistema de financiamento imobiliário</li> </ul> </li> <li> Mercado Financeiro <ul> <li>Conceito de Risco</li> <li>Risco de Crédito</li> <li>Risco de Mercado</li> <li>Risco Operacional</li> <li>Risco de Reputação</li> <li>Fraudes</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Compliance</li> <li>Controles Internos</li> <li>Fraudes Detecção e Prevenção</li> <li>Elementos básicos da matemática financeira (conceito e aplicação de juros)</li> </ul> </li> <li> Produtos e Serviços <ul> <li>Conceitos de Produtos de Financiamento</li> <li>Definição de Empréstimos e Financiamentos</li> <li>Tipos de Empréstimo</li> <li>Tipos de Financiamento</li> <li>CET – Custo Efetivo Total</li> <li>Tarifas</li> <li>Crédito Consignado</li> <li>Empréstimo Pessoal Consignado</li> <li>Empréstimo Pessoal Consignado – Cartão</li> <li>Formas de Garantias</li> <li>Negócios imobiliários – Aquisição</li> <li>Negócios imobiliários – Construção</li> <li>Negócios imobiliários – Home Equity (Mútuo com Garantia ou Refinanciamento)</li> <li>Procedimentos de Contratação</li> <li>Crédito Direto ao Consumidor e Arrendamento Mercantil</li> <li>Conceitos Gerais e Diferenças</li> <li>Financiamento de Veículos</li> <li>Arrendamento Mercantil (Leasing)</li> </ul> </li> <li> Ética nos Negócios <ul> <li>Código de Defesa do Consumidor</li> <li>Código de Ética e Conduta</li> <li>Uso Consciente do Crédito</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Sigilo Bancário</li> <li>Finanças Pessoais</li> </ul> </li> </ul> <p>CERTIFICAÇÃO PARA CRÉDITO CONSIGNADO</p> <ul> <li> Sistema Financeiro Nacional <ul> <li>Instituições Financeiras</li> <li>Banco Central</li> <li>Atribuições</li> <li>Reclamações</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Juros</li> <li>Prestações</li> <li>Sistemas de Informações de Crédito</li> </ul> </li> <li> Mercado Financiero <ul> <li>Conceito de Risco</li> <li>Risco de Crédito</li> <li>Risco de Mercado</li> <li>Risco Operacional</li> <li>Risco de Reputação</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Compliance</li> <li>Controles Internos</li> <li>Fraudes Detecção e Prevenção</li> <li>Elementos básicos da matemática financeira</li> </ul> </li> <li> Produtos e Serviços <ul> <li>Conceitos de Produtos de Financiamento</li> <li>Definição de Empréstimos e Financiamentos</li> <li>Tipos de Empréstimo</li> <li>Tipos de Financiamento</li> <li>CET – Custo Efetivo Total</li> <li>Tarifas</li> <li>Crédito Consignado</li> <li>Empréstimo Pessoal Consignado</li> <li>Empréstimo Pessoal Consignado – Cartão</li> </ul> </li> <li> Ética nos Negócios <ul> <li>Código de Defesa do Consumidor</li> <li>Código de Ética e Conduta</li> <li>Uso Consciente do Crédito</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Sigilo Bancário</li> <li>Finanças Pessoais</li> </ul> </li> </ul> <p>CERTIFICAÇÃO PARA CDC E VEÍCULOS</p> <ul> <li> Sistema Financeiro Nacional <ul> <li>Instituições Financeiras</li> <li>Banco Central</li> <li>Atribuições</li> <li>Reclamações</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Juros</li> <li>Prestações</li> <li>Sistemas de Informações de Crédito</li> </ul> </li> <li> Mercado Financeiro <ul> <li>Conceito de Risco</li> <li>Risco de Crédito</li> <li>Risco de Mercado</li> <li>Risco Operacional</li> <li>Risco de Reputação</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Compliance</li> <li>Controles Internos</li> <li>Fraudes Detecção e Prevenção</li> <li>Elementos básicos da matemática financeira</li> </ul> </li> <li> Produtos e Serviços <ul> <li>Conceitos de Produtos de Financiamento</li> <li>Definição de Empréstimos e Financiamentos</li> <li>Tipos de Empréstimo</li> <li>Tipos de Financiamento</li> <li>CET – Custo Efetivo Total</li> <li>Tarifas</li> <li>Crédito Direto ao Consumidor e Arrendamento Mercantil</li> <li>Conceitos Gerais e Diferenças</li> <li>Financiamento de Veículos</li> <li>Arrendamento Mercantil (Leasing)</li> </ul> </li> <li> Ética nos Negócios <ul> <li>Código de Defesa do Consumidor</li> <li>Código de Ética e Conduta</li> <li>Uso Consciente do Crédito</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Sigilo Bancário</li> <li>Finanças Pessoais</li> </ul> </li> </ul> <p>CERTIFICAÇÃO PARA CRÉDITO IMOBILIÁRIO</p> <ul> <li> Sistema Financeiro Nacional <ul> <li>Conceitos gerais do SFN</li> <li>Sistema Financeiro da Habitação</li> <li>Sistema de financiamento imobiliário</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Sistemas de Informações de Crédito</li> </ul> </li> <li> Mercado Financeiro <ul> <li>Conceitos gerais do SFN</li> <li>Sistema Financeiro da Habitação</li> <li>Sistema de financiamento imobiliário</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Sistemas de Informações de Crédito</li> </ul> </li> <li> Produtos e Serviços <ul> <li>Formas de Garantias</li> <li>Negócios imobiliários – Aquisição</li> <li>Negócios imobiliários – Construção</li> <li>Negócios imobiliários – Home Equity (Mútuo com Garantia ou Refinanciamento)</li> <li>Procedimentos de contratação</li> </ul> </li> <li> Ética nos Negócios <ul> <li>Código de Defesa do Consumidor</li> <li>Código de Ética e Conduta</li> <li>Uso Consciente do Crédito</li> <li>Sigilo Bancário</li> </ul> </li> </ul> <p>CERTIFICAÇÃO PARA MICROCRÉDITO</p> <ul> <li> Sistema Financeiro Nacional <ul> <li>Instituições Financeiras</li> <li>Banco Central</li> <li>Atribuições</li> <li>Reclamações</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Juros</li> <li>Prestações</li> <li>Sistemas de Informações de Crédito</li> </ul> </li> <li> Mercado Financeiro <ul> <li>Conceito de Risco</li> <li>Risco de Crédito</li> <li>Risco de Mercado</li> <li>Risco Operacional</li> <li>Risco de Reputação</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Compliance</li> <li>Controles Internos</li> <li>Fraudes Detecção e Prevenção</li> <li>Elementos básicos da matemática financeira</li> </ul> </li> <li> Produtos e Serviços <ul> <li>Conceitos do Microcrédito</li> <li>Programa Nacional de Microcrédito Produtivo Orientado (PNMPO)</li> </ul> </li> <li> Ética nos Negócios <ul> <li>Código de Defesa do Consumidor</li> <li>Código de Ética e Conduta</li> <li>Uso Consciente do Crédito</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Sigilo Bancário</li> <li>Finanças Pessoais</li> </ul> </li> </ul> <p>CERTIFICAÇÃO PARA CRÉDITO AGRÍCOLA</p> <ul> <li> Sistema Financeiro Nacional <ul> <li>Instituições Financeiras</li> <li>Banco Central</li> <li>Atribuições</li> <li>Reclamações</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Juros</li> <li>Prestações</li> <li>Sistemas de Informações de Crédito</li> <li>Conceitos gerais do SFN</li> <li>Sistema Financeiro da Habitação</li> <li>Sistema de financiamento imobiliário</li> </ul> </li> <li> Mercado Financeiro <ul> <li>Conceito de Risco</li> <li>Risco de Crédito</li> <li>Risco de Mercado</li> <li>Risco Operacional</li> <li>Risco de Reputação</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Compliance</li> <li>Controles Internos</li> <li>Fraudes Detecção e Prevenção</li> <li>Elementos básicos da matemática financeira</li> </ul> </li> <li> Produtos e Serviços <ul> <li>Conceitos de Produtos de Financiamento</li> <li>Definição de Empréstimos e Financiamentos</li> <li>Tipos de Empréstimo</li> <li>Tipos de Financiamento</li> <li>CET – Custo Efetivo Total</li> <li>Tarifas</li> <li>Crédito Agrícola</li> </ul> </li> <li> Ética nos Negócios <ul> <li>Código de Defesa do Consumidor</li> <li>Código de Ética e Conduta</li> <li>Uso Consciente do Crédito</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Sigilo Bancário</li> <li>Finanças Pessoais</li> </ul> </li> </ul>"
+            },
+            {
+                "question": "O que é a certificação CPA10?",
+                "answer": "<p>Para atuar como bancário é necessário possuir alguns tipos de certificações profissionais na área financeira. Uma delas é a Certificação CPA10, que é oferecida pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais, também conhecida por sua sigla ANBIMA.  </p> <p>A Certificação Profissional ANBIMA Série 10 é a responsável por regularizar os profissionais financeiros que desempenham atividades de comercialização e distribuição de produtos de investimento diretamente ao público investidor em agências bancárias, e que trabalham com o atendimento ao público investidor em centrais de atendimento. </p> <p>É importante destacar que para realizar o exame da certificação CPA 10 não é necessário possuir uma formação de nível superior específica. Podem participar os profissionais que tenham ou não vínculo com uma instituição financeira ou até mesmo estudantes que estejam interessados em seguir futuramente uma carreira na área bancária.</p> <p>O que acontece, é que no caso do profissional que possuir vínculo com uma instituição financeira depois de aprovado ele será classificado como profissional “Certificado – CPA-10”. Por outro lado, o profissional ou estudante que ainda não possui o vínculo com instituição financeira será classificado apenas como profissional “Aprovado – CPA-10”.</p> <p>Fique sabendo que se você trabalha em um banco ou instituição associado da ANBIMA, o setor de Recursos Humanos da sua empresa poderá agendar a prova para você. Mas, se esse não for o seu caso, é só acessar o site da ANBIMA e realizar a sua inscrição. A prova para Associados tem uma taxa de inscrição de R$ 272,00. Já o valor para não associados é e R$ 327,00. Essa taxa pode ser paga via cartão de crédito ou boleto bancário. Somente depois da confirmação de pagamento o agendamento da prova será realizado.</p> <p>A prova é realizada de maneira totalmente online e possui 50 questões de múltipla escolha. O tempo de duração máxima para resolução é de 2 horas. A data e a hora podem ser escolhidas pelo candidato e não há pré-requisito para participar. Para obter a certificação é necessário apenas ter nota igual ou superior a 70% de acertos no exame.</p> <p>Os principais conteúdos que podem cair no Exame do CPA10 são os seguintes:</p> <ul> <li>Fundos de Investimento </li> <li>Princípios de Investimento: Conceitos</li> <li>Noções de Economia e Finanças</li> <li>Sistema Financeiro Nacional e Participantes do Mercado </li> <li>Ética, Regulamentação e Análise do Perfil do Investidor</li> <li>Instrumentos de Renda Variável e Renda Fixa </li> <li>Previdência Complementar Aberta: PGBL e VGBL</li> </ul> <p>Em resumo, podemos dizer que a Certificação CPA10 estabelece princípios e padrões de conduta a serem observados pelos profissionais certificados no desempenho das atividades de prospecção ou venda de produtos de investimento, assessoria aos gerentes de contas de investidores e gestão profissional de recursos de terceiros; dispõe sobre as regras a serem observadas pelas instituições participantes, incluindo a manutenção da certificação de seus profissionais.</p> <p>E, por fim, podemos afirmar que a certificação CPA 10 é destinada a:  </p> <ul> <li>Profissionais que trabalham em instituições que seguem nosso Código de Certificação. </li> <li>Profissionais que trabalham em instituições financeiras em geral, mesmo aquelas que não aderiram ao código.</li> <li>Estudantes e profissionais de autarquias ou órgãos públicos.</li> </ul>"
+            },
+            {
+                "question": "O que é certificação AAI e como obtê-la?",
+                "answer": "<p>Em primeiro lugar você precisa saber que a sigla AAI quer dizer Agente Autônomo de Investimentos. E essa é uma certificação oferecida pela Ancord e que garante aos aprovados a permissão para exercer regularmente a profissão de agente autônomo de investimentos. A Ancord é a única entidade que possui autorização da Comissão de Valores Mobiliários (CVM) para oferecer tal certificação no Brasil.</p> <p>E ainda, antes de saber mais sobre a certificação AAI, é importante que você saiba também o que é a Ancord. A sigla significa Associação Nacional das Corretoras e Distribuidoras de Títulos e Valores Mobiliários, Câmbio e Mercadorias. Essa é a entidade da indústria de intermediação nacional que reúne e representa Corretoras de Câmbio; Corretoras e distribuidoras de valores mobiliários; Assets; Bancos; Agentes autônomos de investimento (AAI) e algumas outras instituições financeiras.</p> <p>A Ancord é a responsável por agrupar empresas atuantes no mercado e fornecer conhecimento da área para quem deseja se tornar um profissional regular no mercado e para quem já atua no mercado financeiro, mas ainda não está regulamentado. Portanto, a Ancord se destaca ao possibilitar aos associados o desenvolvimento contínuo dos seus negócios. Além de atuar no setor educacional, a Ancord fornece e gerencia cursos e treinamentos do mercado financeiro e de capitais. Ela é uma entidade muito conhecida pelo credenciamento de Agentes Autônomos de Investimento (AAI), através da certificação da Ancord AAI.</p> <p>Para participar da prova de certificação AAI é necessário não possuir antecedentes criminais, estar em pleno exercício dos direitos civis e ter concluído o ensino médio. A taxa de inscrição é de R$ 420. O agendamento do local e horário do exame será liberado após a identificação do pagamento dessa taxa de inscrição. </p> <p>A Fundação Getúlio Vargas (FGV) é a responsável pela aplicação da prova que possui 80 questões de múltipla escolha, divididas em 15 módulos. O tempo máximo de resolução é de 2 horas e 30 minutos e ela é aplicada em centenas de centros de teste em cidades espalhadas por todo o Brasil. Para ser aprovado é preciso acertar no mínimo 70% das questões e obter, pelo menos, 50% de acertos nos seguintes temas:</p> <ul> <li>Atividade do agente autônomo de investimento – CVM 497/11</li> <li>Ética profissional e aspectos comportamentais</li> <li>Lavagem de dinheiro</li> <li>Mercado de capitais</li> <li>Mercado de derivativo</li> </ul> <p>Como já falamos, o exame é dividido em 15 módulos:</p> <ol type=\"I\"> <li>A Atividade do Agente Autônomo de Investimento – CVM 497/11</li> <li>Ética Profissional e Aspectos Comportamentais</li> <li>Lavagem de Dinheiro – Leis nº 9.613/98; Circular BACEN 3461/09; Instrução CVM nº 301/99</li> <li>Fundamentos de Economia</li> <li>Estrutura do Sistema Financeiro Nacional – SFN</li> <li>Instituições e Intermediadores do Sistema Financeiro Nacional</li> <li>Administração de Risco</li> <li>Mercado de Capitais: Produtos, Modalidades Operacionais, Tributação e Regulamentação Básica</li> <li>Fundos de Investimento</li> <li>Outros Fundos de Investimento Regulados pela CVM</li> <li>Securitização de Recebíveis</li> <li>Clubes de Investimento</li> <li>Matemática Financeira</li> <li>Mercado Financeiro: Produtos, Modalidades Operacionais, Tributação e Regulamentação Básica</li> <li>Mercado de Derivativos: Produtos, Modalidades Operacionais, Tributação e Regulamentação Básica </li> </ol>"
+            },
+            {
+                "question": "O que é certificação ANEPS?",
+                "answer": "<p>Em primeiro lugar você precisa saber o que significa a sigla ANEPS, que quer dizer Associação Nacional dos Profissionais e Empresas Promotoras de Crédito e Correspondentes no País. Essa é uma entidade representativa que possui como objetivo congregar e defender os interesses das Promotoras de Crédito e Correspondentes no Brasil.</p> <p>Para obter a certificação ANEPS é necessário fazer uma prova que é realizada em conjunto com o Instituto Totum. A avaliação é obrigatória e está prevista no artigo 12 da resolução 3954/2011 do Banco Central do Brasil (Bacen). Todos os profissionais contratados para atender e ofertar operações de crédito e arrendamento mercantil, só podem exercer esta profissão, caso sejam considerados aptos neste exame. </p> <p>A instituição possui várias provas, e para realizar qualquer uma delas é necessário ter alguns requisitos mínimos, como: o 5º ano do ensino básico; idade mínima de 18 anos completos; aceitar as regras de certificação da ANEPS e possuir um computador ou um smartphone atualizado para a realização do exame (que é inteiramente online).</p> <p>Não há apenas um tipo de certificação da ANEPS, confira abaixo os sete tipos existentes:</p> <ul> <li>Certificação Plus (Consignado, CDC e Veículo);</li> <li>Certificação Completa (Consignado, Imobiliário, CDC e Veículo);</li> <li>Certificação para Crédito Consignado;</li> <li>Certificação para CDC e Veículo;</li> <li>Certificação para Crédito Imobiliário;</li> <li>Certificação para Microcrédito;</li> <li>Certificação para Crédito Agrícola.</li> </ul> <p>Sobre a prova da ANEPS, os valores de inscrição variam entre R$ 59 e R$ 160, de acordo com a certificação a ser obtida e o tempo de validade, que pode ser de até 5 anos. O exame possui de 30 a 40 questões objetivas e de múltipla escolha, a serem resolvidas no tempo máximo de 1 hora e 30 minutos. Para conquistar a aprovação, é preciso acertar no mínimo 70% do total. É possível escolher entre três alternativas de aplicação:</p> <ul> <li>Prova via web com câmera;</li> <li>Prova via web sem câmera; ou</li> <li>Via aplicativo Mobile com Sistema operacional Android ou IOS.</li> </ul> <p>Como falamos anteriormente, há mais de um tipo de certificação. Por isso, o que cai na prova da ANEPS depende de qual certificação você escolher. Mas. separamos abaixo, o que é cobrado na certificação completa, confira:</p> <ul> <li>Sistema Financeiro Nacional</li> <li>Instituições Financeiras</li> <li>Banco Central</li> <li>Atribuições</li> <li>Reclamações</li> <li>SAC e Ouvidoria</li> <li>Correspondente e Regulação Vigente</li> <li>Juros</li> <li>Prestações</li> <li>Sistemas de Informações de Crédito</li> <li>Conceitos gerais do SFN</li> <li>Sistema Financeiro da Habitação</li> <li>Sistema de financiamento imobiliário</li> <li>Mercado Financeiro</li> <li>Conceito de Risco</li> <li>Risco de Crédito</li> <li>Fraudes</li> <li>Risco de Mercado</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Risco Operacional</li> <li>Compliance</li> <li>Risco de Reputação</li> <li>Controles Internos</li> <li>Fraudes Detecção e Prevenção</li> <li>Elementos básicos da matemática financeira (conceito e aplicação de juros)</li> <li>Produtos e Serviços</li> <li>Conceitos de Produtos de Financiamento</li> <li>Definição de Empréstimos e Financiamentos</li> <li>Tipos de Empréstimo</li> <li>Tipos de Financiamento</li> <li>CET – Custo Efetivo Total</li> <li>Tarifas</li> <li>Crédito Consignado</li> <li>Empréstimo Pessoal Consignado</li> <li>Empréstimo Pessoal Consignado – Cartão</li> <li>Formas de Garantias</li> <li>Negócios imobiliários – Aquisição</li> <li>Negócios imobiliários – Construção</li> <li>Negócios imobiliários – Home Equity (Mútuo com Garantia ou Refinanciamento)</li> <li>Procedimentos de Contratação</li> <li>Crédito Direto ao Consumidor e Arrendamento Mercantil</li> <li>Conceitos Gerais e Diferenças</li> <li>Financiamento de Veículos</li> <li>Arrendamento Mercantil (Leasing)</li> <li>Ética nos Negócios</li> <li>Código de Defesa do Consumidor</li> <li>Código de Ética e Conduta</li> <li>Uso Consciente do Crédito</li> <li>Combate ao Crime de Lavagem de Dinheiro</li> <li>Sigilo Bancário</li> <li>Finanças Pessoais</li> </ul>"
+            },
+            {
+                "question": "Prova Ancord AAI - Como ser aprovado?",
+                "answer": "<p>A Ancord é uma entidade de classe que agrega corretoras, distribuidoras de aplicações financeiras e agentes autônomos de investimento. Desde 2002 ela é autorizada pela CVM a realizar o exame de certificação para agente autônomo de investimentos, já tendo habilitado mais de 13.000 profissionais em todo o Brasil.</p> <p>No Brasil, um agente autônomo de investimentos precisa ser aprovado em uma prova para depois obter a certificação necessária para atuar com a distribuição de aplicações financeiras. Em resumo, esse profissional é responsável por todo o relacionamento com o cliente, ou seja, faz a distribuição das aplicações financeiras e tira dúvidas dos aplicadores. Em geral eles são sócios ou funcionários em um escritório de investimento, ou podem estar afiliados a alguma corretora. </p> <p>Fique sabendo ainda, que os agentes podem atuar como representantes das corretoras ao redor do Brasil, realizando atividades como a prospecção e captação de clientes; a recepção, registro, e transmissão de ordens de compra ou venda de ativos; e a prestação de informações sobre produtos oferecidos e serviços prestados pela corretora.</p> <p>O agente autônomo de investimentos também pode ser chamado de assessor de investimentos, e para atuar de maneira regular é necessário ser credenciado na Comissão de Valores Mobiliários (CVM). Por isso é preciso realizar uma prova de certificação realizada pela Associação Nacional da Corretoras e Distribuidoras de Títulos e Valores Mobiliários, Câmbio e Mercadorias, também conhecida pela sigla Ancord. </p> <p>E entre os principais requisitos para atuar como agente autônomo de investimentos é preciso não possuir antecedentes criminais, estar em pleno exercício de seus direitos civis e ainda ter concluído o ensino médio ou equivalente em instituição reconhecida pelo Ministério da Educação (MEC). </p> <p>A prova da Ancord é aplicada pela Fundação Getúlio Vargas (FGV, tem duração de 2h30min e um total de 80 questões objetivas de múltipla escolha, contendo 4 alternativas cada uma. O valor da taxa de inscrição é de R$ 420. </p> <p>O exame aborda tanto conteúdos ligados ao mercado financeiro, como aqueles voltados ao mundo dos investimentos. Para ser aprovado é preciso obter no mínimo 70% de acertos, e é necessário obter o mínimo de 50% de acertos nos Capítulos I, II, III, VIII e XV. </p> <p>O conteúdo da prova ancord é dividido nos 15 módulos a seguir:</p> <ol type=\"I\"> <li>A Atividade do Agente Autônomo de Investimento – CVM 497/11</li> <li>Ética Profissional e Aspectos Comportamentais</li> <li>Lavagem de Dinheiro – Leis nº 9.613/98; Circular BACEN 3461/09; Instrução CVM nº 301/99</li> <li>Fundamentos de Economia</li> <li>Estrutura do Sistema Financeiro Nacional – SFN</li> <li>Instituições e Intermediadores do Sistema Financeiro Nacional</li> <li>Administração de Risco</li> <li>Mercado de Capitais: Produtos, Modalidades Operacionais, Tributação e Regulamentação Básica</li> <li>Fundos de Investimento</li> <li>Outros Fundos de Investimento Regulados pela CVM</li> <li>Securitização de Recebíveis</li> <li>Clubes de Investimento</li> <li>Matemática Financeira</li> <li>Mercado Financeiro: Produtos, Modalidades Operacionais, Tributação e Regulamentação Básica</li> <li>Mercado de Derivativos: Produtos, Modalidades Operacionais, Tributação e Regulamentação Básica</li> </ol>"
+            },
+            {
+                "question": "Qual a diferença entre as certificações CPA10 e CPA20?",
+                "answer": "<p>Existem alguns tipos de certificações profissionais na área financeira que são necessárias para atuar como bancário. Duas das mais importantes são a Certificação CPA10 e a Certificação CPA20. Ambas são oferecidas pela Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais, também conhecida por sua sigla ANBIMA.  </p> <p>Começando pela certificação CPA-10, ela se destina aos profissionais que atuam na prospecção e venda de produtos de investimento diretamente junto ao público investidor, inclusive em agências bancárias ou em plataformas de atendimento.</p> <p>Já a certificação CPA-20 se destina a certificar profissionais que atuam na prospecção, e venda de produtos de investimento e/ou na manutenção de carteira de investimentos de clientes pessoas físicas ou jurídicas, atendidas nos segmentos Varejo Alta Renda, Private Banking, Corporate e Investidores Institucionais.</p> <p>De acordo com as Resoluções 3.158 e 3.309 do Conselho Monetário Nacional (CMN), o profissional que comercializa produtos de investimento somente poderá exercer sua função depois de obtida a certificação CPA10 ou a certificação CPA20. Adicionalmente o profissional estará em conformidade com o Código de Regulação e Melhores Práticas para o Programa de Certificação Continuada possuindo as duas certificações citadas.</p> <p>É importante destacar ainda, que as certificações profissionais ANBIMA CPA-10 e CPA-20 são periódicas, e consideradas válida por 5 anos, contados a partir da data de aprovação no exame, ou da conclusão do procedimento de atualização para profissionais vinculados a uma instituição financeira participante da ANBIMA e a cada 3 anos para profissionais sem vínculo.</p> <p>Como se inscrever?</p> <p>A inscrição para os exames das Certificações CPA10 e CPA20 poderá ser efetuada todos os dias, inclusive aos finais de semana e feriados, por meio do sistema de inscrição para os Exames disponível no site www.anbima.com.br, opção “educar”.</p> <p>A taxa de inscrição para os candidatos vinculados às instituições associadas à ANBIMA, nos termos de seu estatuto social, independentemente de quem faça a inscrição, será no valor de:</p> <ul> <li>R$ 272,00 para CPA10 e</li> <li>R$ 429,00 para CPA20.</li> </ul> <p>Por outro lado, a taxa de inscrição para os candidatos não vinculados às instituições associadas à ANBIMA, ainda que participantes do Código de Certificação, ou candidatos com Inscrição Avulsa, será no valor de:</p> <ul> <li>R$ 327,00 para CPA10 e </li> <li>R$ 514,00 para CPA20.</li> </ul> <p>A partir da confirmação da inscrição na prova das Certificações CPA10 e CPA20, o candidato terá 6 (seis) meses para agendar os Exames. A aplicação é de responsabilidade da FGV (Fundação Getúlio Vargas) e as localidades para realização constam no site da ANBIMA, na opção “educar”, e poderão ser escolhidas pelo candidato quando fizer o agendamento.</p> <p>Como são os exames?</p> <p>O exame CPA10 é realizado de maneira online. A prova possui 50 questões de múltipla escolha e tem a duração máxima de 2 horas. A data e hora são escolhidas pelo candidato e não há pré-requisito para participar. Para obter a certificação é necessário ter um aproveitamento (nota) igual ou superior a 70% no exame online.</p> <p>Por outro lado, o exame CPA20 funciona da mesma maneira que o exame do CPA10, mas neste caso são 60 questões e a duração da prova é de 2h30min. E, da mesma maneira que para o CPA10, para obter a certificação é necessário ter um aproveitamento (nota) igual ou superior a 70% no exame online.</p>"
+            },
+            {
+                "question": "Qual a prova mais difícil - CEA ou Ancord?",
+                "answer": "<p>A Certificação ANBIMA de Especialistas em Investimento (CEA) habilita profissionais do mercado financeiro a atuarem como especialistas em investimentos. Eles podem recomendar produtos de investimentos para clientes em diversos segmentos, além de assessorar gerentes de contas.</p> <p>Já a Certificação Ancord AAI objetiva verificar a qualificação técnica dos interessados em atuar como Agente Autônomo de Investimento. Este profissional faz a distribuição das aplicações financeiras e tirar as dúvidas dos aplicadores. Mas, ao contrário de um gerente do banco (que distribui produtos como conta corrente, empréstimos, seguros, cartões, previdência, consórcios, entre outros), o agente autônomo é especializado no trabalho com as aplicações financeiras. </p> <p>Infelizmente, não temos como mensurar qual é a prova mais difícil, pois o nível de dificuldade depende muito do perfil profissional de quem está em busca da certificação.  Alguns especialistas consideram a prova da CEA um pouco mais difícil quando comparada com a da Ancord.  Por outro lado, existe muita gente que considera a prova da Ancord mais difícil. </p> <p>A seguir você saberá mais detalhes de cada uma das provas. </p> <p>Certificação CEA</p> <p>A inscrição para a prova da CEA é feita no site da ANBIMA, e o agendamento para aplicação pode ser feito em até 6 meses após a confirmação do pagamento. O exame é realizado em 20 cidades de 20 estados brasileiros: Aracaju (SE), Belém (PA), Belo Horizonte (MG), Brasília (DF), Florianópolis (SC), Campo Grande (MS), Cuiabá (MT), Curitiba (PR), Fortaleza (CE), Goiânia (GO), Maceió (AL), Manaus (AM), Palmas (TO), Porto Alegre (RS), Recife (PE), Rio de Janeiro (RJ), Salvador (BA), São Paulo (SP), Teresina (PI) e Vitória (ES). </p> <p>A prova CEA possui 70 questões, a serem resolvidas em até 3h30. Neste caso, a aprovação só é obtida pelos candidatos que acertarem no mínimo 70% do total. As perguntas abrangem 7 áreas de conhecimento:</p> <ul> <li>Sistema Financeiro Nacional e participantes do mercado</li> <li>Princípios básicos de economia e finanças</li> <li>Instrumentos de renda fixa, renda variável e derivativos</li> <li>Fundos de investimento</li> <li>Produtos de previdência complementar</li> <li>Gestão de carteiras e riscos</li> <li>Planejamento de investimento</li> </ul> <p>A certificação CEA vale a pena se o seu objetivo profissional é o de supervisionar aqueles profissionais que prospectam o cliente, vendem os produtos e indicam os melhores produtos financeiros. Ela é muito importante para os profissionais da área comercial, pois ajuda a manter um padrão de qualidade na venda de fundos. </p> <p>Certificação Ancord</p> <p>Já o Exame de Certificação Ancord pode ser realizada de duas maneiras: remota ou presencial. A prova possui 80 questões objetivas de múltipla escolha, a serem resolvidas no tempo máximo de 2h30. Será considerado habilitado o candidato que obtiver o mínimo de 70% de acertos do total de questões da prova.  O conteúdo conta com 14 áreas do conhecimento, sendo: </p> <ul> <li>A atividade do Agente Autônomo de Investimento</li> <li>Lei nº 9.613/98; Circular BACEN 3.978/20; 3654/13; Instrução CVM nº 617/20</li> <li>Economia</li> <li>Sistema Financeiro Nacional </li> <li>Instituições e Intermediadores Financeiros </li> <li>Administração de Risco </li> <li>Mercado de Capitais – Produtos – Modalidades Operacionais – Liquidação </li> <li>Fundos de Investimentos </li> <li>Outros Fundos de Investimento Regulados pela Comissão de Valores Mobiliários – CVM </li> <li>Securitização de Recebíveis </li> <li>Clubes de Investimentos </li> <li>Matemática Financeira – Conceitos Básicos </li> <li>Mercado Financeiro – Outros produtos não classificados como valores mobiliários – Modalidades – Operacionais – Liquidação </li> <li>Mercados Derivativos – Produtos – Modalidades Operacionais – Liquidação</li> </ul>"
+            }
+        ]
+    },
+    "certificacoes-ti": {
+        "id": "7635",
+        "canonical": "certificacoes-ti",
+        "iniciais": "certificacoes-ti",
+        "head": {
+            "title": "Curso para Certificação em TI - Aprova Concursos",
+            "description": "Videoaulas para uma preparação completa para Certificação em TI. Aprenda o essencial para ser aprovado. Conheça nossos cursos!",
+            "favicon": "/certificacoes-ti/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "https://www.aprovaconcursos.com.br/certificacoes-financeiras/",
+                "title": "certificações financeiras"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/certificacoes-projetos/",
+                "title": "certificações projetos"
+            }
+        ],
+        "assets": {
+            "logoPath": "#",
+            "logoAlt": "#",
+            "videoUrl": "https://www.youtube.com/embed/ywOCkeGyJhg?rel=0&showinfo=0&modestbranding=1"
+        },
+        "theme": {
+            "mainColor": "33, 201, 226",
+            "mainColorHover": "104, 220, 237",
+            "secondColor": "33, 201, 226",
+            "secondColorHover": "104, 220, 237",
+            "darkBgColor": "24, 26, 29"
+        },
+        "testimonials": [
+            {
+                "date": "11/05/2022",
+                "author": "Regis",
+                "depoiment": "Aulas objetivas, Muito boas. Utilização de palavras fáceis para assimilação do conteúdo. Parabéns!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Eduardo",
+                "depoiment": "Curso ótimo, método de ensino muito bom! Os assuntos são explicados de maneira simplificada e são facéis de entender."
+            },
+            {
+                "date": "11/05/2022",
+                "author": "Gustavo",
+                "depoiment": "Ótimas aulas, o que eu não aprendi em vários anos no ensino médio eu aprendi aqui!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Thallita",
+                "depoiment": "Ótimas aulas, professor sem enrolação, vai direto nos pontos mais importantes da matéria!"
+            },
+            {
+                "date": "06/05/2022",
+                "author": "Junio",
+                "depoiment": "A didática, o conhecimento e segurança do conteúdo passado, a excelência das aulas, com exemplos de como o assunto pode cair na prova, parabéns!"
+            },
+            {
+                "date": "19/04/2022",
+                "author": "Aicha",
+                "depoiment": "Foram as melhores aulas de Direito que já tive, bem explicada, nada maçante, e sem enrolação. Nota 10!"
+            },
+            {
+                "date": "29/04/2022",
+                "author": "George",
+                "depoiment": "Amei ! Explicações de forma bem clara e com questões, aulas maravilhosas. Ótimas dicas."
+            },
+            {
+                "date": "11/04/2022",
+                "author": "Beatriz",
+                "depoiment": "Aulas maravilhosas, nunca entendi um conteúdo tão bem!!"
+            },
+            {
+                "date": "28/04/2022",
+                "author": "Lucas",
+                "depoiment": "Professores ótimos, o material também é muito bom, boas explicações, principalmente pelos exemplos que facilitam o entendimento."
+            },
+            {
+                "date": "10/04/2022",
+                "author": "Sayuri",
+                "depoiment": "Ótima didática do curso, interseção com demais matérias, exatamente como é cobrado em prova!"
+            }
+        ],
+        "faq": [
+            {
+                "question": "5 Dicas para tirar sua certificação ITIL",
+                "answer": "<p>Se você quer obter a certificação itil, precisa estar preparado para a prova. Pensando nisso, trouxemos 5 dicas que vão te ajudar a entender como tirar a certificação ITIL Foundation. Confira: </p> <p><strong>Dica 1: Conheça tudo sobre a Certificação ITIL</strong></p> <p>Conhecer mais sobre a certificação na área de TI é essencial para garantir um bom desempenho na prova. Afinal, você precisa conhecer todos os detalhes possíveis antes de iniciar a sua preparação. </p> <p>A sigla ITIL significa Information Technology Infrastructure Library. Mas, podemos definir como um conjunto de boas práticas operacionais, que podem ser aplicadas na gestão de TI de uma empresa. Portanto, podemos dizer que o principal objetivo do ITIL é realizar a melhoria da qualidade dos serviços de TI das empresas. E essa melhoria pode ser alcançada por meio de uma gestão que tenha foco no cliente. </p> <p>É preciso destacar ainda que  não existe apenas uma certificação ITIL, mas cinco níveis:</p> <ul> <li>Certificação ITIL Foundation</li> <li>Certificação ITIL Practitioner</li> <li>Certificação ITIL Intermediate</li> <li>Certificação ITIL Expert</li> <li>Certificação ITIL Master</li> </ul> <p><strong>Dica 2: Saiba o que cai na prova de Certificação ITIL</strong></p> <p>Agora que você já sabe mais sobre o processo que os candidatos precisam passar para conquistar a certificação para profissionais de TI, vamos te contar o que é cobrado na prova. Afinal, é com base nesse conteúdo que você vai planejar a sua rotina de estudos:</p> <ul> <li>Gestão de Entregas: conceitos de planejamento, agilidade e qualidade são abordados. O foco na escala da qualidade também é um ponto.</li> <li>Plano de Gestão de Serviços de TI: avaliação de skills de planejamento, implementação e melhoria do workflow de gestão dos serviços.</li> <li>Gerenciamento de features: exame da gestão de features que suprem as dores de um negócio.</li> <li>Gestão de Infraestrutura: avaliação de identificação das dores do negócio, muitos testes e otimização da operação em TI são abordados.</li> <li>Suporte de produto/serviço: avaliação da criação de um workflow de suporte e prestação de serviço.</li> <li>Gestão de segurança da informação: exame para entender uma organização detalhada de garantia da segurança de informação. </li> </ul> <p><strong>Dica 3: Defina uma rotina de estudos para a Certificação ITIL</strong></p> <p>O processo de estudos e preparação para a prova itil pode ser cansativo. Mas esse é mais um motivo para você se organizar, fazer uma rotina de preparação funcional e garantir a aprovação já na primeira tentativa pela conquista da certificação ITIL. Então, a nossa dica é que você faça uma planilha com todos os horários do dia em que você tem um compromisso fixo, como trabalhar e ir a faculdade. Assim, você conseguirá ver de uma forma mais clara, quais são os seus períodos livres, aqueles em que você poderá encaixar a sua preparação para o teste de certificação ITIL.</p> <p><strong>Dica 4: Teste seus conhecimentos com perguntas anteriores da Certificação ITIL</strong></p> <p>A nossa penúltima dica é que você teste os seus conhecimentos respondendo perguntas aplicadas em edições anteriores do exame de certificação itil v3 e certificação itil v4. Assim, você vai conhecer um pouco mais sobre o teste e terá resultados melhores no dia oficial, quando for valendo a sua aprovação. Outra boa dica é fazer alguns simulados, assim, além de prever como os assuntos serão cobrados na sua prova, você também pode conferir qual é o seu tempo de resolução de prova. Afinal, no dia oficial, você terá apenas uma hora para responder todas as perguntas e garantir a sua aprovação.</p> <p><strong>Dica 5: Mantenha-se focado no seu objetivo</strong></p> <p>Saiba qual é o seu objetivo, se pergunte por que você quer tirar a certificação ITIL e quais são os benefícios que ela trará para a sua carreira. Quando você tem essas respostas claras na sua mente, pode avançar com mais confiança rumo ao seu objetivo final. A ideia é que sempre que você se sinta desmotivado possa olhar para essas respostas e seguir firme no propósito</p>"
+            },
+            {
+                "question": "Certificação ITIL Foundation: como estudar?",
+                "answer": "<p>A certificação ITIL Foundation é um dos cinco níveis nos quais se divide a certificação ITIL. Obtê-la é um pré-requisito para avançar em busca da conquista dos demais certificados, uma vez que em sua abordagem estão os conceitos de gestão dos serviços de Tecnologia da Informação e sua terminologia.</p><p>Para obter essa certificação para profissionais de TI, existe apenas uma maneira: ser aprovado na prova ITIL. A avaliação possui 40 questões, e é necessário acertar no mínimo 65% delas, dentro do tempo limite de 60 minutos. Essa avaliação é organizada em torno de alguns objetivos chave:</p><ul><li>Gestão de Entregas: conceitos de planejamento, agilidade e qualidade são abordados. É possível destacar ainda o foco na escala da qualidade;</li><li>Plano de Gestão de Serviços de TI: nesse caso ocorre a avaliação de skills de planejamento, implementação e melhoria do workflow de gestão dos serviços;</li><li>Gerenciamento de Features: aqui o foco é examinar a gestão de features que suprem as dores de um negócio;</li><li>Gestão de Infraestrutura: além de avaliar a identificação das dores do negócio, há abordagem de uma série de testes e também de otimização da operação em TI;</li><li>Suporte de Produto/Serviço: nesse objetivo é avaliado a criação de um workflow de suporte e a prestação de serviço;</li><li>Gestão de Segurança da Informação: onde se busca entender uma organização detalhada de garantia da segurança de informação.</li></ul><p>Como se preparar para a prova ITIL Foundation?</p><p>Não apenas para a ITIL Foundation, mas para qualquer outra prova de certificação na área de TI, seja uma certificação ITIL V3, uma certificação ITIL V4, é necessário estar muito bem-preparado. Veja algumas dicas:</p><p>1. Defina seu objetivo e mantenha-se motivado</p><p>Em primeiro lugar é ideal ter certeza de porque você quer tirar uma certificação ITIL e quais são os benefícios que esse certificado trará para sua carreira. Uma vez que isso estiver nítido em sua cabeça, você estará pronto para avançar. Não deixe a motivação diminuir, pois ela vai ajudar muito na prova do ITIL.</p> <p>2. Conheça o exame</p> <p>Além de conhecer os assuntos exigidos de um profissional que busca certificação, também é fundamental conhecer a estrutura do exame. Nesse caso, sugerimos que você tente conversar com alguém que já tenha feito a prova, para saber quais foram suas impressões.</p> <p>3. Planeje seus estudos</p> <p>Além de disposição e foco, é necessário que sua preparação seja planejada. Confira quais são os conteúdos que requerem maior atenção, em quais deles você tem maior dificuldade e, consequentemente, precisa estudar mais, e baseado nisso, crie um cronograma, trace uma meta. Se você possui, por exemplo, quatro horas livres no seu dia, distribua da melhor maneira o estudo nesse período, equilibrando assistir videoaulas e resolver questões. Dessa maneira sua preparação será muito mais eficaz.</p> <p>4. Invista em um preparatório</p> <p>Invista em um preparatório para certificação ITIL, você não deve considerar isso como um gasto, mas sim como um investimento, uma vez que será esse curso online que o ajudará a compreender ainda melhor o que é preciso para ser aprovado. E pode ter certeza, após essa aprovação, já com o certificado em mãos, sua possibilidade de ganhos junto ao mercado de trabalho de TI será muito maior do que o valor investido para estudar.</p>"
+            },
+            {
+                "question": "O que é ITIL?",
+                "answer": "<p>A sigla ITIL em inglês significa Information Technology Infrastructure Library, ou seja, Biblioteca de Infraestrutura e Tecnologia da Informação (em tradução livre). A certificação ITIL é um conjunto das melhores práticas em gerenciamento de serviços de Tecnologia da Informação. Ela é reconhecida em todo o mundo como uma das principais certificações para os profissionais da área de Tecnologia da Informação.</p> <p>A certificação itil, também chamada de biblioteca ITIL, foi desenvolvida no fim dos anos 1980 pela Central Computer and Telecommunications Agency, e é um conjunto de boas práticas em infraestrutura, operação e manutenção de serviços de TI. A sua aplicação está direcionada para as áreas operacional e tática de uma empresa.</p> <p>Assim sendo, o modelo dessa biblioteca é inteiramente flexível e adaptável ao negócio e estratégia de Tecnologia da Informação. O principal objetivo da biblioteca ITIL é a promoção de uma gestão direcionada à entrega eficiente dos serviços ao cliente. Quando bem executada, essa política operacional fornece um impacto muito positivo nos processos do negócio.</p> <p>A certificação ITIL é composta por processos e funções que servem para redirecionar o trabalho da área de TI conforme o setor em que a empresa está inserida e o seu perfil de atuação. Dessa maneira, o time de técnicos, analistas e profissionais de suporte podem desenvolver e entregar ao usuário final serviços de qualidade, com rapidez e custo aceitável.</p> <p>A biblioteca ITIL possui um alto nível de flexibilidade e para maximizar os resultados obtidos com esse guia de boas práticas, por exemplo, as recomendações podem ser seguidas junto de outras normas, metodologias e padrões de gestão de projetos, independentemente do porte da organização.</p> <p>Ao longo das últimas décadas, a biblioteca ITIL passou por constantes revisões, e em sua última versão, o manual de boas práticas está agrupado em cinco volumes:</p> <ol> <li>Estratégia de Serviço;</li> <li>Desenho de Serviço;</li> <li>Transição de Serviço;</li> <li>Operação de Serviço;</li> <li>Melhoria Contínua do Serviço.</li> </ol> <p>Esses cinco volumes são compostos por um conjunto de 26 processos e quatro funções básicas, que orientam o gestor de Tecnologia da Informação e podem ser aplicados conforme o profissional julgar necessário.</p> <p>A partir do ano de 2014, a Axelos passou a ser a proprietária da certificação ITIL e a administração dos exames é feita pelas Organizações de Treinamento Credenciadas (ATOs). Por outro lado, as acreditações ficam sob a responsabilidade dos Institutos de Exames Estratégicos (EI).</p> <p>A certificação itil V3 era realizada em 5 níveis: Master, Expert, Intermediate, Practitioner e Foundation. Por outro lado, a certificação itil v4 teve o seu esquema aperfeiçoado com a inclusão dos exames ITIL Master e ITIL Foundation.</p> <p>A certificação para profissionais de TI é indicada para aqueles que desejam se capacitar para aplicar as melhores práticas em suas funções. É importante ressaltar que ela não é somente uma prova a ser feita, mas uma capacitação em níveis variados. O primeiro teste é o da ITIL Foundation. Em seguida Managing Across the Lifecycle, depois, ITIL Expert e por fim o ITIL Master.</p> <p>Em resumo, cada prova representa uma etapa do treinamento, sendo que para chegar até a última fase é crucial passar por todas as anteriores em ordem escalável. Os profissionais de TI até podem estudar sozinhos, mas com a ajuda de um curso preparatório o caminho ficará mais fácil.</p>"
+            },
+            {
+                "question": "O que é preciso para tirar certificação ITIL?",
+                "answer": "<p>Em primeiro lugar é preciso saber o que significa a sigla ITIL: Information Technology Infrastructure Library. Ela se refere a um conjunto de boas práticas operacionais, que podem ser aplicadas na gestão de TI de uma empresa. O principal objetivo do ITIL é realizar a melhoria da qualidade dos serviços de TI das empresas, e essa melhoria pode ser alcançada por meio de uma gestão que tenha foco no cliente.</p> <p>O ITIL surgiu na Inglaterra na forma de um compilado de boas práticas do setor de Tecnologia da Informação do Governo Inglês. E por serem consideradas muito eficientes, essas práticas logo foram adotadas por empresas de grande porte no mundo todo. Atualmente, a certificação ITIL é um exame básico que serve para comprovar o conhecimento do candidato na estrutura ITIL. Começando no nível básico, é possível passar para os níveis de certificação itil v4 Managing Professional, ITIL 4 Strategic Leader e Master.</p> <p>Não há nenhum requisito cobrado dos participantes do exame de certificação ITIL. Sendo assim, apenas é necessário que o interessado estude para a prova e agente o exame que é realizado no modo online. Porém, para ser considerado apto, é preciso acertar pelo menos 65% do exame em uma hora de prova. Ou seja, se a prova conta com 40 perguntas, é necessário acertar, no mínimo, 26 perguntas. </p> <p>Os exames são realizados nos Centros de Certificação Prometric ou online, no site do EXIN. Quem optar por fazer presencialmente, irá pagar cerca de US$ 205,00. Porém, quem quiser fazer online, o valor passa para US$ 226,00. </p> <p>É preciso destacar ainda que não há apenas um tipo de certificação ITIL, ela é dividida em 5 níveis diferentes:</p> <ul> <li>Certificação ITIL Foundation: essa certificação é pré-requisito para as outras certificações, aborda conceitos de gestão dos serviços de TI e sua terminologia.</li> <li>ITIL Practitioner: aqui o foco é na aplicação do que foi aprendido em Foundation e, em especial, na melhoria de processos.</li> <li>Certificação ITIL Intermediate: deve ser feita por profissionais de TI que já possuem um conhecimento intermediário sobre gestão de serviços de TI. Nesse exame será atestada a capacidade mais prática do profissional, que já passa a receber conhecimento para aplicar o que sabe no negócio. É preciso saber sobre Service Desk e gestão de incidentes.</li> <li>Certificação ITIL Expert: neste nível os profissionais têm contato com o Life Cycle do serviço. E são avaliados processos e cargos na gestão de TI.</li> <li>ITIL Master: indicada para gestores e CEOs, ou seja, cargos mais executivos. Nesse caso, a abordagem é mais sênior e exige uma experiência maior do que 5 anos. Para ser aprovado no último nível, a indicação é de que um curso complementar seja considerado, por conta da maior complexidade que será exigida.</li> </ul> <p>A ITIL é adotada por milhares de organizações no mundo todo, dentre elas podemos destacar empresas como: IBM (International Business Machines Corporation), Microsoft, HP (Hewlett-Packard Company), HSBC (Hong Kong and Shanghai Banking Corporation). No Brasil, empresas como Carrefour e Makro já adotaram, assim como vários Tribunais de Justiça de diversos estados.</p>"
+            },
+            {
+                "question": "Qual é o papel do ITIL dentro da TI?",
+                "answer": "<p>O ITIL, sigla que representa Information Technology Infrastructure Library, é um conjunto de boas práticas operacionais que se aplicam na gestão da Tecnologia da Informação de uma empresa. O papel do ITIL é colaborar com a melhoria da qualidade dos serviços de TI, podendo ser alcançada, principalmente, através de uma condução que foque na satisfação do cliente.</p> <p>A certificação ITIL surgiu na Inglaterra, com o objetivo de contribuir para o aperfeiçoamento do setor de TI do governo inglês. E como essas práticas se mostraram extremamente eficientes, não demorou até que passassem a ser adotadas por empresas de grande porte do mundo todo.</p> <p>Essa certificação para profissionais de TI é um exame considerado básico, cujo intuito é comprovar o conhecimento do candidato em relação a estrutura ITIL. Além do nível inicial, é possível passar ainda, por exemplo, pela certificação ITIL V3, certificação ITIL V4, entre outras.</p> <p>São ao todo cinco níveis diferentes nos quais se divide a certificação ITIL:</p> <ul> <li> Certificação ITIL Foundation </li> </ul> <p>A certificação ITIL Foundation é pré-requisito para as outras certificações, uma vez que aborda conceitos de gestão dos serviços de Tecnologia da Informação e sua terminologia.</p> <ul> <li> ITIL Practitioner </li> </ul> <p>No segundo nível, conhecido como ITIL Practitioner, ocorre a aplicação de tudo o que foi aprendido no anterior, principalmente no que diz respeito a questão da melhoria de processos.</p> <ul> <li> Certificação ITIL Intermediate </li> </ul> <p>A ITIL Intermediate é uma certificação na área de TI que deve ser feita por profissionais que já possuem ao menos conhecimento intermediário sobre gestão de serviços. Nesse exame é atestada a capacidade mais prática do profissional, que passa a receber o conhecimento necessário para aplicar o que sabe no negócio. Outro detalhe importante é a necessidade de saber a respeito de Service Desk e gestão de incidentes.</p> <ul> <li> Certificação ITIL Expert </li> </ul> <p>A ITIL Expert é o quarto nível, onde os profissionais têm contato com o Life Cycle do serviço. Nele são avaliados os processos e os cargos na gestão de Tecnologia da Informação.</p> <ul> <li> ITIL Master </li> </ul> <p>A ITIL Master é indicada especificamente aos gestores e CEOs, portanto, cargos de nível executivo. Nesse nível a abordagem é considerada mais sênior, pois exige experiência maior do que cinco anos. Para ser aprovado nele costuma ser fundamental contar com o auxílio de um curso complementar, tendo em vista sua maior complexidade.</p> <p>Como tirar a certificação ITIL?</p> <p>Para conquistar esse importante certificado é necessário ser aprovado na prova ITIL. A avaliação tem duração de 60 minutos, onde o candidato deve responder ao um total de 40 questões. A aprovação ocorre com a obtenção de pelo menos 65% de acertos.</p> <p>Um ponto importante a ser mencionado é que atualmente essa prova já é aplicada também em nosso idioma, o português, facilitando muito a vida daqueles que não têm domínio da língua inglesa.</p> <p>A realização acontece nos Centros de Certificação Prometric, ou online, diretamente no site do EXIN. Aqueles que optam por fazê-lo de forma presencial precisam pagar uma taxa de US$ 205, enquanto quem escolhe o modelo online deve desembolsar um pouco mais, US$ 226.</p>"
+            },
+            {
+                "question": "Quem precisa ter certificação ITIL?",
+                "answer": "<p>A sigla ITIL significa Information Technology Infrastructure Library, mas antes de falar sobre quem precisa obter a certificação para profissionais de ti, vamos explicar melhor do que ela se trata. Podemos definir o ITIL como um conjunto de boas práticas operacionais, que podem ser aplicadas na gestão de TI de uma empresa. O principal objetivo do ITIL é realizar a melhoria da qualidade dos serviços de TI das empresas e essa melhoria pode ser alcançada por meio de uma gestão que tenha foco no cliente.</p> <p>E antes mesmo de se inscrever para conquistar a certificação na área de ti, é importante conhecer um pouco mais sobre a sua história. Em resumo, o ITIL surgiu na Inglaterra na forma de um compilado de boas práticas do setor de Tecnologia da Informação do Governo Inglês. E por serem consideradas muito eficientes, essas práticas logo foram adotadas por empresas de grande porte no mundo todo.</p> <p>Podemos concluir que atualmente a certificação ITIL é uma das mais importantes do mercado de tecnologia. Para obter a certificação ITIL é necessário realizar um exame que serve para comprovar o conhecimento do candidato na estrutura ITIL. Começando no nível básico, é possível passar para os níveis de certificação itil v4 Managing Professional, ITIL 4 Strategic Leader e Master. </p> <p>A certificação itil foundation valida o trabalho de gestão de TI dos profissionais envolvidos através de um manual de boas práticas. Dessa maneira, ele leva em consideração as suas demandas. Então, como já mencionamos, esta certificação é voltada mais especificamente para profissionais que desejam crescer no mercado de Tecnologia da Informação e para as empresas que prezam pela qualidade, produtividade e bom funcionamento dos processos de TI. Se adaptados, os ensinamentos do ITIL até podem ser utilizados em outros departamentos, afinal, o conteúdo orienta a entrega de bons resultados, com base em uma gestão integrada de dados e informações que fazem parte de qualquer setor de uma empresa.</p> <p>Dessa forma, a certificação itil é adotada por milhares de organizações no mundo todo, dentre elas podemos destacar grandes empresas como: IBM (International Business Machines Corporation), Microsoft, HP (Hewlett-Packard Company), HSBC (Hong Kong and Shanghai Banking Corporation). No Brasil, empresas como Carrefour e Makro já adotaram, assim como vários Tribunais de Justiça de diversos estados.</p> <p>Falando mais especificamente da rede de supermercados de atacado Makro, a implantação do ITIL nessa organização serviu para gerenciar os processos de TI e resolver a questão de prioridade de atendimento de seus usuários. Graças ao ITIL a documentação de processos foi eliminada e dessa forma, os problemas passaram a ser impessoais, ou seja, não era preciso uma pessoa específica para resolver. O ITIL permitiu que a taxa de erros em mudanças sempre permanecesse em níveis muito baixos.</p> <p>&nbsp;</p> <p>Por fim, vale destacar que para obter essa certificação, o candidato vai precisar ser aprovado na prova itil. O exame é composto por 40 perguntas e para ser aprovado, é preciso acertar pelo menos 65% do exame, ou seja, no mínimo, 26 questões.</p>"
+            }
+        ]
+    },
+    "certificacoes-projetos": {
+        "id": "7636",
+        "canonical": "certificacoes-projetos",
+        "iniciais": "certificacoes-projetos",
+        "head": {
+            "title": "Curso para Certificação de Projeto - Aprova Concursos",
+            "description": "Videoaulas para uma preparação completa para Certificação em Gestão de Projetos. Aprenda o essencial para ser aprovado. Conheça nossos cursos!",
+            "favicon": "/certificacoes-projetos/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "https://www.aprovaconcursos.com.br/certificacoes-financeiras/",
+                "title": "certificações financeiras"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/certificacoes-ti/",
+                "title": "certificações ti"
+            }
+        ],
+        "assets": {
+            "logoPath": "#",
+            "logoAlt": "#",
+            "videoUrl": "https://www.youtube.com/embed/1x8vN52OkOs?rel=0&showinfo=0&modestbranding=1"
+        },
+        "theme": {
+            "mainColor": "255, 80, 84",
+            "mainColorHover": "255, 106, 109",
+            "secondColor": "255, 80, 84",
+            "secondColorHover": "255, 106, 109",
+            "darkBgColor": "24, 26, 29"
+        },
+        "testimonials": [
+            {
+                "date": "11/05/2022",
+                "author": "Regis",
+                "depoiment": "Aulas objetivas, Muito boas. Utilização de palavras fáceis para assimilação do conteúdo. Parabéns!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Eduardo",
+                "depoiment": "Curso ótimo, método de ensino muito bom! Os assuntos são explicados de maneira simplificada e são facéis de entender."
+            },
+            {
+                "date": "11/05/2022",
+                "author": "Gustavo",
+                "depoiment": "Ótimas aulas, o que eu não aprendi em vários anos no ensino médio eu aprendi aqui!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Thallita",
+                "depoiment": "Ótimas aulas, professor sem enrolação, vai direto nos pontos mais importantes da matéria!"
+            },
+            {
+                "date": "06/05/2022",
+                "author": "Junio",
+                "depoiment": "A didática, o conhecimento e segurança do conteúdo passado, a excelência das aulas, com exemplos de como o assunto pode cair na prova, parabéns!"
+            },
+            {
+                "date": "19/04/2022",
+                "author": "Aicha",
+                "depoiment": "Foram as melhores aulas de Direito que já tive, bem explicada, nada maçante, e sem enrolação. Nota 10!"
+            },
+            {
+                "date": "29/04/2022",
+                "author": "George",
+                "depoiment": "Amei ! Explicações de forma bem clara e com questões, aulas maravilhosas. Ótimas dicas."
+            },
+            {
+                "date": "11/04/2022",
+                "author": "Beatriz",
+                "depoiment": "Aulas maravilhosas, nunca entendi um conteúdo tão bem!!"
+            },
+            {
+                "date": "28/04/2022",
+                "author": "Lucas",
+                "depoiment": "Professores ótimos, o material também é muito bom, boas explicações, principalmente pelos exemplos que facilitam o entendimento."
+            },
+            {
+                "date": "10/04/2022",
+                "author": "Sayuri",
+                "depoiment": "Ótima didática do curso, interseção com demais matérias, exatamente como é cobrado em prova!"
+            }
+        ],
+        "faq": [
+            {
+                "question": "Como tirar a certificação Scrum?",
+                "answer": "<p>A certificação Scrum é muito importante para quem atua na área de TI pois atesta e valida o conhecimento dos gestores de projetos. Ter esse certificado no currículo não agrega apenas conhecimento, mas também aumenta consideravelmente a possibilidade de conquistar melhores oportunidades no mercado de trabalho, uma vez que a maioria das empresas a colocam como pré-requisito para se candidatar às vagas.</p> <p>Mas como conseguir essa certificação profissional? Bom, antes de tudo convém falar que ela é voltada para gestores de projetos que ocupam posições de gestão principalmente em projetos de TI e de desenvolvimento de softwares. E a única obrigação para passar no teste que concede o certificado é ter conhecimento suficiente. Basta então, contar com o auxílio de um curso para certificação Scrum.</p> <p>Entre os tipos de certificação para gerente de projeto existem as seguintes:</p> <ul> <li> PMI-ACP </li> </ul> <p>Concedida pelo Project Management Institute, a Agile Certified Practitioner é talvez a mais difícil de ser conseguida, uma vez que é bastante criteriosa. Isso faz dela uma das mais reconhecidas certificações. Neste caso ter a ajuda de um preparatório para certificação Scrum fará grande diferença.</p> <ul> <li> ASF pelo EXIN </li> </ul> <p>A Agile Scrum Foundation, do EXIN, tem como público-alvo os profissionais que já participam de projetos na área e buscam pôr a prova seus conhecimentos acerca dos princípios ágeis. Portanto, se você atua com desenvolvimento de softwares ou gerenciamento de serviços de TI, esse certificado será de grande utilidade.</p> <ul> <li> ASM pelo EXIN </li> </ul> <p>A exemplo da ASF, a ASM, ou Agile Scrum Master, também é oferecida pela EXIN, e é uma certificação destinada aos gerentes de projetos, principalmente aqueles que buscam evolução. Nesse caso, como é necessário possuir um conhecimento mais aprofundado, é requerido que antes do teste seja realizado um curso credenciado.</p> <ul> <li> PSM I pela Scrum.org </li> </ul> <p>A Professional Scrum Master I é certamente uma das mais conhecidas certificações, sendo o primeiro nível das concedidas pela Scrum.org. A avaliação é baseada no Scrum Guide, exatamente para verificar se o candidato é capaz de interpretá-lo e aplicá-lo no seu cotidiano. Claro, adquirir um curso para certificação Scrum Master sem dúvida será muito útil para ajudá-lo na preparação.</p> <ul> <li> PSM II pela Scrum.org </li> </ul> <p>Esse é o segundo nível da certificação PSM, e exige um grau mais alto de conhecimento. Nesse caso não basta apenas conhecer na íntegra o Guia Scrum, é preciso também ter boa experiência na utilização do Scrum para resolução de problemas complexos e avançados. É recomendada a realização de um treinamento especializado antes da prova.</p> <ul> <li> PSM III pela Scrum.org </li> </ul> <p>O último nível entre as certificações PSM oferecidos pela Scrum.org. Assim como no nível anterior, também é recomendado que o candidato faça um treinamento especializado antes de fazer o teste. Outro detalhe importante é que apenas quem já possui o PSM I ou PSM II pode buscar esse certificado. </p> <ul> <li> CSM pela Scrum Alliance </li> </ul> <p>A Certified Scrum Master, ofertada pela Scrum Alliance, atesta conhecimento no framework Scrum, principalmente no que diz respeito aos papéis, eventos e artefatos que o compõem. Para obtê-lo é necessário, além de ser aprovado no teste, comparecer a um curso presencial com carga horária total de 16 horas. </p> <ul> <li> A-CSM pela Scrum Alliance </li> </ul> <p>O Advanced Scrum Master é mais uma das certificações concedidas pela Scrum Alliance, que também exige do candidato participação em um curso credenciado antes da realização do teste, além de outros requisitos. Ela possibilita ao profissional a capacidade de lidar com problemas na equipe, aperfeiçoar o diálogo entre todos os envolvidos nos processos e aumentar o engajamento e comprometimento deles.</p> <ul> <li> CSP-SM pela Scrum Alliance </li> </ul> <p>Uma vez conquistada a certificação A-CSM, é possível avançar para um nível ainda maior dentre os concedidos pela Scrum Alliance: o Certified Scrum Professional - Scrum Master. Ele aprimora a maneira em que o Scrum é aplicado, concede acesso a eventos exclusivos para CSPs e uma assinatura premium para acessar a comunidade Comparative Agility.</p> <ul> <li> SFC pela SCRUMStudy </li> </ul> <p>A Scrum Fundamental Certified é a única gratuita dessa lista. Esse é o modo encontrado pela organização SCRUMStudy para incentivar o estudo do framework. Nessa certificação o candidato tem acesso a aulas online, também gratuitas, que o ajudarão a se preparar para o exame. Portanto, para quem está começando a caminhada nessa tecnologia, a SFC é uma excelente oportunidade.</p> <ul> <li> SMC pela SCRUMStudy </li> </ul> <p>O Scrum Master Certified tem como público-alvo os interessados em tornar-se Scrum Masters, e é o nível mais avançado entre os certificados emitidos pela SCRUMStudy. Apesar de não haver pré-requisitos para candidatura, o ideal é que o profissional tenha um certificado SDC (Scrum Developer Certified), e que também participe de um treinamento online antes do teste.</p>"
+            },
+            {
+                "question": "Certificação Scrum e Scrum Master é a mesma coisa?",
+                "answer": "<p>Para se aprofundar melhor no tema, você precisa conhecer as definições de certificação Scrum e Scrum Master. Sendo assim, para começar, podemos dizer que a certificação Scrum é o atestado de que os gestores de projetos têm conhecimento a respeito de determinada metodologia.</p> <p>É importante mencionar que essa certificação foi criada por Jeff Sutherland e Ken Schwaber, com o objetivo de fazer da gestão algo mais ágil, uma vez que nela estão inseridos uma série de princípios, conceitos e práticas que visam a agilidade nos processos da Tecnologia da Informação.</p> <p>Esse certificado é emitido por uma instituição internacionalmente reconhecida e requer a aprovação em um exame específico para ser obtido. E é por isso, que ele tem muita importância para aqueles que atuam na área de TI, já que as chances de alcançar melhores oportunidades no mercado de trabalho aumentam consideravelmente. Afinal, a maioria das empresas exigem esse certificado como pré-requisito para diversas vagas na área.</p> <p>Além disso, vale lembrar que as habilidades adquiridas com os certificados Scrum não ficam restritas ao Brasil. Afinal, estes certificados têm padronização internacional, ou seja, caso queira concorrer a uma vaga na área de TI no exterior, você pode utilizar o mesmo certificado e conhecimento.</p> <p>Confira abaixo, as funções da certificação Scrum:</p> <ul> <li>Product Owner: responsável por representar o interesse do cliente para o produto que está sendo desenvolvido;</li> <li>Equipe: estes são os responsáveis por realizar o desenvolvimento do produto;</li> <li>Scrum Master: nesta função, o profissional faz o direcionamento e facilita a realização de tarefas tanto para Product Owner quanto para a equipe. Portanto, podemos dizer que este é um papel mais difícil de exercer e que exige certas competências para se ter sucesso dentro da área de tecnologia da informação (TI).</li> </ul> <p>&nbsp;</p> <h3>O que é Scrum Master?</h3> <p>Podemos definir o Scrum Master como o líder do Scrum Team, porém, não tendo a responsabilidade de gerenciar o projeto. O trabalho dessa importante peça na metodologia ágil é atuar como um incentivador, um coach.</p> <p>Para ser um mestre no Scrum, o profissional precisa ter todo o conhecimento de técnicas, sabendo exatamente como empregá-las e, consequentemente, garantindo que a equipe conseguirá trabalhar da melhor forma para obter os melhores resultados.</p> <p>Então, como todo bom líder, a preocupação maior do Scrum Master é manter a equipe motivada, disposta e focada, certificando-se que tenham tudo o que é necessário para desenvolver o produto com sucesso. Para isso, ele regula o trabalho, evita que os membros da equipe atuem além do seu limite, impede que problemas cheguem até seu time de modo a prejudicar o desempenho de cada um.</p> <p>Além disso, cabe ainda ao Scrum Master a organização e a mediação das chamadas daily scrums, ou seja, reuniões diárias com a equipe, onde podem discutir o andamento do projeto, verificar se há algo que precisa ser melhorado, se há alguma eventualidade que precisa ser resolvida, podendo assim solucionar e garantir o bom andamento da produção.</p> <p>Então, em resumo, podemos concluir que o Scrum Master é um papel de extrema importância dentro das empresas, mas se trata de um cargo, e não uma certificação.</p>"
+            },
+            {
+                "question": "PMBOK 6ª edição: descubra o que mais cai na prova para PMP",
+                "answer": "<p>O Guia PMBOK é um Guia do Conhecimento em Gerenciamento de Projetos do PMI e atualmente ele está em sua 6ª edição. Essa é a principal publicação do PMI e ela foi atualizada para refletir as melhores práticas em gerenciamento de projetos. Nessa 6ª edição, cada área de conhecimento apresenta uma seção com abordagens para ambientes ágeis, iterativos e adaptativos, descrevendo como essas práticas se integram nas configurações do projeto.</p> <p>Dessa maneira, o guia pmbok 6 edição também oferece mais ênfase ao conhecimento estratégico e de negócios – incluindo a discussão de documentos de negócios em gerenciamento de projetos – e informações sobre o Triângulo de Talentos do PMI (PMI Talent Triangle) e as habilidades essenciais para o sucesso no mercado atual.</p> <p>O livro pmbok 6 edição está disponível no site do PMI Global (www.pmi.org), exclusivamente para filiados. Na versão em Inglês o Agile Practice Guide vem junto.</p> <p>O QUE MUDOU NO PMBOK 6 EDIÇÃO?</p> <p>As principais mudanças nesta edição do PMBOK 6 foram as seguintes:</p> <ul> <li>Inclusão de estruturas organizacionais: Orgânica, multidivisional, virtual e híbrida.</li> <li>O capítulo 3 foi reescrito para incluir as informações sobre o “Papel do Gerente de Projetos”. Existe ainda um descrição melhorada das competências do GP e inclusão do Triângulo de Talentos do PMI (PMI Talent TriangleTM), que engloba as habilidades técnicas, as estratégicas, de negócio e de liderança.</li> <li>Seguem existindo as 10 áreas de conhecimento e os 5 grupos de processos, porém agora existe um total de 49 processos.</li> </ul> <p>Como é a prova do PMP?</p> <p>A prova do PMP possui um total de 200 questões de múltipla escolha, sendo que cada uma delas conta com 4 alternativas, para serem respondidas em um período de 4 horas. Porém, é preciso destacar que destas 200, apenas 175 delas são questões pontuáveis, ou seja, você terá a sua nota final baseada nelas. As outras 25 são as questões “pré-teste”, ou seja, estão em fase de teste para, futuramente, fazerem parte das provas. Mas é bom ficar atento, pois essas 25 questões de teste não são identificadas para os candidatos. Então, você deverá responder a todas as 200 perguntas da melhor forma possível, não adianta ficar tentando adivinhar quais são as questões válidas.</p> <p>Na prova PMP existem situações-problema que exigem a imaginação de um determinado cenário dentro de um projeto para então responder qual a melhor opção a ser feita naquele momento. Para realizar a prova é possível optar pelos seguintes formatos de avaliação:</p> <ul> <li>Em papel, previamente agendada e divulgada pelo PMI a ser realizada nos centros de aplicação, em lugares pré-definidos;</li> <li>No formato on-line em função da pandemia o PMI disponibilizou essa modalidade. Basta apenas fazer o agendamento da prova supervisionada, de forma remota.</li> </ul> <p>O custo da prova é de $555, referente a primeira tentativa de candidatos que não são membros do PMI. Já quem é filiado ou membro do instituto pagará $405. Mas, a boa notícia é que para quem não foi aprovado na primeira tentativa pode aproveitar o mesmo processo de elegibilidade num período de 365 dias, ou seja, um ano, não excedendo duas tentativas neste prazo. O custo de remarcação da prova é de $275.</p> <p>E ainda, é importante saber que para as provas aplicadas nos centros de aplicação ou no formato supervisionado on-line, o resultado sai de forma imediata. Já as provas realizadas em papel, têm seu resultado divulgado pelo PMI no período de 3 a 6 meses.</p> <p>Entre os conteúdos que mais caem na prova do PMP, confira abaixo quais são eles e a porcentagem em que podem aparecer: </p> <ul> <li>Iniciação: 13% – equivalente a 26 perguntas</li> <li>Planejamento: 24% –  equivalente a 48 perguntas</li> <li>Execução: 31% –  equivalente a 62 perguntas</li> <li>Monitoramento e Controle: 25% –  equivalente a 50 perguntas</li> <li>Encerramento: 7% –  equivalente a 14 perguntas</li> </ul>"
+            },
+            {
+                "question": "Para que serve a certificação Scrum?",
+                "answer": "<p>O certificado Scrum é um tipo de certificação para gestores de projetos, ele serve para atestar o conhecimento dessa metodologia. Sendo assim, esse certificado é emitido por uma instituição reconhecida internacionalmente e dado a quem é aprovado em uma prova específica.</p> <p>Além disso, com essas certificações, você abre portas para novas oportunidades no mercado de trabalho. Afinal, muitas empresas cobram essas certificações dos seus funcionários. Afinal, essa é uma garantia de que os princípios foram aprendidos de forma correta, trazendo segurança para o processo de aplicação.</p> <p>Portanto, a certificação Scrum garante que você possui um conhecimento teórico sobre assunto, mas sem assegurar a experiência prática. Afinal, ela só virá com a aplicação dos conceitos teóricos aprendidos. Outro ponto importante sobre certificações, principalmente as internacionais, é que elas padronizam o conhecimento, ou seja, o que foi aprendido valerá para vagas em qualquer lugar do mundo.</p> <p>Para te ajudar a escolher um preparatório para certificação Scrum, é importante saber quais são as 11 certificações Scrum mais conhecidas do mercado, confira:</p> <p>- PMI-ACP</p> <p>A certificação Agile Certified Practitioner é conferida pelo PMI (Project Management Institute). Essa é uma das mais criteriosas e difíceis e é também uma das mais reconhecidas entre as certificações SCRUM. Exige várias horas de experiência em gestão de projetos e deve ser renovada depois de um período.</p> <p>ASF pelo EXIN</p> <p>A certificação Agile Scrum Foundation é para os profissionais que desejam testar seus conhecimentos sobre os princípios ágeis e a metodologia Scrum e que já participam de projetos na área. Ela é muito útil para quem trabalha com projetos de desenvolvimento de software ou gerenciamento de serviços de TI.</p> <p>ASM pelo EXIN</p> <p>O EXIN também oferece a Agile Scrum Master. Ela é indicada para quem já tem uma certificação SCRUM mais básica e quer uma mais específica. Ela é destinada a profissionais que estão em posições de gestão, principalmente em projetos de TI e desenvolvimento de software.</p> <p>PSM I pela SCRUM.ORG</p> <p>A certificação Professional Scrum Master I é o primeiro nível de certificações concedidas pela Scrum.org, a instituição apoiada pelos idealizadores Ken Schwaber e Jeff Sutherland. </p> <p>PSM II pela SCRUM.ORG</p> <p>Esse é o segundo nível da certificação PSM e para obtê-lo, além de conhecer o Scrum Guide é necessário contar com muita experiência no uso do Scrum no dia a dia para resolver problemas complexos e avançados. </p> <p>PSM III pela SCRUM.ORG</p> <p>Terceiro e último nível do programa de certificações PSM da Scrum.org, também é recomendado que o candidato participe de um treinamento especializado para poder fazer o teste. Neste caso, apenas os profissionais que foram certificados como PSM I ou PSM II podem obter essa certificação.</p> <p>CSM pela SCRUM ALLIANCE</p> <p>A certificação Certified ScrumMaster é uma das primeiras certificações SCRUM, está no mercado desde 2002. Ela tem objetivo de entender o framework Scrum profundamente, os papéis, eventos e artefatos que o compõem e comprovar esse conhecimento.</p> <p>A-CSM pela SCRUM ALLIANCE</p> <p>Para obter o Advanced ScrumMaster, assim como no nível anterior, a Scrum Alliance exige participação em um curso credenciado para realizar o teste. E é necessário possuir certificação CSM e ter pelo menos 12 meses de experiência como Scrum Master nos últimos 5 anos.</p> <p>CSP-SM pela SCRUM ALLIANCE</p> <p>Depois de concluir a certificação A-CSM, o próximo nível é o Certified Scrum Professional, com essa certificação é possível aprimorar a maneira de aplicação do Scrum no ambiente de trabalho, e ainda obter acesso a eventos exclusivos e uma assinatura premium para acessar a comunidade Comparative Agility.</p> <p>SFC pela SCRUMSTUDY</p> <p>A certificação Scrum Fundamentals Certified é gratuita para incentivar o estudo do framework. Nessa certificação de base, ela oferece aulas online de preparação para o exame, que também não é cobrado.</p> <p>SMC PELA SCRUMSTUDY</p> <p>A certificação Scrum Master Certified é um nível mais avançado, porém não há pré-requisitos para se candidatar, embora a organização informe que é preferível que o profissional seja certificado como SDC (Scrum Developer Certified). Além disso, a SCRUMStudy sugere que os candidatos participem de um treinamento credenciado online para se preparar para o exame (quem participa do treinamento recebe um voucher para fazer o exame sem pagar taxas).</p>"
+            },
+            {
+                "question": "O que é PMBOK?",
+                "answer": "<p>Antes de falarmos sobre o que é o PMBOK, é preciso saber sobre as certificações PMI. A Project Management Institute é uma associação líder mundial para todos que consideram as competências de gestão de projetos, programas e portfólios como essenciais para o melhor exercício da profissão independentemente da área. </p> <p>Ela atua por meio de colaboração, educação e pesquisa, tendo como objetivo a preparação de mais de três milhões de profissionais ao redor do mundo, para que atuem com os conceitos de Economia de Projetos. Conceitos esses que, por sinal, têm crescido muito, uma vez que consideram o trabalho, os indivíduos e sua organização em todos de todos os projetos.</p> <p>A otimização do sucesso organizacional e o amadurecimento cada vez maior da profissão de gestão de projetos também têm enorme importância para a associação, por isso utilizam de processos reconhecidos por todo o território mundial, certificações, comunidades, recursos, ferramentas, pesquisas acadêmicas, publicações, cursos de desenvolvimento profissional, oportunidades de networking, e uma série de outros.</p> <p>Pronto, agora que você conhece a responsável por conceder a certificação para gestores de projetos, vamos finalmente esclarecer o que é PMBOK. Ele faz referência ao ProjectManagement.com, que por sinal também integra a família PMI, criando assim uma comunidade global online que oferece uma série de recursos, melhores ferramentas, redes mais extensas e perspectivas mais amplas no mercado de gerenciamento de projetos. </p> <p>PMBOK é a sigla para Project Management Body of Knowledge, e consiste em uma padronização que tem como intuito identificar e conceituar processos, áreas de conhecimento, ferramentas e técnicas da gestão de projetos. Resumindo, trata-se de uma espécie de guia de boas práticas para o gerenciamento de projetos, sendo fundamentado em dois conceitos principais: as áreas do conhecimento e o processo de gerência de um projeto.</p> <p>Esse guia foi criado em 1996, e em média a cada quatro anos é reeditado pela Project Management Institute (PMI). É importante ressaltar ainda que as orientações nele contidas não devem ser seguidas à risca, uma vez que cada projeto possui suas características e especificidades, diferenciando-os assim dos demais.</p> <p>Portanto, quem busca uma certificação para gerente de projetos precisa saber que o PMBOK pode ser definido como uma espécie de enciclopédia sobre gerenciamento de projetos. Então lembre-se sempre de, ao buscar por um curso para certificação PMBOK, é fundamental observar que o objetivo principal do guia é padronizar e difundir as práticas mais eficientes, que sejam devidamente testadas e comprovadas.</p> <p>Quais são os principais benefícios do PMBOK?</p> <p>Depois de saber o que é o PMBOK, é muito importante também falar sobre quais os principais benefícios que ele pode gerar para as empresas no gerenciamento de projetos:</p> <ul> <li>Melhoria no fluxo de comunicação entre as partes envolvidas;</li> <li>Padronização das atividades do gerenciamento do projeto;</li> <li>Ênfase no uso dos recursos de maneira eficiente;</li> <li>Controle sobre o andamento do projeto;</li> <li>Aumento significativo das chaves de sucesso do projeto;</li> <li>Redução da negligência de atividades importantes;</li> <li>Tratamento otimizado de riscos.</li> </ul> <p>Outros tipos de certificações PMI</p> <p>Certificação profissional é o grande foco da PMI, então nada mais justo do que apresentarmos alguns dos que são ofertados. O mais conhecido desses certificados é o Profissional do Gerenciamento de Projetos, para o qual existe o preparatório para certificação PMP. Além dele há ainda o Técnico Certificado em Gestão de Projetos (CAPM); Profissional de Gestão de Programas (PGMP); Profissional de Gestão de Portfólio (PFMP); Profissional em Análise de Negócios do PMI (PMI-PBA); Profissional Ágil Certificado do PMI (PMI-ACP); PMI-RMP; e finalmente, Profissional de Gestão de Cronograma PMI (PMI-SP).</p>"
+            },
+            {
+                "question": "O que é a certificação Scrum?",
+                "answer": "<p>A certificação Scrum foi criada pelos americanos Jeff Sutherland e Ken Schwaber e serve para validar o conhecimento dos gestores de projetos. Ela é fundamental para quem atua na área de Tecnologia da Informação, principalmente no campo de desenvolvimento de software.  É emitida por uma instituição de renome internacional, fazendo então com que sua validade não se restrinja apenas ao Brasil. Existem 11 principais tipos de certificação Scrum:</p> <ul> <li>PMI-ACP (Project Management Institute – Agile Certified Practitioner)</li> </ul> <p>Dentre os 11 este é o certificado mais criterioso e complexo, mas em compensação, também é o mais reconhecido. Exige uma grande quantidade de horas de experiência em gestão de projetos. Para fazer a prova é necessário pagar uma taxa de U$495 e, uma vez aprovado, com essa certificação será possível oferecer comprovação em várias metodologias como Kanban, eXtreme Programming, TDD, FDD, entre outras. Ela precisa ser renovada após três anos e o custo é de U$150. </p> <ul> <li>ASF (Agile Scrum Foundation)</li> </ul> <p>Fornecida pela EXIN é indicada para quem deseja atestar conhecimentos sobre os princípios ágeis e a metodologia Scrum e, que já participa de projetos de desenvolvimento de software ou gerenciamento de serviços de TI. Para ser aprovado é preciso realizar um teste online monitorado por webcam e acertar 26 de um total de 40 questões. A taxa começa a partir de U$232 e varia de acordo com a instituição de ensino escolhida para o curso. </p> <ul> <li>ASM (Agile Scrum Master)</li> </ul> <p>Também é oferecida pela EXIN e é indicada para quem já tem uma certificação Scrum mais básica e deseja ter uma mais específica, voltada para profissionais em posições de gestão em projetos de TI e desenvolvimento de softwares. Esse certificado Scrum envolve conceitos sobre estimativa, planejamento, monitoramento e controle voltados para projetos complexos e ainda ensina como adotar o modelo mental ágil na prática. Para obtê-lo é preciso realizar um curso credenciado antes de fazer a prova, que pode ser feita online com monitoramento por webcam. A taxa custa U$268.</p> <p>PSM I (Professional Scrum Master I)</p> <p>É o primeiro nível de certificações concedidas pela Scrum.org, ela verifica se o candidato consegue refletir e interpretar o Guia Scrum para aplicação no dia a dia, bem como se ele tem as competências esperadas para obter o certificado Scrum. É preciso acertar pelo menos 68 questões de um total de 80. A taxa custa U$150.</p> <p>PSM II (Professional Scrum Master II)</p> <p>Voltada para quem já conhece o Scrum Guide e tem muita experiência no uso do Scrum no dia a dia para resolver problemas. É recomendável participar de um treinamento antes de responder a prova. Há um curso com carga horária de 16 horas que custa em torno de R$2.000, mas ele já inclui uma oportunidade de fazer a prova. O percentual de acertos necessários é o mesmo da categoria anterior, 85%.</p> <p>PSM III (Professional Scrum Master III)</p> <p>Terceiro e último nível do programa da Scrum.org, neste caso também é recomendado que o candidato participe de um treinamento especializado antes do teste. Apenas os profissionais certificados como PSM I ou PSM II podem obter essa certificação de nível III. Na prova é preciso obter 85% de aproveitamento ao responder um total de 34 questões de múltipla escolha e uma redação. A taxa é de U$500.</p> <p>CSM (Certified ScrumMaster) </p> <p>Oferecida pela Scrum Alliance, tem o objetivo de entender o framework Scrum profundamente: os papéis, eventos e artefatos que o compõem e comprovar esse conhecimento. É necessário realizar um curso presencial de 16 horas credenciado pela Scrum Alliance e acertar o mínimo de 37 das 50 questões em um tempo máximo de 60 minutos. O valor é de aproximadamente R$ 2.000 e já inclui uma participação no teste. </p> <p>A-CSM (Advanced ScrumMaster) </p> <p>Esse certificado também é ofertado pela Scrum Alliance e exige participação em um curso credenciado para realizar o teste. E é necessário possuir a certificação CSM e ter pelo menos 12 meses de experiência como Scrum Master nos últimos cinco anos. Com essa certificação o profissional aumenta suas habilidades em lidar com problemas como falta de motivação e resistência a mudanças das equipes. </p> <p>CSP-SM (Certified Scrum Professional) </p> <p>Última certificação da Scrum Alliance, com ela é possível aprimorar a maneira de aplicação do Scrum no ambiente de trabalho, e ainda conseguir acesso a eventos exclusivos e uma assinatura premium da comunidade Comparative Agility. Para participar é necessário realizar um treinamento credenciado pela instituição e validar um mínimo de 24 meses de experiência como Scrum Master nos últimos 5 anos. Não é necessário fazer exames ou pagar taxas, só o valor desse treinamento credenciado. Todas as certificações conferidas pela Scrum Alliance precisam ser renovadas a cada dois anos, é necessário pagar uma taxa de U$100.</p> <p>SFC (Scrum Fundamentals Certified) PELA SCRUMSTUDY</p> <p>Certificação gratuita oferecida pela Scrumstudy com objetivo de incentivar o estudo do framework. A prova é online e possui 40 perguntas, é preciso acertar pelo menos 30 em 60 minutos. Não há pré-requisitos, e para manter a certificação SFC é necessário apresentar pelo menos 10 créditos de re-certificação (RCUs, ou Recertification Units) a cada 3 anos.</p> <p>SMC (Scrum Master Certified) PELA SCRUMSTUDY</p> <p>Mais uma certificação oferecida pela Scrumstudy, mas em um nível mais avançado. Não há pré-requisitos, embora a organização informe que é preferível que o profissional seja certificado como SDC (Scrum Developer Certified). O valor para realizar a prova é de U$450 – para quem não participa do treinamento credenciado, e ela é formada por 100 questões a serem respondidas em 120 minutos. A renovação deve ser feita a cada 3 anos, mediante apresentação de um mínimo de 40 RCUs.</p>"
+            }
+        ]
+    },
+    "cursos-por-area-de-interesse": {
+        "id": "7102",
+        "canonical": "cursos-por-area-de-interesse",
+        "iniciais": "cursos-por-area-de-interesse",
+        "head": {
+            "title": "Como estudar para Concurso Público? Aprenda AQUI | Aprova Concursos",
+            "description": "Se você sonha em se tornar funcionário público e ter muitos benefícios, o Aprova Concursos pode te ajudar. Saiba como ser APROVADO!",
+            "favicon": "/primeiro-concurso/favicon.ico"
+        },
+        "menu": [
+            {
+                "url": "https://www.aprovaconcursos.com.br/boleto",
+                "title": "boleto 2ª via"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/noticias/",
+                "title": "notícias"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/noticias/categoria/aprovados/",
+                "title": "hall dos aprovados"
+            },
+            {
+                "url": "https://www.aprovaconcursos.com.br/questoes-de-concurso/",
+                "title": "aprova questões"
+            }
+        ],
+        "assets": {
+            "logoPath": "#",
+            "logoAlt": "#",
+            "videoUrl": "#"
+        },
+        "theme": {
+            "mainColor": "227, 190, 58",
+            "mainColorHover": "243, 211, 97",
+            "secondColor": "227, 190, 58",
+            "secondColorHover": "243, 211, 97",
+            "darkBgColor": "24, 26, 29"
+        },
+        "testimonials": [
+            {
+                "date": "11/05/2022",
+                "author": "Regis",
+                "depoiment": "Aulas objetivas, Muito boas. Utilização de palavras fáceis para assimilação do conteúdo. Parabéns!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Eduardo",
+                "depoiment": "Curso ótimo, método de ensino muito bom! Os assuntos são explicados de maneira simplificada e são facéis de entender."
+            },
+            {
+                "date": "11/05/2022",
+                "author": "Gustavo",
+                "depoiment": "Ótimas aulas, o que eu não aprendi em vários anos no ensino médio eu aprendi aqui!"
+            },
+            {
+                "date": "27/04/2022",
+                "author": "Thallita",
+                "depoiment": "Ótimas aulas, professor sem enrolação, vai direto nos pontos mais importantes da matéria!"
+            },
+            {
+                "date": "06/05/2022",
+                "author": "Junio",
+                "depoiment": "A didática, o conhecimento e segurança do conteúdo passado, a excelência das aulas, com exemplos de como o assunto pode cair na prova, parabéns!"
+            },
+            {
+                "date": "19/04/2022",
+                "author": "Aicha",
+                "depoiment": "Foram as melhores aulas de Direito que já tive, bem explicada, nada maçante, e sem enrolação. Nota 10!"
+            },
+            {
+                "date": "29/04/2022",
+                "author": "George",
+                "depoiment": "Amei ! Explicações de forma bem clara e com questões, aulas maravilhosas. Ótimas dicas."
+            },
+            {
+                "date": "11/04/2022",
+                "author": "Beatriz",
+                "depoiment": "Aulas maravilhosas, nunca entendi um conteúdo tão bem!!"
+            },
+            {
+                "date": "28/04/2022",
+                "author": "Lucas",
+                "depoiment": "Professores ótimos, o material também é muito bom, boas explicações, principalmente pelos exemplos que facilitam o entendimento."
+            },
+            {
+                "date": "10/04/2022",
+                "author": "Sayuri",
+                "depoiment": "Ótima didática do curso, interseção com demais matérias, exatamente como é cobrado em prova!"
+            }
+        ],
+        "faq": [
+            {
+                "question": "O que estudar para um concurso público?",
+                "answer": "Você deve focar seus estudos priorizando as disciplinas com maior peso/quantidade de questões. Com o Aprova, esta preocupação não é sua!<br><br>Sabemos exatamente quais são os temas que mais apareceram nas provas anteriores, os famosos assuntos mais cobrados e organizamos as disciplinas e as videoaulas na ordem do que mais caem para o que menos caem."
+            },
+            {
+                "question": "Como elaborar um plano de estudos para concurso público?",
+                "answer": "A nossa didática é a mais adequada para a sua preparação. É o único preparatório do mercado que entrega o conteúdo em uma ordem lógica para você não ficar perdido.<br><br>Aqui no Aprova analisamos as provas anteriores e organizamos o curso de acordo com o que é mais cobrado pela banca organizadora.<br><br>Assim, você não precisa montar um plano de estudos, porque suas <a href='http://www.aprovaconcursos.com.br'>videoaulas para concurso</a> já estão listadas por ordem de importância, otimizando seu tempo de preparação.<br><br>Por isso, você terá uma <b>preparação focada na sua aprovação</b>, estudando aquilo que realmente cai na prova!"
+            },
+            {
+                "question": "Qual o melhor método de estudo para concurso público?",
+                "answer": "<p style='margin-left: 20px;'>• Estude o que cai na prova. Aqui no Aprova Concursos, você estuda o que é mais cobrado pela banca organizadora, pois nós analisamos as provas anteriores e organizamos o curso na ordem do que mais cai, para o que menos cai.</p><br>Se você deixou para começar a estudar depois que o edital foi publicado ou está buscando uma revisão intensiva antes da prova, o Aprova Concursos é a única preparação adequada que você irá encontrar no mercado!<br><br>Você terá acesso à melhor preparação do mercado e poderá assistir as videoaulas quantas vezes quiser. Seu curso ficará disponível até a data da prova (se o edital estiver publicado) ou por 6 meses (se o edital ainda não saiu).<br><br>Além de tudo isso, nosso time de professores é especialista em aprovação, contando com procuradores, auditores, promotores, delegados, mestres, doutores, entre outros."
+            }
+        ]
+    }
+}
