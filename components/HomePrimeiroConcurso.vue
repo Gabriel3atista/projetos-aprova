@@ -5,7 +5,7 @@
                 <div class="flex flex-col lg:flex-row">
                     <div class="mt-24 flex flex-col justify-center items-center lg:items-start">
                         <div class="flex flex-col justify-center items-center mt-6 text-center lg:justify-start">
-                            <h1 class="font-HeadingNow uppercase text-white text-7xl">meu primeiro <br> <span
+                            <h1 class="font-HeadingNow uppercase text-white md:text-7xl">meu primeiro <br> <span
                                     class="mainTextColor">concurso</span></h1>
                             <p class="text-white/50 mt-3">Conteúdos organizados na ordem do que mais tem chance de cair
                                 na

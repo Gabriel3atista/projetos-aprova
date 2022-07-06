@@ -81,7 +81,7 @@
                         </li>
                     </ul>
                     <button
-                        class="button flex justify-center w-full p-3 rounded cursor-pointer transition lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
+                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer transition lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
                         :class="active ? 'opacity-100 duration-500 delay-300' : 'opacity-0 duration-200 delay-0 lg:opacity-100'">
                         <a :href="urls.ava"
                             class="flex items-center justify-center w-full h-full uppercase text-xl font-semibold text-white lg:text-sm lg:py-2 lg:px-6"
@@ -99,8 +99,8 @@
                 <div class="absolute flex items-center justify-center w-12 h-full top-0 left-0 cursor-pointer z-20 lg:hidden"
                     @click="toggleMenu">
                     <div class="relative flex w-6 h-3.5">
-                        <span class="line-1 w-full h-px bg-gray absolute"></span>
-                        <span class="line-2 w-full h-px bg-gray absolute"></span>
+                        <span class="line-1 w-full h-px bg-white/50 absolute"></span>
+                        <span class="line-2 w-full h-px bg-white/50 absolute"></span>
                     </div>
                 </div>
                 <!-- Telefone -->
@@ -167,7 +167,7 @@
                         </li>
                     </ul>
                     <button
-                        class="button flex justify-center w-full p-3 rounded cursor-pointer transition lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
+                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer transition lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
                         :class="active ? 'opacity-100 duration-500 delay-300' : 'opacity-0 duration-200 delay-0 lg:opacity-100'">
                         <a :href="urls.ava"
                             class="flex items-center justify-center w-full h-full uppercase text-xl font-semibold text-white lg:text-sm lg:py-2 lg:px-6"
@@ -897,6 +897,13 @@ export default {
                     rel: 'canonical',
                     href: `https://www.aprovaconcursos.com.br/${this.projects[this.slug].canonical}`
                 }
+            ],
+            meta: [
+                {
+                    name: 'theme-color',
+                    media: '(prefers-color-scheme: dark)',
+                    content: this.projects[this.slug].iniciais == 'certificacoes-projetos' || this.projects[this.slug].iniciais == 'certificacoes-financeiras' || this.projects[this.slug].iniciais == 'certificacoes-ti' || this.projects[this.slug].iniciais == 'cursos-por-area-de-interesse' ? '#181A1D' : '#FFFFFF'
+                }
             ]
         };
     },
@@ -935,12 +942,12 @@ export default {
         };
     },
 
-    async asyncData({ params, $axios }) {
+    async asyncData({ params, $axios, $config: { apiURL } }) {
         const editais = [];
         const { slug } = params;
         const projects = await $axios.$get(`https://d1cqjkd0k5bd3q.cloudfront.net/upload/projects-nuxt/projects_config.json`);
 
-        await $axios.$get(`https://api-concurso.iesde.com.br/cms/instituicao/${projects[slug].id}/editais`)
+        await $axios.$get(`${apiURL}/instituicao/${projects[slug].id}/editais`)
             .then(response => {
                 if (response.data) {
                     response.data.forEach(element => {
@@ -950,7 +957,7 @@ export default {
             });
 
         editais.forEach(element => {
-            $axios.$get(`https://api-concurso.iesde.com.br/cms/edital/${element.id}/pacotes`)
+            $axios.$get(`${apiURL}/edital/${element.id}/pacotes`)
                 .then(response => {
                     if (response.data.length) {
                         let preparatorios = [];
@@ -993,10 +1000,10 @@ export default {
 
     async fetch() {
         await this.editais.forEach(element => {
-            this.$axios.$get(`https://api-concurso.iesde.com.br/cms/edital/${element.id}/pacotes`)
+            this.$axios.$get(`${this.$config.apiURL}/edital/${element.id}/pacotes`)
                 .then(response => {
                     response.data.forEach(preparatorio => {
-                        this.$axios.$get(`https://api-concurso.iesde.com.br/cms/preparatorio/${preparatorio.id}/arquivos`)
+                        this.$axios.$get(`${this.$config.apiURL}/preparatorio/${preparatorio.id}/arquivos`)
                             .then(response => {
                                 const cargoNome = preparatorio.attributes.cargo;
                                 const cargoSplit = cargoNome.split('-');

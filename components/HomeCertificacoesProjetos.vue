@@ -3,9 +3,9 @@
         <main class="relative z-20 flex flex-col justify-center items-center w-full h-full container pt-14 lg:flex-row">
             <div class="flex-1 mt-12 flex flex-col justify-center items-center lg:items-start">
                 <div
-                    class="flex flex-col justify-center items-center mt-6 text-center lg:justify-start lg:items-start lg:text-left">
+                    class="relative z-20 flex flex-col justify-center items-center mt-6 text-center lg:justify-start lg:items-start lg:text-left">
                     <p class="text-white/50 mb-3">Cursos preparatórios para</p>
-                    <h1 class="font-HeadingNow uppercase text-white text-8xl">certificações <br>em <span
+                    <h1 class="font-HeadingNow uppercase text-white md:text-8xl">certificações <br>em <span
                             class="mainTextColor">projetos</span></h1>
                 </div>
                 <div v-for="(edital, index) in editais" :key="index" :id="index"
