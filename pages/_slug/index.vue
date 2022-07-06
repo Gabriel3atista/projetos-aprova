@@ -81,8 +81,8 @@
                         </li>
                     </ul>
                     <button
-                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer transform duration-700 delay-100 lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
-                        :class="active ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8 lg:opacity-300 lg:-translate-y-0'">
+                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer opacity-100 transform duration-700 delay-100 lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
+                        :class="active ? 'translate-y-0' : '-translate-y-8 lg:opacity-300 lg:-translate-y-0'">
                         <a :href="urls.ava"
                             class="flex items-center justify-center w-full h-full uppercase text-xl font-semibold text-white lg:text-sm lg:py-2 lg:px-6"
                             target="_blank" rel="noopener noreferer">login</a>
@@ -167,8 +167,8 @@
                         </li>
                     </ul>
                     <button
-                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer transform duration-700 delay-100 lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
-                        :class="active ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8 lg:opacity-300 lg:-translate-y-0'">
+                        class="button relative bottom-0 flex justify-center w-full p-3 rounded cursor-pointer opacity-100 transform duration-700 delay-100 lg:delay-0 lg:w-auto lg:h-auto lg:p-0 lg:duration-200"
+                        :class="active ? 'translate-y-0' : '-translate-y-8 lg:opacity-300 lg:-translate-y-0'">
                         <a :href="urls.ava"
                             class="flex items-center justify-center w-full h-full uppercase text-xl font-semibold text-white lg:text-sm lg:py-2 lg:px-6"
                             target="_blank" rel="noopener noreferer">login</a>
