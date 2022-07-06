@@ -942,12 +942,12 @@ export default {
         };
     },
 
-    async asyncData({ params, $axios, $config: { apiURL } }) {
+    async asyncData({ params, $axios }) {
         const editais = [];
         const { slug } = params;
         const projects = await $axios.$get(`https://d1cqjkd0k5bd3q.cloudfront.net/upload/projects-nuxt/projects_config.json`);
 
-        await $axios.$get(`${apiURL}/instituicao/${projects[slug].id}/editais`)
+        await $axios.$get(`https://api-concurso.iesde.com.br/cms/instituicao/${projects[slug].id}/editais`)
             .then(response => {
                 if (response.data) {
                     response.data.forEach(element => {
@@ -957,7 +957,7 @@ export default {
             });
 
         editais.forEach(element => {
-            $axios.$get(`${apiURL}/edital/${element.id}/pacotes`)
+            $axios.$get(`https://api-concurso.iesde.com.br/cms/edital/${element.id}/pacotes`)
                 .then(response => {
                     if (response.data.length) {
                         let preparatorios = [];
@@ -1000,10 +1000,10 @@ export default {
 
     async fetch() {
         await this.editais.forEach(element => {
-            this.$axios.$get(`${this.$config.apiURL}/edital/${element.id}/pacotes`)
+            this.$axios.$get(`https://api-concurso.iesde.com.br/cms/edital/${element.id}/pacotes`)
                 .then(response => {
                     response.data.forEach(preparatorio => {
-                        this.$axios.$get(`${this.$config.apiURL}/preparatorio/${preparatorio.id}/arquivos`)
+                        this.$axios.$get(`https://api-concurso.iesde.com.br/cms/preparatorio/${preparatorio.id}/arquivos`)
                             .then(response => {
                                 const cargoNome = preparatorio.attributes.cargo;
                                 const cargoSplit = cargoNome.split('-');
