@@ -1,7 +1,5 @@
 <template>
-    <section
-        v-if="projects[slug].iniciais != 'assinatura' && projects[slug].iniciais != 'encceja' && projects[slug].iniciais != 'certificacoes-financeiras' && projects[slug].iniciais != 'certificacoes-ti' && projects[slug].iniciais != 'certificacoes-projetos' && projects[slug].iniciais != 'cursos-por-area-de-interesse'"
-        class="darkBgColor materiaisSection relative py-24 overflow-hidden">
+    <section class="darkBgColor materiaisSection relative py-24 overflow-hidden">
         <div class="container flex flex-col items-center justify-center">
             <h2 class="mainTextColor text-center">Materiais Gratuitos</h2>
             <div class="flex w-full flex-col justify-center md:mt-24 md:flex-row">
@@ -42,10 +40,12 @@
                         <div class="relative materiais">
                             <h3 class="relative z-20 text-white font-bold text-center mt-3">Temas mais
                                 cobrados</h3>
-                            <p class="text-base-white mt-6 px-2 lg:min-h-[140px]">Neste material você vai encontrar
+                            <p class="text-base-white mt-6 px-2 lg:min-h-[140px]">Neste material você vai
+                                encontrar
                                 uma
                                 análise dos
-                                últimos exames, feita por nossos professores, que mostra quais são os assuntos mais
+                                últimos exames, feita por nossos professores, que mostra quais são os assuntos
+                                mais
                                 cobrados na prova.</p>
                             <div class="relative">
                                 <ul class="w-full mt-6">
@@ -169,7 +169,8 @@
                         <div class="relative materiais">
                             <h3 class="relative z-20 text-white font-bold text-center mt-3">Checklist de estudos
                             </h3>
-                            <p class="text-base-white mt-6 px-2 lg:min-h-[140px]">Neste material você vai encontrar
+                            <p class="text-base-white mt-6 px-2 lg:min-h-[140px]">Neste material você vai
+                                encontrar
                                 um
                                 checklist para
                                 que você faça um acompanhamento dos estudos, marcando o que já foi estudado e
@@ -206,10 +207,35 @@
         </div>
     </section>
 </template>
+
 <script>
 export default {
-    name: "MateriaisGratuitos"
+    name: "MateriaisGratuitos",
+
+    props: {
+        materiais: {
+            type: Object
+        }
+    }
 }
 </script>
+
 <style lang="scss">
+.materiais {
+
+    &::before {
+        display: none;
+        position: absolute;
+        top: -28%;
+        content: '';
+        width: 100%;
+        height: 115px;
+        background-image: linear-gradient(0deg, var(--dark-bg-color), transparent);
+        z-index: 10;
+
+        @media screen and (min-width: 768px) {
+            display: block;
+        }
+    }
+}
 </style>

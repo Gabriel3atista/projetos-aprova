@@ -19,10 +19,11 @@
         </main>
         <div class="absolute flex w-full h-full left-0 bottom-0 z-10">
             <img class="h-full w-auto object-cover" :src="require('~/assets/images/certificacoes-financeiras/blur.svg')"
-                alt="Homem analisando gráficos pelo celular">
+                alt="Luz amarela">
         </div>
     </section>
 </template>
+
 <script>
 export default {
     name: "HomeCertificacoesFinanceiras",
@@ -42,13 +43,14 @@ export default {
     }
 }
 </script>
+
 <style lang="scss">
 .font-HeadingNow {
     font-family: 'HeadingNow', sans-serif;
 }
 
 .background-certificacoes-financeiras {
-    background-image: url('~assets/images/certificacoes-financeiras/image-background.png');
+    background-image: url('~assets/images/certificacoes-financeiras/image-background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

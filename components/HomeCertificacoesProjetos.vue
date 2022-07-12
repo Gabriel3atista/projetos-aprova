@@ -19,7 +19,7 @@
         </main>
         <div class="absolute flex w-full h-full left-0 bottom-0 z-10">
             <img class="h-full w-auto object-cover" :src="require('~/assets/images/certificacoes-projetos/blur.svg')"
-                alt="Pessoas organizando projetos">
+                alt="Luz vermelha">
         </div>
     </section>
 </template>
@@ -48,7 +48,7 @@ export default {
 }
 
 .background-certificacoes-projetos {
-    background-image: url('~assets/images/certificacoes-projetos/image-background.png');
+    background-image: url('~assets/images/certificacoes-projetos/image-background.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

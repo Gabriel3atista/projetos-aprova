@@ -184,6 +184,7 @@
         </div>
     </section>
 </template>
+
 <script>
 export default {
     name: "Questoes",
@@ -195,5 +196,6 @@ export default {
     }
 }
 </script>
+
 <style lang="scss">
 </style>

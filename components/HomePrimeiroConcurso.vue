@@ -27,10 +27,11 @@
         </main>
         <div class="absolute flex w-full h-full left-0 bottom-0 z-10">
             <img class="h-full w-auto object-cover" :src="require('~/assets/images/primeiro-concurso/blur.svg')"
-                alt="Mulher segurando livros">
+                alt="Luz amarela">
         </div>
     </section>
 </template>
+
 <script>
 export default {
     name: "HomePrimeiroConcurso",
@@ -50,6 +51,7 @@ export default {
     }
 }
 </script>
+
 <style lang="scss">
 .font-HeadingNow {
     font-family: 'HeadingNow', sans-serif;
@@ -58,7 +60,7 @@ export default {
 .background-primeiro-concurso {
 
     @media screen and (min-width:1024px) {
-        background-image: url('~assets/images/primeiro-concurso/image-background.png');
+        background-image: url('~assets/images/primeiro-concurso/image-background.webp');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;

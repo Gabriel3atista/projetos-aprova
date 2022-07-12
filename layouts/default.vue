@@ -1,6 +1,7 @@
 <template>
-    <Nuxt class="text-base text-gray" />
+    <Nuxt keep-alive class="text-base text-gray" />
 </template>
+
 <script>
 
 export default {

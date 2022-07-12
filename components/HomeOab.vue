@@ -1,5 +1,5 @@
 <template>
-    <main class="relative pt-12 transform duration-500 z-20" id="inicio">
+    <main class="relative transform duration-500 z-20" id="inicio">
         <section class="container relative flex justify-center items-center pt-14 pb-12 lg:justify-start lg:items-start"
             id="inicio">
             <div class="flex flex-col justify-center items-center lg:justify-start lg:items-start">
@@ -10,27 +10,11 @@
                         Exame de Ordem
                     </h3>
                 </div>
-                <div class="flex justify-center max-w-sm mt-10 p-4 rounded-xl bg-white shadow-lg z-30">
+                <div class="flex justify-center max-w-md mt-5 p-4 rounded-xl bg-white shadow-xl z-30">
                     <div class="relative flex flex-col items-center content-center">
-                        <span
-                            class="absolute py-1 px-3 -top-12 border-8 border-[#eaeff3] rounded-full bg-yellow text-white">Recomendado</span>
-                        <div class="flex flex-col items-center mt-5">
-                            <h3 class="uppercase font-bold mainTextColor">pacote</h3>
-                            <h2 class="uppercase font-bold mainTextColor">completo</h2>
-                            <ul class="mt-2">
-                                <li class="flex items-center my-4">
-                                    <span class="mr-3">
-                                        <svg class="mainTextColor" width="24" height="24" viewBox="0 0 24 24"
-                                            fill="none" aria-hidden="true">
-                                            <path
-                                                d="M9.00003 16.1702L4.83003 12.0002L3.41003 13.4102L9.00003 19.0002L21 7.00024L19.59 5.59024L9.00003 16.1702Z"
-                                                fill="currentColor" />
-                                        </svg>
-                                    </span>
-                                    Conteúdo organizado segundo histórico de aparições nas provas
-                                    anteriores.
-                                </li>
-                                <li class="flex items-center my-4">
+                        <div class="flex flex-col items-center">
+                            <ul>
+                                <li class="flex items-center mb-4">
                                     <span class="mr-3">
                                         <svg class="mainTextColor" width="24" height="24" viewBox="0 0 24 24"
                                             fill="none" aria-hidden="true">
@@ -92,8 +76,15 @@
                                     Videoaulas sem limites de visualização
                                 </li>
                             </ul>
-                            <Button>
-                                <a class="block w-full h-full py-3 px-6" @click="compraCurso(114941)">comprar</a>
+                            <div class="text-center">
+                                <p>10x de R$10,00 ou</p>
+                                <h3 class="mainTextColor font-bold"> R$100,00 <p class="text-base font-normal">à
+                                        vista
+                                    </p>
+                                </h3>
+                            </div>
+                            <Button class="mt-3">
+                                <a class="block w-full h-full py-3 px-6" @click="compraCurso(114944)">comprar</a>
                             </Button>
                         </div>
                     </div>
@@ -114,7 +105,7 @@ export default {
 
     data() {
         return {
-            buyItems: []
+            buyItems: [],
         }
     },
 
