@@ -72,7 +72,7 @@ export default {
     data() {
         return {
             pacotes: [],
-            buyItems: []
+            buyItems: [],
         }
     },
 
@@ -91,7 +91,7 @@ export default {
     },
 
     async fetch() {
-        await this.$axios.$get(`${this.$config.apiURL}/edital/${this.idEdital}/pacotes`)
+        await this.$axios.$get(`https://api-concurso.iesde.com.br/cms/edital/${this.idEdital}/pacotes`)
             .then(response => {
                 if (response.data.length) {
                     this.pacotes = this.pacotes.concat(response.data);

@@ -424,7 +424,7 @@ export default {
         };
     },
 
-    async asyncData({ params, $axios) {
+    async asyncData({ params, $axios }) {
         const apiURL = 'https://api-concurso.iesde.com.br/cms';
         const editais = [];
         const { slug } = params;
