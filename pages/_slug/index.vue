@@ -420,8 +420,7 @@ export default {
             telefone: "0800 727 6282",
             celularClickToCall: '',
             clickToCallStatus: 'default',
-            termos: false,
-            apiURL = 'https://api-concurso.iesde.com.br/cms';
+            termos: false
         };
     },
 
@@ -484,10 +483,10 @@ export default {
 
     async fetch() {
         await this.editais.forEach(element => {
-            this.$axios.$get(`${this.apiURL}/edital/${element.id}/pacotes`)
+            this.$axios.$get(`https://api-concurso.iesde.com.br/cms/edital/${element.id}/pacotes`)
                 .then(response => {
                     response.data.forEach(preparatorio => {
-                        this.$axios.$get(`${this.apiURL}/preparatorio/${preparatorio.id}/arquivos`)
+                        this.$axios.$get(`https://api-concurso.iesde.com.br/cms/preparatorio/${preparatorio.id}/arquivos`)
                             .then(response => {
                                 const cargoNome = preparatorio.attributes.cargo;
                                 const cargoSplit = cargoNome.split('-');
