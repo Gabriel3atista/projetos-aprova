@@ -3,12 +3,12 @@
         <div class="container">
             <div class="flex flex-col justify-center">
                 <h2 class="mainTextColor text-center">Preparatórios para {{ iniciais }} em vídeoaula</h2>
-                <h3 class="text-base-white text-center mt-6">Acesso ao curso até a data da prova</h3>
+                <h3 class="text-base-white text-center mt-6">Escolha o edital e garanta seu acesso</h3>
             </div>
-            <div class="mt-12">
+            <div class="mt-12" id="preparatorios">
                 <div class="buttons flex justify-start overflow-auto">
                     <button v-for="(edital, index) in editais" :key="index" @click="toggleTabs($event, index)"
-                        class="buttonTab font-bold text-2xl p-2 z-10 cursor-pointer rounded-t text-base-white"
+                        class="buttonTab h-12 font-bold text-2xl p-2 z-10 cursor-pointer rounded-t text-base-white"
                         :class="index == 0 ? 'active' : ''">
                         {{
                                 splitTabModal(edital.attributes.descricao)
@@ -16,10 +16,10 @@
                     </button>
                 </div>
                 <div v-for="(edital, index) in editais" :key="index" :id="index"
-                    class="modal flex flex-col items-center justify-center py-24 px-6 rounded-b relative border"
+                    class="modal flex flex-col items-center justify-center py-12 px-6 rounded-b relative border"
                     :class="index == 0 ? '' : 'hidden'">
                     <h3 class="text-white font-bold">{{ edital.attributes.descricao }}</h3>
-                    <ul class="mt-12">
+                    <ul class="mt-6">
                         <li class="mainTextColor">Inscrição:
                             <span class="text-base-white ml-2">
                                 {{
@@ -29,7 +29,16 @@
                                 }}
                             </span>
                         </li>
-                        <li class="mainTextColor mt-2">Prova 1ª fase:
+                        <li v-if="iniciais == 'oab'" class="mainTextColor mt-2">Prova 1ª fase:
+                            <span class="text-base-white ml-2">
+                                {{
+                                        edital.attributes.dt_prova ?
+                                            formatDate(edital.attributes.dt_prova) :
+                                            'A definir'
+                                }}
+                            </span>
+                        </li>
+                        <li v-else class="mainTextColor mt-2">Data da prova:
                             <span class="text-base-white ml-2">
                                 {{
                                         edital.attributes.dt_prova ?
